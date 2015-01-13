@@ -1,0 +1,20 @@
+created: 20150113200515759
+modified: 20150113202007434
+tags: RRG
+title: Actions
+type: text/vnd.tiddlywiki
+
+During a figure’s activation, it may perform two actions. The available actions are Attack, Move, Interact, Rest, and Special.<p>
+
+* The figure is not required to perform both actions.
+* Each action must be resolved completely before the figure performs its next action.
+* Special actions are denoted on components by the [img[Action.png]] icon.  A figure can choose to spend one of its actions to resolve a special action from one of its cards. If an ability has two [img[Action.png]] icons, it costs the figure two of its actions to resolve this ability.
+** When a special action contains multiple attacks, or a move and an attack, it still only requires the listed number of actions to perform.
+* Movement points can be spent before or after performing an action. If movement points are gained as part of a special action, they must be spent immediately during that action.
+* A figure can perform the same action multiple times during the same activation except as follows:
+** A non-hero figure can use only one of its actions to perform an attack per activation.
+** A figure can perform each special action only once per activation.
+* Numerous game effects allow figures to attack, rest, interact, or perform a move without performing an action.
+''Related Topics:'' [[Activation]], [[Attacks]], [[Movement]], [[Interact]], [[Rest]]
+
+From RG pg 3

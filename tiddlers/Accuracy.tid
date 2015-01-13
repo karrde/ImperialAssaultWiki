@@ -1,0 +1,14 @@
+created: 20150113200228424
+modified: 20150113200759669
+tags: RRG
+title: Accuracy
+type: text/vnd.tiddlywiki
+
+Ranged attacks ([img[Ranged Attack.png]]) need enough Accuracy to not miss the target figure. The amount of Accuracy needed is equal to the number of spaces the attacker is away from the target (see “[[Counting Spaces]]”).<p>
+
+* The attacker’s total Accuracy is determined by adding all numbers rolled on dice, and applying any Accuracy modifiers provided by abilities.
+* While attacking an adjacent figure with a ranged attack, the attacker needs at least 1 Accuracy.
+
+''Related Topics:'' [[Attacks]], [[Counting Spaces]], [[Line of Sight]], [[Miss]]
+
+From Rules Refernce Guide page 3

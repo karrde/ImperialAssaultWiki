@@ -1,0 +1,22 @@
+created: 20150113200842871
+modified: 20150113202017926
+tags: RRG
+title: Activation
+type: text/vnd.tiddlywiki
+
+During each Activation Phase, each figure receives one activation. During a figure’s activation, it performs up to two actions.<p>
+
+* Players alternate resolving activations. After a player finishes resolving an activation, one of his opponents then resolves an activation.
+* While activating a group of two or more figures, the player resolves two actions for each figure in that group before his opponent resolves an activation. He must resolve both actions for one figure before activating the next figure.
+* During a campaign:
+** A Rebel player performs the first activation.
+** When it is their opportunity to resolve an activation, the Rebel players choose which Rebel figure will activate.
+** A hero can suffer 1[img[Strain.png]] (strain) during his activation to gain 1 movement point. He may do this up to ''twice'' per activation.
+** If a hero has two activation tokens, he ''cannot resolve his second activation'' until after each hero has resolved its first activation.
+** A hero readies all of his Item and Class cards at the start of his activation.
+** In a three hero game, Rebel players choose one hero to claim a second activation token at the end of each round.
+* A figure ends its activation after performing both of its actions and spending its remaining movement points. A player may choose to end his figure’s activation without performing both actions or spending all of its movement points. Remaining actions and unspent movement points do not carry over to a figure’s next activation.
+* After resolving an activation, exhaust the figure’s activation token (for heroes) or Deployment card (for all other figures).
+* If all friendly groups are exhausted, that player cannot perform any more activations this round. The player’s opponent(s) continue to resolve activations until all groups are exhausted.
+* Abilities that trigger “during” a figure’s activation are used before or after either of that figure’s two actions.
+''Related Topics:'' [[Active Missions]], [[Exhaust]], [[Deployment Cards]], [[Group]]

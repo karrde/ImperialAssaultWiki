@@ -1,0 +1,23 @@
+created: 20150113193844628
+modified: 20150113200808993
+tags: RRG
+title: Abilities
+type: text/vnd.tiddlywiki
+
+All text on cards and hero sheets are referred to as abilities. Abilities provide special effects that can be performed above and beyond the standard rules of the game.<p>
+Abilities can have one or more requirements. If the requirements cannot be met, the ability cannot be performed.<p>
+
+* If an ability is “used,” it can be triggered multiple times each round, but it can only be triggered once per timing instance. For example, an ability that says, “Use whie attacking to apply +1[img[Damage.png]] to the attack results,” can only be triggered once during each attack.
+* Some abilities have costs which must be paid in order to resolve the ability. Here is a list of the different types of ability costs:
+** [img[Action.png]]: These abilities are performed as an action.
+** [img[Surges.png]]: A surge ([img[Surges.png]]) result must be spent during an attack to use this ability.
+** [img[Strain.png]]: These abilities appear in the campaign. The hero must suffer the listed amount of [img[Strain.png]] (strain) without exceeding his endurance in order to use this ability.
+** [img[Threat.png]]: These abilities appear in the campaign. The Imperial player must spend the listed amount of [img[Threat.png]] (threat) to use this ability.
+** ''Exhaust'': The player must exhaust the card to use this ability.
+** ''Deplete'': The player must deplete the card to use this ability.
+* A figure can perform each special action ability (listed on his cards by [img[Action.png]]) only once per activation.
+* An ability that can be used “during your activation” can be used before or after performing an action during an activation. It ''cannot'' be used while resolving an action.
+* An ability that causes one or more figures to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack and does not count toward a figure’s attack limitations.
+''Related Topics:'' [[Attacks]], [[Deplete]], [[Exhaust]], [[Endurance]], [[Strain]], [[Threat]]
+
+From Rules Reference Guide pg 2
