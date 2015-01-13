@@ -1,0 +1,30 @@
+created: 20150113220225232
+modified: 20150113221105568
+title: Allies
+type: text/vnd.tiddlywiki
+
+During a campaign, players can gain access to special figures as mission rewards. These figures are collectively referred to as allies.<p>
+
+* All figures corresponding to Rebel Deployment cards are allies. All figures corresponding to unique Imperial Deployment cards (such as “Darth Vader”) are villains. Villains follow all general ally rules listed in this section.
+* Allies cannot be used in a mission until claimed as a reward or granted by another game effect.
+* Allies follow all rules for other figures that have Deployment cards. The ally is considered to be friendly to any other figures controlled by that player and other friendly players.
+* When an ally is defeated, it is removed from the map and cannot be redeployed for the remainder of the mission. The ally may be used in future missions following normal rules.
+* Certain missions can feature allies who have no corresponding Deployment card. These allies activate during the round as normal. Mark the figure with a strain token when it has activated.
+* In the core game, allies are represented by tokens instead of plastic figures. The art on each token matches the art on the corresponding Deployment card.
+
+!! Villains
+Imperial allies are referred to as villains. They follow all of the same rules as allies, in addition to the following:<p>
+
+* Once gained as a reward, villains (such as “Darth Vader”) can be brought into any mission as an open group.
+
+!! Rebel Allies
+Once Rebel players gain an ally as a reward, they can bring that ally to any mission following these rules:<p>
+
+* <div>Immediately after deploying hero figures to the map during setup, Rebel players can choose to deploy up to one ally. They place all figures corresponding to the ally’s Deployment card as close to the Rebel entrance token as possible.<br>
+The Imperial player then gains threat equal to the deployment cost listed on the Ally card and may immediately resolve an optional deployment. When using an ally in a mission, give the ally’s Deployment card to one Rebel player. When it is their opportunity to resolve an activation, Rebel players can choose to activate an ally, collectively controlling it. After activating an ally, exhaust its Deployment card, and then the Imperial player performs an activation. Rebel allies are often rewarded from green Side Mission cards.
+</div>
+* Rebel allies are not heroes. During their activation, they cannot interact with crates or rest. Rebel allies can perform only one attack each activation, and follow all other rules for non-hero figures.
+* The term “Rebel figures” includes all heroes as well as Rebel allies.
+* If an ally has both a regular and elite Deployment card, only the regular card can be used as an ally. If an ally is rewarded to the heroes and the heroes have already earned that ally, they can use either the elite or regular Deployment card.
+* Some missions give heroes control of a specific ally for that mission. These figures follow all normal rules for allies but have special deployment rules and do not give the Imperial player additional threat or an optional deployment. These figures do not restrict heroes from choosing to deploy another ally to the mission.
+''Related Topics:'' [[Open Groups]], [[Deployment]], [[Missions]], [[Unique]]

@@ -1,0 +1,43 @@
+created: 20150113225231752
+modified: 20150113232414966
+title: Attacks
+type: text/vnd.tiddlywiki
+
+Figures perform attacks to attempt to defeat hostile figures.<p>
+Each attack uses an attack type (Melee: [img[Melee Attack.png]] or Ranged: [img[Ranged Attack.png]]), attack dice, and B (surge) abilities. For a hero, this information is found on his weapon Item card. For any other figure, this information is found on its Deployment card.<p>
+
+!! Steps of an Attack
+When a figure performs an attack, it resolves the following steps:<p>
+
+# <div>''Declare Target:'' Based upon its attack type ([img[Melee Attack.png]] or [img[Ranged Attack.png]]), the figure performing the attack (referred to as the attacker) declares one eligible target for the attack (referred to as the target).<br>
+For a melee attack ([img[Melee Attack.png]]), an eligible target is any hostile figure adjacent to the attacker. For a ranged attack ([img[Ranged Attack.png]]), an eligible target is any hostile figure within line of sight of the attacker.
+</div>
+# ''Roll Dice:'' The attacker rolls his attack dice ''at the same time'' as the defender rolls defense dice (listed under “Defense” on the target figure’s Hero sheet or Deployment card).
+# <div>''Rerolls:'' If players have any effects that reroll dice, they are resolved now.<br>
+Each die may be rerolled only ''once per attack'' regardless of who is rerolling the die.
+</div>
+# ''Apply Modifiers:'' If players have any effects that gain or remove icons or Accuracy, they are applied at this time. This includes spending [img[Evade.png]] (evade) results to remove [img[Surges.png]] results. Any [img[Surges.png]] abilities that provide modifiers are not resolved until step 5.
+# ''Spend Surges:'' If the attacker has any [img[Surges.png]] results, he may spend them to trigger special abilities.
+# ''Check Accuracy:'' If performing a ranged attack ([img[Ranged Attack.png]]) the total Accuracy value must be equal to or greater than the number of spaces the target is away from the attacker. (See “Counting Spaces” on page 9). If the total Accuracy value is less than this number, the attack is a miss.
+# ''Calculate Damage:'' The total number of [img[Block.png]] (block) results is subtracted from the total number of [img[Damage.png]] (damage) results, and then the target suffers all remaining [img[Damage.png]].
+
+!! Special Situations Regarding Attacks
+
+* Unlike heroes, a figure that has a Deployment card can use only ''one'' of its actions to attack per activation. This includes using special actions that involve performing one or more attacks (such as the Nexu’s “Pounce” or Darth Vader’s “Brutality”).
+** If an ability allows a figure to perform an attack ''outside of its activation'', this attack does not count toward the limit of one attack per activation.
+* A figure cannot target an empty space with an attack.
+* A figure cannot target a friendly figure with an attack.  Note that friendly figures may suffer [img[Damage.png]] from some abilities, such as Blast.
+* Dice rolled by the attacker are referred to as the <span class="keyword">attack pool</span>, while all dice rolled by the defender are referred to as the <span class="keyword">defense pool</span>.
+* Red, blue, yellow, and green dice are referred to as <span class="keyword">attack dice</span>. Black and white dice are referred to as <span class="keyword">defense dice</span>.
+* The keyword abilities Blast and Cleave, and any keyword that causes a condition, all require the target of the attack to suffer one or more [img[Damage.png]] to trigger.
+* Any ability that is resolved “while attacking” or “while defending” can be used at any point during the attack with the following exceptions:
+** An ability that adds dice to a dice pool can only be used immediately before step 2 of the attack.
+** An ability that allows a player to reroll dice can only be used during step 3 of the attack.
+** An ability that allows a player to modify die results can only be used during step 4 of the attack.
+* Some abilities allow players to perform an attack with a hostile figure. To resolve such an attack, the player resolving the ability controls the hostile figure for the duration of that attack.
+** The player resolving the ability chooses the target of the attack. All figures are considered hostile when choosing a target for this attack. The figure cannot target itself.
+** The player resolving the ability rolls the attack dice and can use any of the figure’s abilities as if the figure were his own.
+* An ability that does not involve an attack but causes a figure to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack.
+* During a campaign, a hero performing an attack may spend 1[img[Surges.png]] to recover 1[img[Strain.png]]. Limit once per attack.
+* During a campaign, when a hero declares the target of his attack he must also declare one of his weapons to use for this attack.
+''Related Topics:'' [[Blast]], [[Cleave]], [[Conditions]], [[Conflicts]], [[Convert]], [[Counting Spaces]], [[Damage]], [[Health]], [[Item Cards]], [[Line of Sight]], [[Melee Attack]], [[Miss]], [[Surges]], [[Ranged Attack]], [[Target]]

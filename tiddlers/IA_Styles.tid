@@ -1,0 +1,10 @@
+created: 20150113231455827
+modified: 20150113231917699
+tags: $:/tags/Stylesheet
+title: IA_Styles
+type: text/css
+
+.keyword {
+  font-variant: small-caps;
+  font-weight: bold;
+}
