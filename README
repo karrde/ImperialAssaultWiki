@@ -1,0 +1,8 @@
+Imperial Assault Wiki
+---------------------
+
+Using TiddlyWiki to provide a crosslinked rules document and other reference material for the Imperial Assault game from FFG.
+
+Two options for use are available, a NodeJS system that has multiple files for a complete system or a single HTML file.  
+
+Contributions should utilize the NodeJS version, instructions can be found here: http://tiddlywiki.com/
