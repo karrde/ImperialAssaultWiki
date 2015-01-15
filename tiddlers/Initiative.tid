@@ -1,0 +1,13 @@
+created: 20150115192232288
+modified: 20150115192317730
+title: Initiative
+type: text/vnd.tiddlywiki
+
+During a skirmish, one player has the initiative token each game round. The player with initiative resolves the first activation during that game round.
+
+* At the start of the game, the player whose army has the lowest deployment cost chooses which player starts the game with initiative. If both players have the same deployment cost, initiative is determined randomly by each player rolling one blue die. The player with the highest Accuracy rolled starts with initiative (reroll ties as necessary).
+* The player who starts the game with initiative chooses his deployment zone and deploys his figures first. Then his opponent deploys figures to the other deployment zone.
+* The player with initiative breaks all ties for mission rules. For example, if the mission rule moves a token one space toward the closest figure and there are two figures equidistant, the player with initiative chooses which figure the token moves toward.
+* During step 4 of the Status Phase, the player with initiative passes the initiative token to his opponent.
+
+''Related Topics:'' [[Activation]], [[Conflicts]], [[Deployment]], [[Status Phase]]

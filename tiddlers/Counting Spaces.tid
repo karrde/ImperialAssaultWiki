@@ -1,0 +1,11 @@
+created: 20150114032530504
+modified: 20150114032638702
+title: Counting Spaces
+type: text/vnd.tiddlywiki
+
+Many effects require players to measure the distance between two spaces. To determine this number, the player counts the number of movement points it would take for a figure to move from one space to the other.<p>
+Impassible terrain, figures, and difficult terrain can be moved into and through without costing additional movement point for this measurement. This measurement cannot go through walls, doors, or blocking terrain.<p>
+
+* If a figure’s ability specifies to choose something within a set number of spaces, players count spaces from ''the figure using the ability''. Likewise, if an ability specifies to choose an adjacent figure, the figure must be adjacent to the figure using the ability.
+
+''Related Topics:'' [[Doors]], [[Terrain]], [[Walls]]

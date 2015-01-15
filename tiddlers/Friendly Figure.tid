@@ -1,0 +1,12 @@
+created: 20150115185420622
+modified: 20150115190201182
+title: Friendly Figure
+type: text/vnd.tiddlywiki
+
+All figures belonging to a player are friendly toward one another.
+
+*A figure is friendly to itself.
+* During a campaign, all [img[Rebel.png]] figures are friendly toward one another. In addition, all [img[Imperial.png]] figures and [img[Mercenary.png]] figures are friendly toward one another.
+* Players cannot target friendly figures with attacks. 
+
+''Related Topics:'' [[Affiliation]], [[Hostile Figure]]

@@ -1,0 +1,12 @@
+created: 20150115185310811
+modified: 20150115185358357
+title: Focus
+type: text/vnd.tiddlywiki
+
+Focused is a condition that provides the figure with an additional green die the next time the figure attacks or performs a test. The condition is then discarded.
+
+* A figure with this condition must gain the extra die when it attacks or performs an attribute test. The player cannot choose to save the condition for a later attack or test.
+* If a figure has the “Focus” keyword, it may become focused after attacking. If the target suffers one or more [img[Damage.png]] (damage), the attacker becomes Focused after the attack resolves.
+* If a figure gains the Focused condition after rolling dice for an attack or test, it cannot use the condition until the next time it attacks or performs a test.
+
+''Related Topics:'' [[Damage]], [[Conditions]]

@@ -1,5 +1,5 @@
 created: 20150113181837451
-modified: 20150113220149054
+modified: 20150115194629613
 tags: RRG
 title: Rules Reference Guide Index
 type: text/vnd.tiddlywiki
@@ -151,7 +151,7 @@ type: text/vnd.tiddlywiki
 * [[Ready]]
 * [[Rebel Upgrade Stage]]
 * [[Recover]]
-* [[Regular Figure|Elite Figure]
+* [[Regular Figure|Elite Figure]]
 * [[Reinforce]]
 * [[Reroll]]
 * [[Reserved Groups]]
@@ -221,8 +221,8 @@ type: text/vnd.tiddlywiki
 
 * [[Affiliation]] 
 ** [img[Rebel.png]]: Rebel
-** [img[Imperial.png]]: [[Imperial]]
-** [img[Mercenary.png]]: [[Mercenary]]
+** [img[Imperial.png]]: Imperial
+** [img[Mercenary.png]]: Mercenary
 
 * [[Attributes]]
 ** [img[Strength.png]]: Strength

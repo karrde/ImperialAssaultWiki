@@ -1,0 +1,15 @@
+created: 20150115190242817
+modified: 20150115190343618
+title: Group
+type: text/vnd.tiddlywiki
+
+All figures that correspond to a single Deployment card or Hero sheet are a group.
+
+* A group can consist of one or more figures.
+* Each Deployment card shows a number of bars below its deployment cost. This is the starting group size. This number of figures is placed when deploying this group.
+* While activating a group of two or more figures, each figure resolves its actions independently. Resolve both actions for one figure before resolving actions for the next figure.
+* When a Deployment card for a group is exhausted, all figures in that group are exhausted and cannot perform activations.
+* If there are multiple versions of the same figure in play (regular or elite), each group of these figures needs to be differentiated.
+** To do this, players can place an ID token on the Deployment card and apply matching ID Stickers to the bases of the corresponding figures.
+
+''Related Topics:'' [[Deployment]], [[Elite Figure]], [[Exhaust]]

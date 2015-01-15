@@ -1,5 +1,5 @@
 created: 20150113231455827
-modified: 20150113231917699
+modified: 20150115194300320
 tags: $:/tags/Stylesheet
 title: IA_Styles
 type: text/css
@@ -7,4 +7,9 @@ type: text/css
 .keyword {
   font-variant: small-caps;
   font-weight: bold;
+}
+
+.trait {
+  font-variant: small-caps;
+  font-style: italic;
 }

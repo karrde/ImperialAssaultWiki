@@ -1,0 +1,11 @@
+created: 20150114032415726
+modified: 20150114032452211
+title: Convert
+type: text/vnd.tiddlywiki
+
+Some abilities convert one die result into another. When resolving one of these abilities, the old result is treated as if it did not exist, and is completely replaced by the new result.
+
+* These abilities are resolved during the Apply Modifiers step of an attack, unless they require a [img[Surges.png]] (surge).
+* After being converted, the new result may be converted again by other effects.
+
+''Related Topics:'' [[Attacks]]

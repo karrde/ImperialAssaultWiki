@@ -1,0 +1,28 @@
+created: 20150115010300692
+modified: 20150115010922583
+title: Deployment
+type: text/vnd.tiddlywiki
+
+Deployment is the primary method by which figures are placed on the map during a mission.<p>
+When a player deploys figures, he places the Deployment card faceup and in the ready position on the table. Then, he places all figures from that group in and as close as possible to the location indicated by the campaign guide or deployment zone.<p>
+
+!! Campaign Deployment
+
+The Imperial player deploys figures throughout the course of every mission. The “Deployment and Setup” box in the mission’s rules lists which figures the Imperial player can deploy throughout the mission (see “[[Mission Setup]]”).
+
+* Deployment location is determined by named tiles or icons, such as deployment points, on the map.
+* When the location for a figure’s deployment is not specified, it is deployed as close as possible to any active deployment point shown in the mission’s diagram, chosen by the Imperial player. This includes the space containing the deployment point.
+** Green deployment points are active at the start of each mission. Red, blue, and yellow deployment points are not active ''until specified'' by the mission’s rules, even if another rule allows a one-time deployment to any of those points.
+* When the Imperial player resolves an ''optional deployment'', for example during the Status Phase, the Imperial player can deploy any Deployment cards from his hand. He must spend [img[Threat.png]] (threat) equal to the group’s deployment cost, and then he deploys all figures in that group to any active deployment point. Figures deployed as initial or reserve groups do not cost [img[Threat.png]] to deploy.
+* When an initial or reserved group is defeated, except for unique figures, the Deployment card is returned to the Imperial player’s hand and can be optionally deployed during the Status Phase.
+* The Imperial player may deploy any number of groups during each optional deployment.
+* Deployment points on the mission’s diagram are hidden information. The Imperial player must follow these icons but cannot show the map to the Rebel players.
+
+!! Skirmish Deployment
+
+During setup of a skirmish, players place all of their figures within their deployment zone.
+
+* The player who starts the game with initiative chooses his deployment zone, and deploys his figures first. His opponent then deploys to the other deployment zone.
+* If all of a player’s figures do not fit in his deployment zone, he must remove and redeploy figures to fill as many spaces of this zone as possible. Then he deploys any remaining figures as close to the deployment zone as possible (see “[[Counting Spaces]]”).
+
+''Related Topics:'' [[Initial Groups]], [[Initiative]], [[Hidden Information]], [[Mission Setup]], [[Open Groups]], [[Reserved Groups]], [[Status Phase]], [[Threat]]

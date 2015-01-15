@@ -1,0 +1,14 @@
+created: 20150115192355269
+modified: 20150115192451872
+title: Interact
+type: text/vnd.tiddlywiki
+
+Figures can interact to perform a variety of different tasks. For example, a figure can open a door by performing an interact.
+
+* A figure can perform an interact as an action.
+* A figure must be in the same space as or adjacent to a token in order to interact with it.
+* During a campaign, a hero can interact with a crate token to claim the token and draw one Supply card.
+* Mission rules will often list different tasks that can be performed by interacting, such as using terminals or retrieving tokens.
+* If the mission rules have an attribute icon in parentheses after the target of the interact, the figure must pass the corresponding attribute test in order to resolve the effect of the interact.
+
+''Related Topics:'' [[Actions]], [[Activation]], [[Doors]], [[Crate Tokens]], [[Retrieving Tokens]], [[Supply Cards]], [[Terminal Tokens]]

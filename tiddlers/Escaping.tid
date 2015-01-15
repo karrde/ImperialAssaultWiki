@@ -1,0 +1,10 @@
+created: 20150115012140525
+modified: 20150115012207605
+title: Escaping
+type: text/vnd.tiddlywiki
+
+Certain mission rules can allow a figure to escape. In order to escape, the figure must spend one movement point while in or adjacent to the space indicated in the mission’s rules.
+
+After a figure escapes, remove that figure from the map. That figure cannot be affected by abilities, and cannot perform activations.
+
+''Related Topics:'' [[Abilities]], [[Activation]], [[Movement]]

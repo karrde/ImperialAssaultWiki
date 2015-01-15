@@ -1,0 +1,15 @@
+created: 20150115011521077
+modified: 20150115011626391
+title: Doors
+type: text/vnd.tiddlywiki
+
+Doors are represented by stand-up tokens placed on the map. Each mission specifies where doors are placed.
+
+* Figures cannot move, trace line of sight, or count spaces through doors.
+* A figure can interact with a door to open it; the player removes the door token from the map.
+* If an effect closes a door, place a door token on the map as shown on the mission’s map. Figures ''cannot voluntarily close doors''.
+* If a large figure occupies spaces on both sides of a door when it closes, that figure is pushed to the closest empty space (see “[[Push]]”).
+* The spaces that share an edge with a door are the only spaces that are considered to be adjacent to that door.
+* Some missions specify that certain doors are locked. Locked doors cannot be opened except as specified in the mission rules.
+
+''Related Topics:'' [[Attacking Objects]], [[Counting Spaces]], [[Interact]], [[Line of Sight]], [[Push]]

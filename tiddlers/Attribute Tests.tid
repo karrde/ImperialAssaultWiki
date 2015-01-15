@@ -1,0 +1,15 @@
+created: 20150114023444327
+modified: 20150114024218233
+title: Attribute Tests
+type: text/vnd.tiddlywiki
+
+During a campaign, some effects instruct figures to perform attribute tests. This is listed by placing the attribute’s icon in parentheses. For example, a mission rule may say, “A hero can interact with a terminal ([img[Tech.png]]).” This means that the hero can interact with a terminal to test his [img[Tech.png]] attribute.<br>
+To perform a test, the player rolls the dice listed on his Hero sheet directly below that attribute icon. If he rolls one or more B results, he passes the test. If he does not roll any [img[Surges.png]] results, he fails the test.
+
+* Each game effect that requires an attribute test specifies the outcome of passing or failing the test. If only one outcome of the test is specified, the other outcome has no effect.
+* Sometimes an interact requires a figure to pass an attribute test to resolve an effect. The effect listed after the word “to” is resolved only if the figure passes the test.
+* Each [img[Surges.png]] rolled is a ''success''. If an attribute test lists a number directly before the icon, multiple successes are needed in order to pass the test. If he does not roll the required number of successes, he fails the test but places one strain token near the subject of the test for each success. The next time any figure attempts this test, it discards these strain tokens and applies +1[img[Surges.png]] to his test results for each token discarded.
+* If an attribute test gives the option of multiple attributes, such as “([img[Tech.png]] or [img[Strength.png]]),” the figure chooses one of the attributes to test. If this test also requires multiple successes, the number is written before the first icon. For example, (2 [img[Tech.png]] or [img[Strength.png]]) requires two successes, from any combination of [img[Tech.png]] and [img[Strength.png]] attribute tests.
+* Only heroes roll dice for attribute tests. If an elite figure is required to perform an attribute test, it automatically receives 1 success. If a regular figure is required to perform a test, it automatically fails the test.
+
+''Related Topics:'' [[Attributes]], [[Elite Figure]], [[Interact]]

@@ -1,0 +1,8 @@
+created: 20150115190425370
+modified: 20150115190445147
+title: Health
+type: text/vnd.tiddlywiki
+
+When a figure has damage tokens equal to its Health, it is defeated. Health is listed on the figure’s Deployment card or Hero sheet. A healthy hero who is defeated flips his Hero sheet to its wounded side.
+
+''Related Topics:'' [[Damage]], [[Defeated]], [[Healthy]]

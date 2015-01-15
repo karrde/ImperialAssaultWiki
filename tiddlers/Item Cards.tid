@@ -1,0 +1,27 @@
+created: 20150115192805400
+modified: 20150115194145452
+title: Item Cards
+type: text/vnd.tiddlywiki
+
+During a campaign, heroes gain access to a wide range of Item cards. Item cards include weapons, armor, equipment, and modifications. All Item cards that a hero has are placed faceup in his play area.
+
+* Weapons are identified by having the word “Attack” listed in a box above dice icons and a O or P icon. Weapons are used to perform attacks. Each other Item card is used as instructed on the card.
+* Abilities on a weapon cannot be used while resolving an attack with a different weapon.
+* There are three decks of Item cards, differentiated by card back. The numeral on the back of the Item card is the card’s tier. During the Rebel Upgrade Stage, Rebel players draw a number of Item cards from the tier deck listed in the Campaign Log.
+* Some Class cards and Reward cards are also Item cards. These cards are identified as Item cards by their card face. Each hero in the core set has one starting Item card in his Class deck.
+* Before deploying heroes to a mission, players may freely give any of their Item cards to other heroes. Item cards cannot be traded while resolving a mission.
+* There is no limit to the number of Item cards a hero can have; however, each hero is limited in what he can bring to an individual mission: 1 Armor ([img[Armor.png]]), 2 Weapons, and 3 Equipment ([img[Equipment.png]]).
+** If a hero exceeds this limit after deploying his hero to the map, he must choose which cards to leave behind. Place the chosen cards aside; they cannot be used during this mission. These cards are returned to the player at the end of the mission.
+** If a hero brings 2 weapons to a mission, when he declares his attack, he must choose 1 of the weapons to use for that attack.
+* Item cards list a number of traits under the artwork (such as <span class="trait">Pistol</span>). Traits have no gameplay effect but may be referred to by other components.
+
+!! Modifications
+Some Item cards have the Modification trait. These cards have no effect on their own and must be attached to (placed on) an Item card matching its icon (either [img[Ranged Attack.png]] or [img[Melee Attack.png]]). Once attached to an item, the hero can use the modification’s ability while performing an attack with that weapon.
+
+* Each weapon is limited in the number of modifications that can be attached to it. This limit is listed as a number of colored bars on the bottom-right corner of the card. If an Item card does not have any modification bars, modifications cannot be attached to it.
+￼￼* Modifications are not weapons.
+* When a hero purchases an Item card, and before each mission, heroes may attach any of their modifications to other Item cards. Heroes may also choose to remove modifications from their Item cards and keep them in their play area unattached. Abilities on modifications that are not attached to Item cards cannot be used.
+* While resolving a mission, modifications cannot be attached to or removed from Item cards.
+* An Item card ''cannot'' have more than one modification with the same trait attached to it at the same time, excluding the Modification trait. For example, a weapon can only have one Barrel modification attached to it.
+
+''Related Topics:'' [[Attacks]], [[Campaign Setup]], [[Credits]], [[Play Area]]

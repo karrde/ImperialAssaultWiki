@@ -1,0 +1,13 @@
+created: 20150115191337121
+modified: 20150115191457976
+title: Imperial Upgrade Stage
+type: text/vnd.tiddlywiki
+
+During a campaign, the Imperial player can purchase new cards during each Imperial Upgrade Stage. He can first spend experience points to purchase new Class cards and then influence to purchase new Agenda cards.
+
+* To purchase Class cards, the Imperial player examines all cards in his Class deck and may purchase as many cards as he wishes by spending XP equal to the cards’ costs. Once purchased, he retains the cards for the remainder of the campaign.
+* To purchase Agenda cards, the Imperial player shuffles the Agenda deck and secretly draws four of them. He may purchase any of these cards by spending influence equal to the cards’ costs.
+** The Imperial player ''does not'' show his drawn Agenda cards to the heroes. Any cards he does not purchase are shuffled back into the deck without being revealed.
+** Most Agenda cards are immediately read aloud and resolved when purchased. The only exception is if the card instructs the player to “keep this card secret.” The Imperial player keeps the card and resolves the effect when he plays it (see “[[Types of Agenda Cards]]”).
+
+''Related Topics:'' [[Agenda Cards]], [[Class Cards]], [[Experience Points]], [[Influence]]

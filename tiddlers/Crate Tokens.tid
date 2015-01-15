@@ -1,0 +1,15 @@
+created: 20150115004659518
+modified: 20150115004744356
+title: Crate Tokens
+type: text/vnd.tiddlywiki
+
+Many missions place crate tokens on the map.
+
+* Crate tokens do not block line of sight or figure movement. Figures may move through and end their movement in the same space as a crate token.
+* If a crate token is in a space containing terrain, the terrain in the space still takes effect. For example, a space with blocking terrain that contains a crate token still blocks line of sight, and figures cannot enter the space.
+* During a campaign, heroes can interact with a crate to claim the token and draw a Supply card.
+* During a campaign, at the end of each mission, heroes receive 50 credits for each crate token they claimed during that mission.
+* The color of crate tokens has no game effect unless specified by the mission.
+* A crate token with its colored side down cannot be examined by players. This color is hidden information.
+
+''Related Topics:'' [[Claim]], [[Credits]], [[Hidden Information]], [[Interact]], [[Supply Cards]]

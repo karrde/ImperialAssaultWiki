@@ -1,0 +1,13 @@
+created: 20150115011347082
+modified: 20150115011447784
+title: Difficult Terrain
+type: text/vnd.tiddlywiki
+
+Difficult terrain is represented by a solid blue line surrounding a space of the map. A figure must spend one additional movement point to enter a space containing difficult terrain.
+
+* A figure does not need to spend additional movement points to ''exit'' a space containing difficult terrain.
+* Line of sight can be traced through difficult terrain.
+* If a space contains a hostile figure and difficult terrain, other figures must spend two additional movement points to enter the space (one for the figure and one for the terrain).
+* When a large figure enters difficult terrain, it spends only one additional movement point, regardless of the number of spaces of difficult terrain that it occupies.
+
+''Related Topics:'' [[Enter]], [[Exit]], [[Line of Sight]], [[Terrain]]

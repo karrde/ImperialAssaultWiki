@@ -1,0 +1,11 @@
+created: 20150115191023764
+modified: 20150115191142249
+title: Impassible Terrain
+type: text/vnd.tiddlywiki
+
+Impassible terrain is represented by a dashed red line surrounding a space of the map. A figure cannot enter a space containing impassible terrain.
+
+* Some times impassible terrain is only on one edge of a space. Figures cannot move or be pushed through this edge. Large figures cannot move onto, be pushed through, or be placed on an impassible edge unless they have a special ability that allows this, such as Massive or Mobile.
+* Line of sight can be traced through impassible terrain.
+
+''Related Topics:'' [[Line of Sight]], [[Massive]], [[Mobile]], [[Movement]], [[Place]], [[Push]], [[Terrain]]

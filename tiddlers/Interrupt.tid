@@ -1,0 +1,15 @@
+created: 20150115192623676
+modified: 20150115192711866
+title: Interrupt
+type: text/vnd.tiddlywiki
+
+Some abilities use the term interrupt. When resolving an interrupt ability, players pause the current action of the game and resolve the interrupting ability. After the effect is resolved, players resume playing from the point that was interrupted. For example, if an attack is interrupted, the interrupting ability is fully resolved before players finish resolving the attack.
+
+* It is possible for a figure to interrupt its own activation.
+* <div>If an interrupt makes the current action or ability invalid, that effect is not resolved. Any costs used to resolve that effect are still paid.<br>
+For example, if a player plays a Command card that allows it to attack a figure, and the figure interrupts to move out of line of sight, the Command card is discarded and the action spent on the attack is lost.
+</div>
+* If two effects interrupt the same action, the player currently resolving his activation decides the order in which they are resolved.
+* A figure’s action cannot be interrupted while the figure is in a space containing another figure.
+
+''Related Topics:'' [[Conflicts]]

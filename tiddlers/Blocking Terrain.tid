@@ -1,0 +1,10 @@
+created: 20150114025620749
+modified: 20150114025732092
+title: Blocking Terrain
+type: text/vnd.tiddlywiki
+
+Blocking terrain is represented by a solid red line surrounding a space of the map. Figures cannot enter, be pushed into, count spaces through, or trace line of sight through blocking terrain.
+
+* Some times blocking terrain is only on one edge of a space. Figures cannot move through or be pushed through this edge. Large figures cannot move onto, be pushed through, or be placed on a blocking edge unless they have a special ability that allows this, such as Massive or Mobile.
+
+''Related Topics:'' [[Massive]], [[Mobile]], [[Movement]], [[Line of Sight]], [[Place]], [[Push]], [[Terrain]]

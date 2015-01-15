@@ -1,0 +1,13 @@
+created: 20150114024728362
+modified: 20150114025032266
+title: Blast
+type: text/vnd.tiddlywiki
+
+The Blast keyword appears on some cards. If the target of this figure’s attack suffers one or more [img[Damage.png]] (damage), ''each figure and object'' adjacent to the target space suffers [img[Damage.png]] equal to the Blast value. For example, “Blast 1[img[Damage.png]]” causes each figure and object adjacent to the target to suffer 1[img[Damage.png]].
+
+* This [img[Damage.png]] affects both ''hostile and friendly'' figures adjacent to the target.
+* If the target is a large figure, Blast only affects figures adjacent to the targeted space and does not affect the target figure.
+* The [img[Damage.png]] suffered by Blast is not prevented by [img[Block.png]].
+* If an attack inflicts a condition, such as Stun or Bleed, the condition is applied only to the target of the attack and not to figures affected by Blast.
+
+''Related Topics:'' [[Attacks]], [[Attacking Objects]], [[Conditions]], [[Keywords]], [[Large Figures]], [[Target]]

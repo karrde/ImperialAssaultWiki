@@ -1,0 +1,15 @@
+created: 20150114030441484
+modified: 20150114030714883
+title: Class Cards
+type: text/vnd.tiddlywiki
+
+During a campaign, each player has a deck of Class cards.
+
+* At the start of the campaign, the Imperial player chooses any Imperial Class deck and each Rebel player receives the Class deck corresponding to his hero.
+* At the start of the campaign, each player gains any Class cards in his deck that do not have a cost (shown in the lower left corner of the card).
+* Players can purchase additional Class cards by spending experience points during the Rebel or Imperial Upgrade Stages.
+* Class cards that have been purchased remain faceup in a player’s play area. They have ongoing effects as listed on the cards.
+* Some Class card abilities have costs. If this cost cannot be paid, the text immediately following this cost cannot be resolved. Ability costs are explained under “[[Abilities]]”.
+* Some Class cards have multiple abilities separated by a horizontal line. These abilities can be used independently and have separate costs and requirements in order to use them.
+
+''Related Topics:'' [[Abilities]], [[Actions]], [[Attachment]], [[Exhaust]], [[Experience Points]], [[Item Cards]], [[Play Area]], [[Strain]]

@@ -1,5 +1,5 @@
 created: 20150113225037552
-modified: 20150113225202919
+modified: 20150115194350664
 title: Attachment
 type: text/vnd.tiddlywiki
 
@@ -7,5 +7,5 @@ Some Imperial Class cards list the word “Attachment” above their abilities. 
 
 * When the Imperial player deploys figures to the map, he may take one or more “Attachment” cards and place them on the figures’ corresponding Deployment card. The abilities on the cards apply to all figures in the group.
 * When the last figure in a group is defeated, return any cards attached to the Deployment card to the Imperial player’s play area. He may attach these cards when deploying figures in the future, following the rules above.
-* Many attachments require the group to have a specific trait, such as “//Trooper.//” Attachments with these restrictions cannot be played on a group that does not have the trait.
+* Many attachments require the group to have a specific trait, such as “<span class="trait">Trooper.</span>” Attachments with these restrictions cannot be played on a group that does not have the trait.
 ''Related Topics:'' [[Class Cards]], [[Deployment]], [[Deployment Cards]]

@@ -1,0 +1,17 @@
+created: 20150115194706316
+modified: 20150115194940223
+title: Large Figures
+type: text/vnd.tiddlywiki
+
+Any figure whose base is larger than one space is a large figure. Large figures must obey the special rules listed below and shown in [[Appendix II]].
+
+* When a large figure attacks, line of sight may be traced from any of the spaces it occupies. When a large figure is targeted by an attack, the figure performing the attack must target one of the spaces the large figure occupies.
+* Large figures cannot move diagonally.
+* A large figure may spend one movement point to rotate 90 degrees (note that this is only necessary for figures with bases that occupy two or six spaces). When doing this, the large figure must still occupy at least half of the spaces it occupied before the rotation.
+* When a large figure is pushed or moves a set number of spaces, its base ''cannot'' rotate and must retain its current orientation.
+￼* <div>Large figures are subject to all movement requirements for terrain and other figures, but they are subject to these requirements only once per movement point spent.<br>
+For example, if an E-Web Engineer moves into two spaces containing figures, it must only spend one additional movement point instead of two.
+</div>
+* If an effect places a large figure in a space, the player resolving the effect chooses the figure’s orientation. It can be placed in any legal spaces as long as part of the figure’s base is in the space instructed.
+
+''Related Topics:'' [[Attacks]], [[Line of Sight]], [[Massive]], [[Mobile]], [[Movement]], [[Push]], [[Small Figure]], [[Target]]

@@ -1,0 +1,12 @@
+created: 20150115010942636
+modified: 20150115194416716
+title: Deployment Cards
+type: text/vnd.tiddlywiki
+
+All figures except heroes have corresponding Deployment cards. These cards list the figure’s name, group size, abilities, Speed, Health, Defense, and attack.
+
+* Since [img[Mercenary.png]] Deployment cards have a different back from [img[Imperial.png]] Deployment cards, the Rebel players will know how many [img[Mercenary.png]] and [img[Imperial.png]] cards are in the Imperial player’s hand and in reserve.
+* Elite Deployment cards have a red border. All other Deployment cards are regular Deployment cards and have gray borders.
+* Deployment cards list a number of traits under the name (such as <span class="trait">Trooper</span>). Traits have no gameplay effect but may be referred to by other components.
+
+''Related Topics:'' [[Activation]], [[Allies]], [[Elite Figure]], [[Group]], [[Open Groups]], [[Unique]]

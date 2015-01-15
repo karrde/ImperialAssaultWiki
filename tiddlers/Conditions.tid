@@ -1,0 +1,18 @@
+created: 20150114031459716
+modified: 20150114031851142
+title: Conditions
+type: text/vnd.tiddlywiki
+
+Conditions are ongoing effects that are applied to figures. Each condition has an ability that applies to the figure as long as it has that condition.
+
+* When a hero gains a condition, place the corresponding ''Condition card'' next to that hero. As long as it has that Condition card, it must follow all rules on the card.
+* When any other figure gains a condition, place a ''condition token'' next to that figure. As long as it has that token, it must follow all rules on the corresponding Condition card. The condition token stays with the figure if it moves or is placed in another space.
+* Each Condition card lists when it is discarded. When this situation occurs, discard the card or token; the figure no longer follows the rules listed on the Condition card.
+* Conditions can have the Beneficial or Harmful trait. This trait has no inherent effect but may be referred to by other abilities.
+* A figure cannot be affected by multiple instances of the same condition. For example, if a figure that is already Stunned would become Stunned again for any reason, nothing happens.
+* Conditions are sometimes used as keywords. When an attack uses a condition as a keyword, the condition is applied using the following rules:
+** The target of the attack must suffer one or more [img[Damage.png]] for the condition to apply.
+** The condition is applied after the attack resolves.
+** If it is a <span class="keyword">Beneficial</span> condition, it is applied to the attacker. If it is a <span class="keyword">Harmful</span> condition, it is applied to the target figure. 
+
+''Related Topics:'' [[Attacks]], [[Damage]], [[Keywords]]

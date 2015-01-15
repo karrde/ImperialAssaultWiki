@@ -1,0 +1,25 @@
+created: 20150114031947038
+modified: 20150114032137396
+title: Conflicts
+type: text/vnd.tiddlywiki
+
+Numerous abilities, mission rules, and other game effects can be triggered at the same time.
+
+* While attacking, mission rules are resolved first, followed by effects from the attacker (including figures friendly to him), then effects from the defender (including figures friendly to him).
+* Effects from multiple figures under the control of a single player are resolved in the order of that player’s choice.
+* The decision for a player to resolve an optional effect coincides with the order of resolution. After a player has declined to trigger one or more abilities, he does not have the opportunity to trigger that ability until the next triggering instance.
+!! Conflicts in a Campaign
+
+During a campaign, mission rules are resolved first, followed by effects from the Imperial player, then effects from the Rebel players.
+
+* If multiple mission rules would resolve at the same time, the Imperial player decides the order of resolution.
+* When Rebel players wish to resolve multiple effects at the same time, they collectively decide the order of resolution.
+* If heroes are required to make a decision as a group and cannot come to a consensus, the Imperial player chooses a Rebel player to make the final decision.
+
+!! Conflicts in a Skirmish
+
+During a skirmish, mission rules are resolved first, followed by effects from the player with initiative, then effects from his opponent.
+
+* If multiple mission rules would resolve at the same time, the player with initiative decides the order of resolution.
+
+''Related Topics:'' [[Abilities]], [[Attacks]], [[Initiative]], [[Winning the Game]]

@@ -1,0 +1,16 @@
+created: 20150115012235247
+modified: 20150115012424349
+title: Exhaust
+type: text/vnd.tiddlywiki
+
+Many game effects and abilities can require a player to exhaust a card or token. Cards and tokens that are exhausted must be readied before they can be used again.
+
+* Cards are rotated 90 degrees to mark that they are exhausted.
+* Activation tokens are flipped red side up when they are exhausted.
+* When a player activates a figure, he exhausts its corresponding Deployment card or activation token to mark that the figures in that group have been used during this round.
+* Figures that correspond to exhausted Deployment cards or activation tokens cannot be activated.
+* If a hero has multiple activation tokens, he can be activated if at least one of his activation tokens is ready (green side up). A hero cannot perform his second activation until each hero has performed at least one activation.
+* Abilities on exhausted cards can be used as long as the abilities do not require the player to exhaust the card to use the ability.
+* If all Deployment cards or activation tokens belonging to a player are exhausted, he cannot use abilities that must be used before, during, or after his figure activates.	
+
+''Related Topics:'' [[Abilities]], [[Activation]], [[Class Cards]], [[Deployment Cards]], [[Ready]]

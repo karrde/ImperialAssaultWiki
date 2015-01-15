@@ -1,0 +1,14 @@
+created: 20150114023238561
+modified: 20150114023357377
+title: Attributes
+type: text/vnd.tiddlywiki
+
+During a campaign, each hero has varying expertise in the following three attributes:<p>
+
+* Strength ([img[Strength.png]]): Strength is a measure of a figure’s physical strength and toughness. K tests are often used to overcome physical obstacles or resist a physical threat.
+* Insight ([img[Insight.png]]): Insight is a measure of a figure’s mental fortitude and discipline. J tests are often related to the use of the Force or general perception and awareness.
+* Tech ([img[Tech.png]]): Tech is a measure of a figure’s manual dexterity and technical ability. I tests are often related to slicing terminals and repairing objects.
+
+Mission effects often test these attributes, requiring the hero to roll specific dice to determine if a positive or negative effect is resolved.
+
+''Related Topics:'' [[Attribute Tests]]

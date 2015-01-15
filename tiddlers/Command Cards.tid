@@ -1,0 +1,18 @@
+created: 20150114031130068
+modified: 20150114031312123
+title: Command Cards
+type: text/vnd.tiddlywiki
+
+During a skirmish, players play Command cards to resolve a wide range of powerful abilities.
+
+* During setup, each player draws three Command cards into his hand. Command cards in a player’s hand are kept secret from his opponent.
+* Each player draws one Command card each Status Phase, plus one additional Command card for each terminal token he controls.
+* After the effect of a Command card has resolved, it is placed faceup in the player’s discard pile.
+* If there are no cards remaining in a player’s Command deck, he cannot draw Command cards.
+* A player cannot play multiple copies of the same Command card at the same time. For example, if a card provides “+2 Accuracy,” the player cannot play two copies of the card to gain +4 Accuracy for one attack.
+* When playing a Command card that lists a trait, figure name, and/or affiliation icon, it is used by a single figure that matches all of these restrictions.
+* Each player has his own deck of 15 Command cards. He chooses which cards to place in this deck when building his army. He must obey the following limits:
+** The total cost of cards in his deck must be 15 or less.
+** Each Command card has a number of restriction icons next to its cost. This is the maximum number of copies of that card a player can have in his deck.
+
+''Related Topics:'' [[Actions]], [[Affiliation]], [[Control]], [[Status Phase]], [[Terminal Tokens]]

@@ -1,0 +1,13 @@
+created: 20150115005959176
+modified: 20150115010102333
+title: Defeated
+type: text/vnd.tiddlywiki
+
+When a figure has a number of damage tokens equal to its Health, the figure is defeated.
+
+* When a hero is defeated for the first time during a mission, he is wounded and flips his Hero sheet to the wounded side. If a wounded hero is defeated, he withdraws and is removed from the map.
+** When any other figure is defeated, it is removed from the map along with any of its condition and damage tokens.
+* If a figure is defeated during its activation, its activation immediately ends.
+* During a campaign, when the last Imperial figure in a ''non- unique'' group is defeated, the Deployment card is returned to the Imperial player’s hand and can be optionally deployed later in the mission.
+
+''Related Topics:'' [[Damage]], [[Deployment]], [[Health]], [[Reinforce]], [[Unique]], [[Withdraw]], [[Wounded]]

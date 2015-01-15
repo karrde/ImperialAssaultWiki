@@ -1,0 +1,14 @@
+created: 20150115191813939
+modified: 20150115192004695
+title: Incapacitated
+type: text/vnd.tiddlywiki
+
+Some mission rules refer to a figure being incapacitated, most often when a figure is defeated. Instead of being discarded, the figure remains on the map and has a number of restrictions placed upon its activation.
+
+* The figure remains under the control of the same player.
+* The figure ''does not'' restrict movement or block line of sight. Other figures cannot end their movement in a space containing an incapacitated figure.
+* When a figure is incapacitated, it discards all conditions, and conditions cannot be applied to that figure.
+* The figure cannot suffer [img[Damage.png]] (damage) or be targeted or affected by attacks, abilities, or any game effect except as specified by the mission’s rules.
+** The figure can still be pushed by a <span class="keyword">massive</span> figure ending its movement in the incapacitated figure’s space.
+
+''Related Topics:'' [[Massive]], [[Missions]], [[Withdraw]]

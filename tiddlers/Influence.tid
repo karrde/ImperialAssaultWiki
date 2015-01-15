@@ -1,0 +1,12 @@
+created: 20150115192029677
+modified: 20150115192114764
+title: Influence
+type: text/vnd.tiddlywiki
+
+During a campaign, the Imperial player is often rewarded influence. This resource is used to purchase Agenda cards during the Imperial Upgrade Stage.
+
+* Influence is tracked on the campaign log.
+* When the Imperial player gains influence, he adds it to the current influence on the campaign log and records this new total. When he spends influence, he subtracts it from the current influence on the campaign log and records this new total.
+* He does not have to spend all of his influence at once. Unspent influence may be spent during future Imperial Upgrade Stages.
+
+''Related Topics:'' [[Agenda Cards]], [[Imperial Upgrade Stage]]
