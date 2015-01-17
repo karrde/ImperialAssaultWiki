@@ -1,5 +1,5 @@
 created: 20150113220225232
-modified: 20150113221105568
+modified: 20150116183453704
 title: Allies
 type: text/vnd.tiddlywiki
 
@@ -13,9 +13,7 @@ During a campaign, players can gain access to special figures as mission rewards
 * In the core game, allies are represented by tokens instead of plastic figures. The art on each token matches the art on the corresponding Deployment card.
 
 !! Villains
-Imperial allies are referred to as villains. They follow all of the same rules as allies, in addition to the following:<p>
-
-* Once gained as a reward, villains (such as “Darth Vader”) can be brought into any mission as an open group.
+<$transclude tiddler="Villains" mode="block" />
 
 !! Rebel Allies
 Once Rebel players gain an ally as a reward, they can bring that ally to any mission following these rules:<p>

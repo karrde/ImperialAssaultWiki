@@ -1,0 +1,13 @@
+created: 20150115215044726
+modified: 20150115215233149
+tags: 
+title: Miss
+type: text/vnd.tiddlywiki
+
+Some effects can cause attacks to miss. When an attack misses, the target figure suffers zero [img[Damage.png]] (damage).
+
+* The [img[Dodge.png]] (dodge) icon found on the white die causes the attack to miss.
+* While performing a ranged attack, the attacker requires Accuracy greater than or equal to the distance to the target. If his Accuracy is less than this distance, then the attack misses.
+* When an attack misses, other effects can still be triggered (such as using the Recover keyword). If the ability requires the target figure to suffer one or more [img[Damage.png]], such as Cleave, a miss prevents that ability from being resolved.
+
+''Related Topics:'' [[Accuracy]], [[Attacks]], [[Counting Spaces]]

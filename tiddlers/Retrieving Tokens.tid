@@ -1,0 +1,14 @@
+created: 20150116172256466
+modified: 20150116172345462
+title: Retrieving Tokens
+type: text/vnd.tiddlywiki
+
+Some missions allow figures to retrieve specific tokens. A figure adjacent to or in the same space as the token can perform an interact to retrieve the token. Place the token on the figure’s base to mark that the figure is now ''carrying'' that token. The token now moves with the figure.
+
+* A carried token cannot be retrieved by other figures, traded to other figures, or voluntarily dropped.
+* If a figure is defeated, any tokens that it is carrying are dropped in its space. This includes when a hero becomes wounded or if he withdraws.
+* Mission rules specify the effect and purpose of retrieving tokens.
+* At the end of a mission, all carried tokens are returned to the game box.
+* Retrieving a token is not claiming a token. 
+
+''Related Topics:'' [[Claim]], [[Interact]], [[Mission Tokens]]

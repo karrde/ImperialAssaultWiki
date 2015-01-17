@@ -1,0 +1,15 @@
+created: 20150116150824925
+modified: 20150116150940743
+title: Reinforce
+type: text/vnd.tiddlywiki
+
+During the Status Phase of a campaign, the Imperial player is able to place figures that were previously defeated back on the map.<br>
+To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinforcement cost. Then he places ''one figure'' from that group as close as possible to any active deployment point.
+
+* Some Deployment cards do not have a reinforcement cost. The corresponding figures cannot be reinforced. Unless the figure is unique, it can be deployed again after being defeated.
+* The reinforcement cost of a figure is listed on its Deployment card directly to the right of its deployment cost.
+* A figure can be reinforced only if at least one other figure from its group is on the map.
+* The Imperial player can reinforce multiple figures during each Status Phase (including figures from the same group), as long as he spends the [img[Threat.png]] individually for each figure.
+* The Imperial player cannot reinforce a figure from a group that has figures on the map equal to its group limit.
+
+''Related Topics:'' [[Deployment]], [[Group]], [[Unique]]

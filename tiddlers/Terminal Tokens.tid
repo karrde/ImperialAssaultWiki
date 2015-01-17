@@ -1,0 +1,16 @@
+created: 20150116175703069
+modified: 20150116180815895
+title: Terminal Tokens
+type: text/vnd.tiddlywiki
+
+Terminal tokens are placed on the map as indicated by the mission’s diagram.
+
+* In a campaign, terminal tokens have no inherent abilities and function as described in the mission’s rules.
+* In a skirmish, each player draws one additional Command card during the Status Phase for each terminal he controls.
+* Terminals do not block line of sight or movement. Figures can end their movement in the same space as a terminal token.
+* If a terminal is in a space containing terrain, the terrain in the space still takes effect. For example, a space with blocking terrain that contains a terminal token still blocks line of sight, and figures cannot enter the space.
+
+* The colors of terminal tokens have no game effect unless specified by the mission.
+* A terminal token with its colored side down cannot be examined by players. This color is hidden information.
+
+''Related Topics:'' [[Control]], [[Hidden Information]], [[Interact]]

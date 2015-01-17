@@ -1,0 +1,15 @@
+created: 20150116174911077
+modified: 20150116175108800
+tags: 
+title: Strain in a Campaign
+type: text/vnd.tiddlywiki
+
+When a hero suffers [img[Strain.png]], place an equal number of strain tokens on his Hero sheet. When any other figure suffers [img[Strain.png]], it suffers an equal amount of [img[Damage.png]] (damage) instead.
+
+* Heroes have many abilities that have [img[Strain.png]] costs. These abilities require the hero to suffer [img[Strain.png]] in order to use the ability.
+* A hero can suffer 1[img[Strain.png]](strain) at any point during his activation to gain one movement point. He may do this up to ''twice'' per activation.
+* A hero cannot choose to suffer [img[Strain.png]] if the amount of [img[Strain.png]] he has suffered would exceed his Endurance. This includes suffering [img[Strain.png]] to gain movement points or using abilities with a [img[Strain.png]] cost.
+* If an effect forces a hero to suffer [img[Strain.png]] that exceeds his Endurance, he instead suffers one [img[Damage.png]] for each [img[Strain.png]] he cannot suffer.
+* If an effect allows a hero to recover more [img[Strain.png]] than he has suffered, he recovers one [img[Damage.png]] for each [img[Strain.png]] he cannot recover.
+* If a Hero sheet ever contains strain tokens in excess of that hero’s Endurance, such as when a hero becomes wounded, the excess strain tokens are discarded.
+* When a game effect mentions the amount of [img[Strain.png]] a hero “has suffered,” it refers to the total value of strain tokens currently on his Hero sheet.

@@ -1,0 +1,10 @@
+created: 20150116010726000
+modified: 20150116010801186
+title: Mobile
+type: text/vnd.tiddlywiki
+
+Figures that have this keyword ignore additional movement costs when entering difficult terrain and spaces containing hostile figures. They can also enter impassible and blocking terrain, and can end their movement in a space containing impassible or blocking terrain.
+
+* If a figure with mobile occupies a space containing blocking terrain, line of sight can be traced to that figure, spaces can be counted to that figure, and adjacent figures can attack that figure.
+
+''Related Topics:'' [[Keywords]]

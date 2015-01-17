@@ -1,0 +1,20 @@
+created: 20150115214336537
+modified: 20150115214523892
+title: Line of Sight
+type: text/vnd.tiddlywiki
+
+Line of sight is used to determine what a figure can “see.” Line of sight is most often used to determine which figures can be targeted by a [img[Ranged Attack.png]] (ranged) attack.
+
+To determine line of sight, the player draws two imaginary, non- intersecting lines from one corner of the attacking figure’s space to two adjacent corners of the target’s space. If either of these lines passes through a wall, figure, or blocking terrain, then the figure ''does not have line of sight'' to the target.
+
+* Line of sight can be traced from or to any corner on the map. Each line can be traced along the corners and edges of spaces containing figures, doors, walls, and blocked spaces.
+* Walls only block line of sight ''along an entire edge of a space.'' If a wall does not cover an entire edge, then line of sight may be traced to, from, and through that edge.
+* Line of sight ''cannot'' be traced through a corner where any combination of walls and blocking terrain intersect. It can be traced through the combination of one figure and a diagonally positioned wall, blocking terrain, or other figure.
+* Figures have line of sight to adjacent figures.
+* It is possible for a figure to have line of sight to another figure that does not have line of sight back to itself. This most often happens when a figure is behind a wall or figure. Thematically, this represents a figure leaning out of cover to make an attack and then ducking back behind cover.
+* A figure does not block line of sight to itself. The target figure also does not block line of sight.
+* Adjacent figures always have line of sight to each other.
+
+Most of the above situations are shown in detail in “[[Appendix I - Line of Sight Examples]]”.
+
+''Related Topics:'' [[Adjacent]], [[Attacks]], [[Blocking Terrain]], [[Ranged Attack]], [[Walls]]

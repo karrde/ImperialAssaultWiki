@@ -1,0 +1,13 @@
+created: 20150116182858694
+modified: 20150116183038359
+title: Time Period
+type: text/vnd.tiddlywiki
+
+Each campaign is associated with a time period, represented by a number. This corresponds to a range of time period values found on certain Side Mission cards and certain cards in Agenda sets.
+
+During campaign setup, set aside any Side Mission cards whose range of values does not include the number associated with the campaign. These cards cannot be included in the Side Mission deck.
+
+* If a card in an Agenda set has a time period range that does not include the number associated with the campaign, the Imperial player cannot choose that set when building his Agenda deck.
+* If an Agenda set or Side Mission card does not have a time period displayed, it can be used in any campaign.
+
+''Related Topics:'' [[Agenda Cards]], [[Campaign]], [[Campaign Setup]], [[Missions]]

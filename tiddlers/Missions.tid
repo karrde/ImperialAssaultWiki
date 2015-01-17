@@ -1,0 +1,40 @@
+created: 20150115215259322
+modified: 20150117021000804
+title: Missions
+type: text/vnd.tiddlywiki
+
+Each mission is a game of tactical combat played on a modular game map and featuring unique mission rules.
+
+!! Resolving a Mission
+
+Missions in Imperial Assault are played over a number of game rounds. Each round consists of an Activation Phase followed by a Status Phase.
+
+After resolving the Status Phase, play proceeds to the next round, starting with an Activation Phase. These phases are repeated until the mission ends (see “[[Winning the Game]]”).
+
+!! Story and Side Missions
+
+During a campaign, players resolve a series of story and side missions. The rules and maps for each mission are found in the Campaign Guide.
+
+* During each Mission Stage, the heroes choose one active mission to resolve.
+** The campaign log lists the type of active mission the heroes can choose during each Mission Phase. For example, if it says “Story Mission” the heroes must choose an active Story Mission to resolve. There is often only one active Story Mission at a time.
+** Active missions that are not chosen are saved between sessions and remain active until resolved.
+* A mission cannot be played twice during a campaign.
+* Side Mission cards list a number of traits under the name (such as Tatooine). Traits have no gameplay effect but may be referred to by other components.
+* After the introductory mission is resolved, shuffle the Side Mission deck, draw two cards, and place these cards faceup on the table. After each non-agenda side mission is resolved, shuffle the side Mission deck, draw one card, and place this card faceup on the table.
+
+!!! Building the Side Mission deck
+
+During campaign setup, players separate the Side Mission cards into piles by type (color). Shuffle the following cards together to create the Side Mission deck:
+
+* One red Side Mission card corresponding to each hero in the campaign.
+* Four green Side Mission cards chosen by the hero players. Heroes cannot choose more than one of these cards that rewards the same ally, regardless of the ally’s subtitle, such as “Hero of the Rebellion.”
+* Four random gray Side Mission cards. These are dealt facedown and are not shown to any players.
+
+!! Forced Missions
+<$transclude tiddler="Forced Missions" mode="block" />
+
+!! Skirmish Missions
+
+The map for each skirmish mission is shown in that mission’s diagram. The rules for each skirmish mission are listed on Skirmish Mission cards.
+
+''Related Topics:'' [[Active Missions]], [[Agenda Cards]], [[Campaign]], [[Mission Setup]], [[Mission Stage]], [[Winning the Game]]

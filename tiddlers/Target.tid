@@ -1,0 +1,11 @@
+created: 20150116175552284
+modified: 20150116175636256
+title: Target
+type: text/vnd.tiddlywiki
+
+When declaring an attack, the attacker chooses a figure to attack. This figure is referred to as the target.
+
+* If the target is a large figure, the attacker must target one space that the target occupies. This space is used for determining line of sight and some abilities.
+* If an ability refers to the ''target space'', it is referring to the space occupied by the defender. If the target is a large figure, it is referring to the space chosen.
+
+''Related Topics:'' [[Attacks]], [[Blast]], [[Line of Sight]]

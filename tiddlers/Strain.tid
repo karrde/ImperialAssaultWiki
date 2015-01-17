@@ -1,0 +1,15 @@
+created: 20150116174225960
+modified: 20150116175204493
+tags: 
+title: Strain
+type: text/vnd.tiddlywiki
+
+Strain is shown as the [img[Strain.png]] icon and represents the loss of willpower or fortitude. Many game effects cause figures to suffer [img[Strain.png]].
+
+!! Strain in a Campaign
+<$transclude tiddler="Strain in a Campaign" mode="block"/>
+
+!! Strain in a Skirmish
+<$transclude tiddler="Strain in a Skirmish" mode="block"/>
+
+''Related Topics:'' [[Abilities]], [[Damage]], [[Endurance]], [[Movement]], [[Recover]]

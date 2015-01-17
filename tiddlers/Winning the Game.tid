@@ -1,0 +1,17 @@
+created: 20150117020128014
+modified: 20150117021449954
+title: Winning the Game
+type: text/vnd.tiddlywiki
+
+The rules for winning a game depend upon whether players are playing a campaign mission or skirmish mission.
+
+!! Winning in a Campaign
+
+The campaign consists of a number of linked missions. Each mission’s objectives are listed in the mission’s rules in the Campaign Guide.
+
+The player(s) who win the final mission win the campaign.
+
+!! Winning a Skirmish Mission
+<$transclude tiddler="Winning a Skirmish Mission" mode="block" />
+
+''Related Topics:'' [[Campaign]], [[Defeated]], [[Group]], [[Skirmish]]

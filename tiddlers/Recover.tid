@@ -1,0 +1,11 @@
+created: 20150116150609535
+modified: 20150116150803623
+title: Recover
+type: text/vnd.tiddlywiki
+
+Some abilities allow figures to recover [img[Damage.png]] (damage) or [img[Strain.png]] (strain). When a figure recovers, remove the listed amount of damage or strain tokens from the figure or its Hero sheet.
+
+* Some cards use Recover as a keyword. For example “[img[Surges.png]]: Recover 1[img[Damage.png]]” allows the figure to spend a [img[Surges.png]] (surge) during an attack to recover 1[img[Damage.png]] after resolving the attack. He can recover this [img[Damage.png]] even if the target of his attack does not suffer any [img[Damage.png]].
+* If a hero recovers more [img[Strain.png]] than he has suffered, he recovers one [img[Damage.png]] for each [img[Strain.png]] he cannot recover.
+
+''Related Topics:'' [[Damage]], [[Keywords]], [[Rest]], [[Strain]], [[Surges]]

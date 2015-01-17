@@ -1,0 +1,13 @@
+created: 20150116011527042
+modified: 20150116011644071
+title: Neutral Figures
+type: text/vnd.tiddlywiki
+
+During a campaign, some figures are denoted as neutral. These figures are only present in specific missions. The rules regarding these figures are described in the mission.
+
+* No player controls a neutral figure. Neutral figures cannot activate or perform actions.
+* These figures cannot suffer [img[Damage.png]] (damage) or be targeted by attacks, abilities, or any game effect except as specified by the mission’s rules.
+* Figures can move through spaces containing neutral figures at no additional movement point cost.
+* Neutral figures block line of sight. 
+
+''Related Topics:'' [[Line of Sight]], [[Movement]]

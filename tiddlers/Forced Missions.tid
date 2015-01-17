@@ -1,0 +1,13 @@
+created: 20150117020905845
+modified: 20150117020915793
+title: Forced Missions
+type: text/vnd.tiddlywiki
+
+During a campaign, certain Agenda cards and events can force a mission to be played. This most often happens as the result of a mission reward or Agenda card. For example, if an Agenda card says “Play ‘Spice Mines of Kessel’ as a forced mission,” players would immediately play this mission, and then resume the campaign from the current stage.
+
+* Forced missions are recorded on the “Forced Missions” section of the campaign log. When a mission is forced and players do not have time to resolve the mission this session, they should record the mission in the Forced Missions section without checking the box. The next time they resume their campaign, they will immediately play this mission.
+* Forced missions are resolved ''between'' campaign stages. After resolving a forced mission, players should perform the “post- mission cleanup” step of a Mission Stage. Then they resolve the next available stage of the campaign.
+** If the mission occurs immediately after another mission is resolved, they resolve “post-mission cleanup” but do not resolve any Rebel or Imperial Upgrade Stages before this mission. The threat level for a forced mission is equal to the threat level of the most recently played mission.
+* Because forced missions are never chosen to be played, they do not have corresponding Mission cards.
+* If players run out of space in the “Forced Missions” section
+of the campaign log, they can still play additional forced missions. Record these additional missions on the back of the campaign log or another sheet of paper.

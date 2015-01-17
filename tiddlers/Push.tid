@@ -1,0 +1,14 @@
+created: 20150116012425189
+modified: 20150116012503758
+title: Push
+type: text/vnd.tiddlywiki
+
+Some abilities push figures. The player resolving this ability moves the figure the specified number of spaces.
+
+* The figure can be moved in any direction. It does not need to move directly away from the figure using the push ability.
+* A pushed figure is not voluntarily exiting its space.
+* Pushing a figure requires no movement points.
+* If a non-ability effect pushes a figure, such as a mission rule or if a door closes between two spaces occupied by a large figure, the player controlling that figure determines its placement.
+* While pushing a large figure, it cannot move diagonally and cannot be rotated.
+
+''Related Topics:'' [[Exit]], [[Large Figures]], [[Movement]]

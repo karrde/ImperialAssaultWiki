@@ -1,0 +1,17 @@
+created: 20150117021350233
+modified: 20150117021418139
+tags: 
+title: Winning a Skirmish Mission
+type: text/vnd.tiddlywiki
+
+The mission ends as soon as one player has accumulated 40 or more victory points (VPs). The player with the most VPs wins the game. VPs come from two main sources:
+
+* ''Defeating Figures:'' When the last figure in a group is defeated, the opposing player scores points equal to the deployment cost of that group. To track this, the card’s controller places the Deployment card near his opponent.
+* ''Card Effects:'' Each Skirmish Mission card lists a special way in which players can gain VPs. Some Command or Deployment cards also list additional ways in which players gain VPs.
+
+If all of a player’s figures are defeated, he loses the game
+immediately, regardless of victory points.
+
+!!! Tie Breakers
+
+In the rare situation that both players have the same number of VPs at the end of the game, the player that has defeated the highest total deployment cost of hostile figures wins the game. If the result is still a tie, the player with the fewest damage tokens on his figures wins. If the result is still a tie, the player with initiative wins.

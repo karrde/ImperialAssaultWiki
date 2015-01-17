@@ -1,0 +1,13 @@
+created: 20150116182629760
+modified: 20150116182800868
+title: Threat
+type: text/vnd.tiddlywiki
+
+During a campaign mission, the Imperial player spends [img[Threat.png]] (threat) to deploy and reinforce figures to the game board.
+
+* Each Status Phase, [img[Threat.png]] is increased by the mission’s threat level printed on the campaign log. Threat level is also frequently referenced to determine a particular value in many missions.
+* When [img[Threat.png]] is increased or reduced, the Imperial player rotates the threat dial to display the new total.
+* The Imperial player cannot have less than 0 [img[Threat.png]] or more than 20 [img[Threat.png]]. Any threat gained or lost beyond these limits is ignored.
+* The Imperial player cannot trigger an ability that costs more [img[Threat.png]] than he has.
+
+''Related Topics:'' [[Abilities]], [[Class Cards]], [[Deployment]], [[Reinforce]]

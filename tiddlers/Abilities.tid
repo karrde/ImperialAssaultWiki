@@ -1,6 +1,6 @@
 created: 20150113193844628
-modified: 20150113200808993
-tags: RRG
+modified: 20150117021926173
+rrg: 2
 title: Abilities
 type: text/vnd.tiddlywiki
 
@@ -20,4 +20,4 @@ Abilities can have one or more requirements. If the requirements cannot be met, 
 * An ability that causes one or more figures to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack and does not count toward a figure’s attack limitations.
 ''Related Topics:'' [[Attacks]], [[Deplete]], [[Exhaust]], [[Endurance]], [[Strain]], [[Threat]]
 
-From Rules Reference Guide pg 2
+From Rules Reference Guide page {{!!rrg}}

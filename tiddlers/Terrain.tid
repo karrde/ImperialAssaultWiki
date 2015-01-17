@@ -1,0 +1,15 @@
+created: 20150116181054348
+modified: 20150116182001849
+title: Terrain
+type: text/vnd.tiddlywiki
+
+Some spaces have colored borders. The color and look of a border defines the terrain, which has special effects on movement and line of sight.
+
+* A group of adjacent spaces that share a terrain type are surrounded by a single terrain border.
+* Colored borders that do not fully encompass a space or group of spaces are terrain edges. The terrain rules are only applied to the colored edge of this space and not the space itself.
+* Tokens in a space have no effect on the space’s terrain. 
+* Solid red lines are blocking terrain.
+* Dotted red lines are impassible terrain. 
+* Solid blue lines are difficult terrain.
+
+''Related Topics:'' [[Blocking Terrain]], [[Difficult Terrain]], [[Impassible Terrain]], [[Movement]], [[Walls]]

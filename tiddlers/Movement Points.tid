@@ -1,0 +1,15 @@
+created: 20150116011321955
+modified: 20150116011416901
+title: Movement Points
+type: text/vnd.tiddlywiki
+
+There are numerous methods by which a figure can gain movement points. A figure can spend one movement point to move to any adjacent space.
+
+* Any time a figure gains movement points, they are added to the remaining total of movement points that figure possesses.
+* A figure is not required to spend all of the movement points it possesses, but at the end of its activation, it loses all of its remaining movement points.
+* Spending movement points is not an action and may be done at any time during the figure’s activation. They can be spent before or after performing any action but cannot be spent while resolving an action.
+* If a figure gains movement points when it is not its activation, those movement points must be spent immediately as an interrupt or be lost.
+* Movement points are an intangible resource that are not tracked by tokens. When a figure gains movement points, the player announces how many movement points his figure has and counts out loud as he spends movement points.
+* During a campaign, a hero can suffer 1[img[Strain.png]] (strain) at any point during his activation to gain one movement point. He may do this up to ''twice'' per activation.
+
+''Related Topics:'' [[Movement]], [[Strain]]

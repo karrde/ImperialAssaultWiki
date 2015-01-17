@@ -1,0 +1,13 @@
+created: 20150116150238488
+modified: 20150116150345082
+title: Ready
+type: text/vnd.tiddlywiki
+
+A ready figure is any figure that is eligible to be activated. Any card that is not exhausted is ready and may be exhausted to trigger certain abilities.
+
+* A hero is ready if he has ''at least one'' ready (green) activation token on his Hero sheet.
+* When a Deployment card is ready, all figures of that card’s group are ready.
+* When a figure or card is readied, rotate its Deployment card to orient it upright. If the figure is a hero, flip all of its activation tokens green side faceup instead.
+* Deployment cards, Imperial Class cards, and activation tokens are readied during the Status Phase of each round. A hero’s items and Hero Class cards are readied at the start of that figure’s activation.
+
+''Related Topics:'' [[Activation]], [[Class Cards]], [[Deployment Cards]], [[Exhaust]], [[Item Cards]]

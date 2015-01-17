@@ -1,0 +1,12 @@
+created: 20150116174008098
+modified: 20150116174052725
+tags: 
+title: Status Phase in a Skirmish
+type: text/vnd.tiddlywiki
+
+During a skirmish, the Status Phase consists of the following steps:
+
+# ''Ready Cards:'' Both players ready all of their Deployment cards.
+# ''Draw Command Cards:'' Each player draws one Command card from his deck plus one additional card for each terminal he controls.
+# ''End of Round Effects:'' If there are any abilities or mission rules triggered at the end of this game round, players resolve them at this time.
+# ''Pass Initiative:'' The player who has the initiative token passes it to his opponent. Then players begin a new round starting with a new Activation Phase.

@@ -1,0 +1,16 @@
+created: 20150116172751256
+modified: 20150116173530017
+tags: 
+title: Campaign Mission Setup
+type: text/vnd.tiddlywiki
+
+To setup a campaign mission, perform the following steps.
+
+# ''Assemble Map:'' The Imperial player assembles the mission’s map using map tiles as shown in the Campaign Guide. He places all tokens on the map as indicated in the diagram.
+# ''Prepare Threat and Round Dial:'' The Imperial player sets the threat dial to zero and the round dial to one.
+# <$transclude tiddler="Deployment and Setup" mode="block"/>
+# <$transclude tiddler="Deploy Imperial Figures" mode="block"/>
+# ''Prepare Dice, Cards, and Other Tokens:'' Place all dice, the Condition and Supply decks, damage tokens, strain tokens, and condition tokens within easy reach of all players.
+# ''Read Mission Briefing:'' The Imperial player reads the “Mission Briefing” section of the mission’s rules aloud to all players.
+# <$transclude tiddler="Deploy Rebel Figures" mode="block"/>
+# ''Prepare Activation Tokens:'' Each hero receives one activation token and places it ready (green side faceup) on his Hero sheet.

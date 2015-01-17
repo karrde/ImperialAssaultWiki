@@ -1,0 +1,14 @@
+created: 20150116173120871
+modified: 20150116174136262
+title: Status Phase
+type: text/vnd.tiddlywiki
+
+After each Activation Phase, players perform a number of cleanup steps known as the Status Phase.
+
+!! Status Phase in a Campaign
+<$transclude tiddler="Status Phase in a Campaign" mode="block"/>
+
+!! Status Phase in a Skirmish
+<$transclude tiddler="Status Phase in a Skirmish" mode="block"/>
+
+''Related Topics:'' [[Command Cards]], [[Control]], [[Deployment]], [[Initiative]], [[Ready]], [[Reinforce]], [[Terminal Tokens]], [[Threat]]

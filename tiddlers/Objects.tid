@@ -1,0 +1,14 @@
+created: 20150116011712064
+modified: 20150116011815295
+title: Objects
+type: text/vnd.tiddlywiki
+
+Objects refer to elements on the map that are not figures. Doors, crates, and terminals are all considered to be objects.
+
+* Most mission tokens are considered to be objects, unless the mission rules use the token to represent a figure.
+* Except for doors, objects do not restrict movement or block line of sight.
+* Objects cannot be pushed.
+* Mission rules can allow objects to be attacked by specified figures (see “[[Attacking Objects]]”).
+* Abilities that affect objects ''only'' affect objects that can be attacked.
+
+''Related Topics:'' [[Attacking Objects]], [[Crate Tokens]], [[Doors]], [[Mission Tokens]], [[Movement]], [[Terminal Tokens]]

@@ -1,0 +1,19 @@
+created: 20150116010857604
+modified: 20150116011234256
+title: Movement
+type: text/vnd.tiddlywiki
+
+When a figure performs a move, it gains movement points equal to its Speed.
+
+* Performing a move ''does not move the figure''; it only provides movement points that may be spent during that figure’s activation. This means that a figure may use its first action to perform a move, followed by an attack, and then spend the movement points. It may even spend some movement points before the attack and then some of them after the attack.
+* Figures can move diagonally along the corner of any individual wall, blocking terrain, or impassible terrain, but a figure ''cannot'' move through the diagonal intersection of any combination of wall, blocking terrain, or impassible terrain (see “[[Appendix II - Movement Examples]]”).
+* ''Move X Spaces:'' If an ability moves a figure a listed number of spaces, this movement ignores movement point costs. All other effects of terrain and figures apply (for example the figure cannot end its movement in another figure’s space). When moving in this way, a large figure’s base ''cannot'' rotate and must retain its orientation.
+* <div>Figures can move ''through'' other figures’ spaces. The figure must spend one additional movement point to enter a space containing a hostile figure. Some abilities allow figures to move through spaces containing blocking and impassible terrain.<br>
+The definition of “moving through a space” is that the figure can enter the space as long as it does not end its movement in the space. The figure cannot enter the space if this would spend its last movement point.
+</div>
+*<div> There are rare situations where a figure can lose all of its movement points while in a space where it cannot end its movement (such as in another figure’s space). In this situation, place the moving figure in the closest empty space.<br>
+If there are multiple closest empty spaces, the player controlling the figure chooses.
+</div>
+* Large figures have additional movement restrictions. See “[[Large Figures]]” and “[[Appendix II - Movement Examples]]”.
+
+''Related Topics:'' [[Adjacent]], [[Counting Spaces]], [[Large Figures]], [[Movement Points]], [[Place]], [[Push]], [[Terrain]]

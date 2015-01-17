@@ -1,0 +1,14 @@
+created: 20150116175350087
+modified: 20150116175522772
+title: Surges
+type: text/vnd.tiddlywiki
+
+Surges are results represented by [img[Surges.png]] icons. They are gained during an attack and can be spent to trigger certain abilities.
+
+* Each [img[Evade.png]] (evade) result removes one [img[Surges.png]] result. This effectively reduces the number of [img[Surges.png]] the attacker can spend by one.
+* Any [img[Surges.png]] not spent during an attack are lost.
+* During a campaign, a hero performing an attack may spend 1[img[Surges.png]] to recover 1[img[Strain.png]].
+* Each [img[Surges.png]] ability can be triggered only once per attack.
+* A [img[Surges.png]] ability that relates to a keyword, such as Blast, Cleave, or a condition, applies after the attack resolves.
+
+''Related Topics:'' [[Attacks]]

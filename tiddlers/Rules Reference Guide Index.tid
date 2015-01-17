@@ -1,6 +1,5 @@
 created: 20150113181837451
-modified: 20150115194629613
-tags: RRG
+modified: 20150117021908658
 title: Rules Reference Guide Index
 type: text/vnd.tiddlywiki
 
@@ -161,7 +160,7 @@ type: text/vnd.tiddlywiki
 * [[Running out of Components|Component Limitations]]
 
 !! S
-* [[Setup]]
+* Setup
 ** [[Campaign Mission Setup]]
 ** [[Campaign Setup]]
 ** [[Skirmish Mission Setup]]

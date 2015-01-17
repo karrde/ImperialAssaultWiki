@@ -1,0 +1,12 @@
+created: 20150116132919744
+modified: 20150116150058846
+title: Ranged Attack
+type: text/vnd.tiddlywiki
+
+Some Deployment cards and Item cards are marked with the [img[Ranged Attack.png]] icon. This icon means that the figures can perform ranged attacks.
+
+* Ranged attacks can target any hostile figure within line of sight of the attacker.
+* While performing a ranged attack, the attacker requires Accuracy equal to or greater than the number of spaces away from the target. If he does not have enough Accuracy results, the attack misses.
+* While performing a ranged attack that targets an adjacent figure, the attacker requires at least 1 Accuracy result or the attack misses.
+
+''Related Topics:'' [[Attacks]], [[Accuracy]], [[Counting Spaces]], [[Line of Sight]], [[Miss]]

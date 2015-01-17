@@ -1,0 +1,10 @@
+created: 20150116183110353
+modified: 20150116183200010
+title: Unique
+type: text/vnd.tiddlywiki
+
+Each player can only use one copy of each unique card at a time. These cards are identified by a bullet (•) before the name, for example, “• Darth Vader.”
+
+* Unique cards are identified by name only. Sub-names, affiliations, and abilities are not taken into account when determining which cards have the same name. For example, a player that has “• Darth Vader, Lord of the Sith” cannot deploy any other version of Darth Vader.
+
+''Related Topics:'' [[Allies]]

@@ -1,0 +1,14 @@
+created: 20150115220023764
+modified: 20150116172934963
+title: Mission Setup
+type: text/vnd.tiddlywiki
+
+Before resolving a mission, players perform a number of setup steps.
+
+!! Campaign Mission Setup
+<$transclude tiddler="Campaign Mission Setup" mode="block"/>
+
+!! Skirmish Mission Setup
+<$transclude tiddler="Skirmish Mission Setup" mode="block"/>
+
+''Related Topics:'' [[Allies]], [[Campaign Setup]], [[Command Cards]], [[Deployment]], [[Deployment Cards]]

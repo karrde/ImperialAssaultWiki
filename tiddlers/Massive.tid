@@ -1,0 +1,16 @@
+created: 20150115214717335
+modified: 20150115214825143
+title: Massive
+type: text/vnd.tiddlywiki
+
+The Massive keyword is found on some Deployment cards and refers to a series of special rules that apply to figures in that group.
+
+* Figures do not block line of sight ''to or from'' a Massive figure. 
+* During a campaign, Massive figures cannot enter interior spaces.
+* Massive figures can enter spaces containing blocking terrain and impassible terrain. They can also move through and end their movement on blocked or impassible edges.
+* Massive figures can enter spaces containing hostile figures and/or difficult terrain at no additional movement cost.
+* Massive figures cannot enter spaces containing other Massive figures.
+* A Massive figure can end its movement in spaces that contain blocking terrain and/or other figures. Any figures in its spaces are pushed into the closest empty space of its controller’s choice (taking impassible terrain into account). The player moving the Massive figure pushes friendly figures first, and then other players push their figures.
+* After a Massive figure ends its movement in spaces containing at least one other figure, the Massive figure cannot move any more during this activation.
+
+''Related Topics:'' [[Blocking Terrain]], [[Impassible Terrain]], [[Interior Spaces]], [[Movement]], [[Push]]

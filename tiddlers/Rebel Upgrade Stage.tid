@@ -1,0 +1,18 @@
+created: 20150116150430369
+modified: 20150116150550960
+title: Rebel Upgrade Stage
+type: text/vnd.tiddlywiki
+
+During a campaign, heroes can purchase new cards during each Rebel Upgrade Stage. They can first spend experience points to purchase new Class cards and can then spend credits to purchase new Item cards.
+
+* To purchase Class cards, each Rebel player looks at all cards in his Class deck and can purchase any number of those cards of his choice.
+** In order to purchase a Class card, the hero must spend a number of XP equal to the card’s cost.
+** Once purchased, he retains the cards for the remainder of the campaign.
+* To purchase Item cards, Rebel players shuffle the Item deck listed on the campaign log. Then they draw six cards from this deck and may purchase any number of those cards of their choice. Then they shuffle any unpurchased cards back into the deck.
+** If more than one Item deck is listed on the campaign log, players shuffle and draw six cards from each deck.
+** In order to purchase an Item card, the Rebel players must spend a number of credits equal to the card’s cost.
+** After purchasing an Item card, Rebel players give the Item card to the hero of their choice.
+** Immediately before purchasing Item cards, heroes can sell any of the Item cards they already own. Each sold card is returned to the game box. Then the heroes receive an amount of credits equal to half the card’s cost rounded up to the nearest 25.
+** Item cards without a credit cost can be sold for the heroes to receive 50 credits.
+
+''Related Topics:'' [[Class Cards]], [[Credits]], [[Experience Points]], [[Item Cards]]

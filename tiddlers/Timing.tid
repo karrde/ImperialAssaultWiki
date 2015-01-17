@@ -1,6 +1,5 @@
 created: 20150113215118138
-modified: 20150113215205857
-tags: RRG
+modified: 20150117021723130
 title: Timing
 type: text/vnd.tiddlywiki
 
@@ -9,5 +8,3 @@ In a campaign, resolve mission rules first, followed by effects triggered by the
 In a skirmish, resolve mission rules first, followed by effects triggered by the player with initiative, then effects triggered by his opponent.<p>
 During an attack, in both a campaign and a skirmish, resolve mission rules first, followed by effects triggered by the attacker, then effects triggered by the defender.<p>
 For additional information on timing conflicts, see “[[Conflicts]]”.<p>
-
-From RRG pg 2

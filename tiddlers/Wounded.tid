@@ -1,0 +1,12 @@
+created: 20150117020456052
+modified: 20150117020608059
+title: Wounded
+type: text/vnd.tiddlywiki
+
+During a campaign, when a healthy hero suffers [img[Damage.png]] (damage) equal to his Health he is wounded. He discards all damage tokens and flips his Hero sheet to the wounded side. If his [img[Strain.png]] (strain) exceeds his new Endurance value, he discards any strain tokens that exceed his Endurance.
+
+* If a wounded hero is defeated, he withdraws.
+* The wounded side of a hero sheet lists fewer abilities and often has lower Health, Speed, Endurance, or Attributes.
+* Once a hero is wounded, his sheet remains on the wounded side until the end of the mission.
+
+''Related Topics:'' [[Damage]], [[Health]], [[Healthy]], [[Hero]], [[Strain]], [[Withdraw]]

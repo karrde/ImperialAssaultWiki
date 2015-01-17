@@ -1,0 +1,11 @@
+created: 20150116183548866
+modified: 20150116183637063
+title: Walls
+type: text/vnd.tiddlywiki
+
+Walls are solid black lines along the boundaries of map tiles. Figures cannot move or trace line of sight through walls. See [[Appendix I]] and [[Appendix II]] for visual examples of moving and tracing line of sight with walls.
+
+* Walls are not terrain and are not affected by abilities that affect terrain. For example, Massive figures can enter blocking terrain but cannot move through walls.
+* Walls only block line of sight ''along an entire edge of a space''. If a wall does not cover an entire edge, then line of sight may be traced to, from, and through that edge.
+
+''Related Topics:'' [[Line of Sight]], [[Movement]], [[Terrain]]

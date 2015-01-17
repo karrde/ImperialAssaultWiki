@@ -1,0 +1,13 @@
+created: 20150116012142581
+modified: 20150116012246457
+title: Place
+type: text/vnd.tiddlywiki
+
+Many effects place figures or tokens on specific spaces of the map.
+
+* When a figure on the map is placed, it is removed from its current space and then placed where indicated.
+* Placing a figure in a space requires no movement points.
+* A player cannot choose to place a figure in a space where it cannot end its movement, such as in a space containing another figure, blocking terrain, or impassible terrain.
+* When a figure is placed, it enters the space(s) where it is placed. 
+
+''Related Topics:'' [[Enter]], [[Movement]], [[Terrain]]

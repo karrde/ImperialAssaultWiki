@@ -1,0 +1,13 @@
+created: 20150116173142137
+modified: 20150116173850433
+tags: 
+title: Status Phase in a Campaign
+type: text/vnd.tiddlywiki
+
+During a campaign, the Status Phase consists of the following steps:
+
+# ''Increase Threat:'' The Imperial player increases the threat dial by the threat level as listed on the campaign log.
+#<$transclude tiddler="SPiaC-Ready" mode="block"/>
+# ''Deploy and Reinforce:'' The Imperial player may perform an optional deployment and may reinforce figures. This allows him to spend [img[Threat.png]] (threat) to place additional figures onto the map.
+# <$transclude tiddler="SPiaC-End of Round Effects" mode="block"/>
+# ''Advance Round Dial:'' Advance the round dial by one. Then players begin a new round starting with a new Activation Phase.

@@ -1,0 +1,10 @@
+created: 20150116151238592
+modified: 20150116151350486
+title: Rest
+type: text/vnd.tiddlywiki
+
+During a campaign, hero figures can perform an action to rest. When performing a rest, the hero recovers [img[Strain.png]] equal to his Endurance.
+
+* If he recovers more [img[Strain.png]] than he has suffered, he recovers one [img[Damage.png]] for each [img[Strain.png]] he cannot recover.
+
+''Related Topics:'' [[Actions]], [[Damage]], [[Endurance]], [[Recover]], [[Strain]]
