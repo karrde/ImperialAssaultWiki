@@ -1,5 +1,6 @@
 created: 20150114030441484
-modified: 20150114030714883
+modified: 20150807174858234
+tags: [[Twin Shadows Rulebook]] [[Rules Reference Guide]]
 title: Class Cards
 type: text/vnd.tiddlywiki
 
@@ -11,5 +12,7 @@ During a campaign, each player has a deck of Class cards.
 * Class cards that have been purchased remain faceup in a player’s play area. They have ongoing effects as listed on the cards.
 * Some Class card abilities have costs. If this cost cannot be paid, the text immediately following this cost cannot be resolved. Ability costs are explained under “[[Abilities]]”.
 * Some Class cards have multiple abilities separated by a horizontal line. These abilities can be used independently and have separate costs and requirements in order to use them.
+
+Some heroes, such as Biv Bodhrik, have a Class deck that includes Item cards with an XP cost.  These cards can be purchased with XP like any other Class card and are used like other items of the same type.  If a player wishes to sell any of these items after purchasing them, he may do so for 50 credits like any other Item card without a listed credit cost.
 
 ''Related Topics:'' [[Abilities]], [[Actions]], [[Attachment]], [[Exhaust]], [[Experience Points]], [[Item Cards]], [[Play Area]], [[Strain]]

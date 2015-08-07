@@ -1,0 +1,17 @@
+created: 20150807172048337
+modified: 20150807173254370
+tags: [[Twin Shadows Rulebook]]
+title: Playing the Mini Campaign
+type: text/vnd.tiddlywiki
+
+Playing the mini campaign is similar to playing a full campaign (see "[[Playing a Campaign]]").
+
+Unlike a full campaign, missions in the mini capmaign are all considered to be story missions and are played in a specific order.  Side missions are not played during the mini campaign.
+
+During the [[Mission Stage]], Rebel players do not chooose the next mission to resolve based upon active Side or Story Mission cards.  Instead, each mission's epilogue will determine the next active mission to be resolved.
+
+!!Epilogues
+<$transclude tiddler="Epilogues" mode="block"/>
+
+!!The Campaign Log
+<$transclude tiddler="The Campaign Log" mode="block"/>

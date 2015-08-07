@@ -1,0 +1,17 @@
+created: 20150807173744210
+modified: 20150807174325813
+tags: [[Twin Shadows Rulebook]]
+title: Tile Types
+type: text/vnd.tiddlywiki
+
+Each map tile in //Imperial Assault// has one or more <span class="keyword">Tile Types</span> corresponding to the environment that tile represents.  These types have no direct gameplay effect but may be referred to by other components.
+
+The primary tile type distinction is between interior and exterior (see "[[Interior Spaces]]").  Other tile types include forest and desert tiles.  The tile types for the tiles found in the core game and those introduced in //Twin Shadows// are as follows:
+
+*''Forest:''
+**Core game tiles 01A-18A,37A,38B and 39A
+*''Desert:''
+**Core game tiles 01B-18B,37A,38A, and 39B
+**//Twin Shadows// tiles 04B-07B
+*''Interior:''
+**//Twin Shadows// tiles 01A-07A and 01B-03B
