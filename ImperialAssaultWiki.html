@@ -133,12 +133,6 @@ Error message and password prompt
 
 <li>$:/SiteTitle</li>
 
-<li>$:/state/showeditpreview</li>
-
-<li>$:/state/tab/moresidebar-401116514</li>
-
-<li>$:/state/tab/sidebar--1835078512</li>
-
 <li>$:/status/IsLoggedIn</li>
 
 <li>$:/status/UserName</li>
@@ -198,6 +192,8 @@ Error message and password prompt
 <li>Blocking Terrain</li>
 
 <li>Building the Agenda Deck</li>
+
+<li>Building the Side Mission Deck</li>
 
 <li>Campaign</li>
 
@@ -282,6 +278,8 @@ Error message and password prompt
 <li>Experience Points</li>
 
 <li>Exterior Spaces</li>
+
+<li>FAQ</li>
 
 <li>Focus</li>
 
@@ -5711,9 +5709,10 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20150113195234351" modified="20150115195327631" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150113195234351" modified="20150807145155801" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki" revision="8" bag="default">
 <pre>[[Imperial Assault Wiki]]
-[[Rules Reference Guide Index]]</pre>
+[[Rules Reference Guide Index]]
+[[FAQ]]</pre>
 </div>
 <div title="$:/isEncrypted" revision="0" bag="default">
 <pre>no</pre>
@@ -5871,22 +5870,13 @@ Error message and password prompt
 <div created="20150113224928945" modified="20150113224934972" title="$:/SiteTitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Imperial Assault Wiki</pre>
 </div>
-<div modified="20150117020632771" title="$:/state/showeditpreview" revision="4" bag="default">
-<pre>no</pre>
-</div>
-<div modified="20150117022637706" title="$:/state/tab/moresidebar-401116514" revision="3" bag="default">
-<pre>$:/core/ui/MoreSideBar/Shadows</pre>
-</div>
-<div modified="20150117022711163" title="$:/state/tab/sidebar--1835078512" revision="3" bag="default">
-<pre>$:/core/ui/SideBar/Open</pre>
-</div>
 <div title="$:/status/IsLoggedIn" revision="2" bag="default">
 <pre>yes</pre>
 </div>
 <div title="$:/status/UserName" revision="1" bag="default">
 <pre></pre>
 </div>
-<div list="[[Imperial Assault Wiki]] [[Rules Reference Guide Index]]" title="$:/StoryList" revision="343" bag="default">
+<div list="[[Imperial Assault Wiki]] [[Rules Reference Guide Index]] FAQ" title="$:/StoryList" revision="81" bag="default">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json" revision="0" bag="default">
@@ -5903,7 +5893,7 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20150116010246838" modified="20150117021724781" title="$:/temp/search" revision="71" bag="default">
+<div created="20150807142410394" modified="20150807144816606" title="$:/temp/search" revision="69" bag="default">
 <pre></pre>
 </div>
 <div created="20150113231217759" modified="20150113231216456" title="$:/theme" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -5986,7 +5976,7 @@ Error message and password prompt
     }
 }</pre>
 </div>
-<div created="20150113193844628" modified="20150117021926173" rrg="2" title="Abilities" type="text/vnd.tiddlywiki" revision="3" bag="default">
+<div created="20150113193844628" modified="20150119211641317" rrg="2" title="Abilities" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>All text on cards and hero sheets are referred to as abilities. Abilities provide special effects that can be performed above and beyond the standard rules of the game.&lt;p&gt;
 Abilities can have one or more requirements. If the requirements cannot be met, the ability cannot be performed.&lt;p&gt;
 
@@ -6003,9 +5993,9 @@ Abilities can have one or more requirements. If the requirements cannot be met, 
 * An ability that causes one or more figures to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack and does not count toward a figure’s attack limitations.
 ''Related Topics:'' [[Attacks]], [[Deplete]], [[Exhaust]], [[Endurance]], [[Strain]], [[Threat]]
 
-From Rules Reference Guide page {{!!rrg}}</pre>
+[[Rules Reference Guide]] page {{!!rrg}}</pre>
 </div>
-<div created="20150113200228424" modified="20150117021615717" title="Accuracy" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113200228424" modified="20150117021615717" title="Accuracy" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Ranged attacks ([img[Ranged Attack.png]]) need enough Accuracy to not miss the target figure. The amount of Accuracy needed is equal to the number of spaces the attacker is away from the target (see “[[Counting Spaces]]”).&lt;p&gt;
 
 * The attacker’s total Accuracy is determined by adding all numbers rolled on dice, and applying any Accuracy modifiers provided by abilities.
@@ -6018,7 +6008,7 @@ From Rules Refernce Guide page 3</pre>
 <div created="20150113195016711" title="Action.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABsAAAAVCAYAAAC33pUlAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAACfUlEQVRIDbVVvWsUQRT/ze7eXaNgqeAfIFwjGPwqTJHeZqsoeGehGIjFKgmopDFnGiPGsxEUIUXA5hAJRCVVLCwEBS3FSoOHF90qEaLJTubN7NzOuB+3EfJgd96+ee/93nvz3iwL17ocRcRY0S56H5/iyMhN3O+8R2P4EMDJXZRp42RKDSFBFT1upSa1A/8Y5le6hmWaHQwmMmMFj4wk9isB3+QDDgRLx2dLal7FEgT+EOZzAL2Ib0tlEb/IIMaOj4lkXJ7BKh4//IDRq2exD+tYaN3A8ncOKmC08cUCo4/APw503qFxRpyhQR6P4v4QAEkvKDQOscd/Ya4xjCerEzg/LiXofV7Ci6UNw02azQK0ysg5dREBcMpJ8AR0AreF4wOHVSOQ2yq9ShABmiW1wMieICh+ThldUEAk31yn9+7JBPRS5vKMQsw1T8qMUvv/IVAlfQuP2lqTaoYQDy6ewvSAM9E2ZdfAn4BVRi7OaC+AKKDrj6ZglDFEu3ka0y+Lu6xsJqZe0H6FW35dZyZK1xSl2xOgRUyN1iW2KGNPla4EkBp/M+ZiPmgT0NG+kvP63rVSzbD/YBVu32wwM/4PEFmwnz++8r9bDJ7wJK8umml5TUVwHIaKV0O0tQlH3oHUT/r3ofjupwXURyYt9LHZRdxpJBnpTdn6VXGXcs7gyjGg+5DGgcab+G0w1xVrfLtIOZmr8RdbFo3NPs8EIiUBRov6jUD2CwnU7NF8JyBKT4EkPO9nCly52xFAQ7SZSXHrqyiVhsmThL415fHA5VYHrQIg8mANtXa5mzX6/QfnJp9h5lJ+RtofC9e+meFquVyTMlri/A9RfUf/EzO0dgAfROH7eqi0ngAAAABJRU5ErkJggg==</pre>
 </div>
-<div created="20150113200515759" modified="20150117021622977" title="Actions" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113200515759" modified="20150117021622977" title="Actions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a figure’s activation, it may perform two actions. The available actions are Attack, Move, Interact, Rest, and Special.&lt;p&gt;
 
 * The figure is not required to perform both actions.
@@ -6034,7 +6024,7 @@ From Rules Refernce Guide page 3</pre>
 
 From RG pg 3</pre>
 </div>
-<div created="20150113200842871" modified="20150117021628594" title="Activation" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113200842871" modified="20150117021628594" title="Activation" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During each Activation Phase, each figure receives one activation. During a figure’s activation, it performs up to two actions.&lt;p&gt;
 
 * Players alternate resolving activations. After a player finishes resolving an activation, one of his opponents then resolves an activation.
@@ -6052,28 +6042,29 @@ From RG pg 3</pre>
 * Abilities that trigger “during” a figure’s activation are used before or after either of that figure’s two actions.
 ''Related Topics:'' [[Active Missions]], [[Exhaust]], [[Deployment Cards]], [[Group]]</pre>
 </div>
-<div created="20150113201145318" modified="20150113201255288" title="Activation Phase" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150113201145318" modified="20150807142445349" title="Activation Phase" type="text/vnd.tiddlywiki" revision="2" bag="default">
 <pre>The first phase of each round is the Activation Phase. During this phase, players alternate activating groups of figures.&lt;p&gt;
 
 * While activating a group of two or more figures, the player activates all figures in the group, one at a time, in the order of his choice.
 * During a campaign mission, Rebel and Imperial players alternate activating groups of figures. The Rebel players resolve the first activation each round.
 * During a skirmish, players alternate activating groups of figures. The player with initiative resolves the first activation each round.
+* During a skirmish, if your opponent has more ready Deployment cards than you, you may choose not to activate a group and pass play to your opponent.
 ''Related Topics:'' [[Activation]], [[Actions]], [[Group]]</pre>
 </div>
 <div created="20150113201315835" modified="20150113201330659" title="Active Missions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, an active mission is any available story mission or side mission that the heroes can choose to resolve.&lt;p&gt;
 ''Related Topics:'' [[Missions]]</pre>
 </div>
-<div created="20150113201353685" modified="20150113201545678" title="Adjacent" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150113201353685" modified="20150807142546403" title="Adjacent" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>A space is adjacent to each other space that shares an edge or corner with the space.&lt;p&gt;
 
-* Two spaces that share only an edge that is a wall or blocking terrain are not adjacent.
+* Two spaces that share only an edge that is a wall, blocking terrain, or a door are not adjacent
 * A figure is not considered to be adjacent to itself.
 * Two figures that are in adjacent spaces are adjacent figures. These figures are one space away from each other. This means that a [img[Ranged Attack.png]] (ranged) attack targeting an adjacent figure needs at least 1 Accuracy to not miss.
 * Spaces on either side of the diagonal intersection of walls and/ or blocking terrain are not adjacent to each other (see example #16 in “[[Appendix I - Line of Sight Examples]]”).
 ''Related Topics:' [[Accuracy]], [[Melee Attack]], [[Movement]], [[Ranged Attack]]</pre>
 </div>
-<div created="20150113201616439" modified="20150117021636426" title="Affiliation" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113201616439" modified="20150117021636426" title="Affiliation" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Each figure belongs to one of three affiliations: Rebel ([img[Rebel.png]]), Imperial ([img[Imperial.png]]), or Mercenary ([img[Mercenary.png]]). All heroes are [img[Rebel.png]] figures, while each other figure’s affiliation is shown on the upper-right corner of its Deployment card.&lt;p&gt;
 
 * During a campaign, [img[Imperial.png]] and [img[Mercenary.png]] figures are friendly to one another and hostile toward the [img[Rebel.png]] figures. All [img[Rebel.png]] figures are friendly to each other and hostile toward all [img[Imperial.png]] and [img[Mercenary.png]] figures.
@@ -6093,7 +6084,7 @@ From RG pg 3</pre>
 &lt;$transclude tiddler=&quot;Building the Agenda Deck&quot; mode=&quot;block&quot;/&gt;
 ''Related Topics:' [[Forced Missions]], [[Hidden Information]], [[Influence]], [[Imperial Upgrade Stage]], [[Time Period]]</pre>
 </div>
-<div created="20150113220225232" modified="20150116183453704" title="Allies" type="text/vnd.tiddlywiki" revision="2" bag="default">
+<div created="20150113220225232" modified="20150116183453704" title="Allies" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, players can gain access to special figures as mission rewards. These figures are collectively referred to as allies.&lt;p&gt;
 
 * All figures corresponding to Rebel Deployment cards are allies. All figures corresponding to unique Imperial Deployment cards (such as “Darth Vader”) are villains. Villains follow all general ally rules listed in this section.
@@ -6129,21 +6120,19 @@ The Imperial player then gains threat equal to the deployment cost listed on the
 * Many attachments require the group to have a specific trait, such as “&lt;span class=&quot;trait&quot;&gt;Trooper.&lt;/span&gt;” Attachments with these restrictions cannot be played on a group that does not have the trait.
 ''Related Topics:'' [[Class Cards]], [[Deployment]], [[Deployment Cards]]</pre>
 </div>
-<div created="20150113232255294" modified="20150113232409398" title="Attacking Objects" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150113232255294" modified="20150807143533821" title="Attacking Objects" type="text/vnd.tiddlywiki" revision="3" bag="default">
 <pre>Mission rules can allow a figure to attack objects, such as doors or tokens.
 
-* Mission rules specify how much Health the object has. Any H it suffers is placed on or adjacent to the object. If an object suffers H equal to or greater than its Health, it is destroyed and removed from the map. If the object is a door, it is considered to have opened.
+* Mission rules specify how much Health the object has. Any [img[Damage.png]] it suffers is placed on or adjacent to the object. If an object suffers [img[Damage.png]] equal to or greater than its Health, it is destroyed and removed from the map. If the object is a door, it is considered to have opened.
 * Many abilities that modify attacks can also affect objects that can be attacked, but some cannot. An ability that refers to a target can be used when attacking an object, but an ability that refers to a figure cannot. If the ability can modify any attack and does not specify target or figure, it can be used when attacking an object.
 * Abilities that affect objects only affect objects that can be attacked.
-* Conditions cannot be applied to objects, and objects cannot suffer C. Objects cannot be pushed.
-* Mission rules specify if the object rolls defense dice or has any inherent G while being attacked. If it does not list a die color, it does not roll any dice.
+* Conditions cannot be applied to objects, and objects cannot suffer [img[Strain.png]]. Objects cannot be pushed.
+* Mission rules specify if the object rolls defense dice or has any inherent [img[Block.png]] while being attacked. If it does not list a die color, it does not roll any dice.
 * If a figure is in the same space as the token, the figure and token are targeted for attacks independently. Neither the figure nor the token block line of sight to the other.
-* The Blast and Cleave keywords can affect objects.
-If a figure is in the same space as the token, the figure and token are considered adjacent for the purposes of Blast and Cleave.
-• When attacking a door, using an ability that affects a door, or counting spaces to a door, the door is considered to be occupying each space with which it shares an edge.
-• The spaces that share an edge with a door are the only
-spaces that are considered to be adjacent to that door. When declaring a P (melee) attack targeting a door, the attacker must be in one of those spaces.
-Related Topics: Blast, Cleave, Conditions, Convert, Counting Spaces, Damage, Doors, Health, Objects, Target</pre>
+* The Blast and Cleave keywords can affect objects. If a figure is in the same space as the token, the figure and token are considered adjacent for the purposes of Blast and Cleave.
+* When attacking a door, using an ability that affects a door, or counting spaces to a door, the door is considered to be occupying each empty space with which it shares an edge
+* The spaces that share an edge with a door are the only spaces that are considered adjacent to that door. When declaring a [img[Melee Attack.png]] (melee) attack targeting a door, the attacker must be in one of those spaces. If the attacker has Reach, he must be in or adjacent to one of those spaces.
+''Related Topics'': [[Blast]], [[Cleave]], [[Conditions]], [[Convert]], [[Counting Spaces]], [[Damage]], [[Doors]], [[Health]], [[Objects]], [[Target]]</pre>
 </div>
 <div created="20150113225231752" modified="20150113232414966" title="Attacks" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Figures perform attacks to attempt to defeat hostile figures.&lt;p&gt;
@@ -6218,7 +6207,7 @@ Mission effects often test these attributes, requiring the hero to roll specific
 
 ''Related Topics:'' [[Attacks]], [[Attacking Objects]], [[Conditions]], [[Keywords]], [[Large Figures]], [[Target]]</pre>
 </div>
-<div created="20150117021124049" modified="20150117021130797" title="Bleed" revision="1" bag="default">
+<div created="20150117021124049" modified="20150117021130797" title="Bleed" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Conditions]]”.</pre>
 </div>
 <div created="20150113193400466" title="Block.png" type="image/png" revision="0" bag="default">
@@ -6239,6 +6228,13 @@ Mission effects often test these attributes, requiring the hero to roll specific
 * An Agenda’s set is only used for building the deck at the start of a campaign and has no other game effect.
 * All Agenda cards not chosen during campaign setup are returned to the game box and are not used during this campaign.</pre>
 </div>
+<div created="20150119211234664" modified="20150119211400273" tags="" title="Building the Side Mission Deck" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<pre>During campaign setup, players separate the Side Mission cards into piles by type (color). Shuffle the following cards together to create the Side Mission deck:
+
+* One red Side Mission card corresponding to each hero in the campaign.
+* Four green Side Mission cards chosen by the hero players. Heroes cannot choose more than one of these cards that rewards the same ally, regardless of the ally’s subtitle, such as “Hero of the Rebellion.”
+* Four random gray Side Mission cards. These are dealt facedown and are not shown to any players.</pre>
+</div>
 <div created="20150114025802981" modified="20150114025858167" title="Campaign" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A campaign is a series of linked missions with a progressing narrative. Throughout the course of the campaign, players resolve a variety of missions and acquire Agenda, Item, and Class cards.
 
@@ -6248,7 +6244,7 @@ Mission effects often test these attributes, requiring the hero to roll specific
 
 ''Related Topics:'' [[Campaign Setup]], [[Imperial Upgrade Stage]], [[Missions]], [[Mission Stage]], [[Rebel Upgrade Stage]], [[Time Period]], [[Winning the Game]]</pre>
 </div>
-<div created="20150116172751256" modified="20150116173530017" tags="" title="Campaign Mission Setup" revision="2" bag="default">
+<div created="20150116172751256" modified="20150116173530017" tags="" title="Campaign Mission Setup" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>To setup a campaign mission, perform the following steps.
 
 # ''Assemble Map:'' The Imperial player assembles the mission’s map using map tiles as shown in the Campaign Guide. He places all tokens on the map as indicated in the diagram.
@@ -6276,7 +6272,7 @@ If playing a 2-hero game, each hero claims a “Legendary” Reward card. If pla
 ''Related Topics:'' [[Agenda Cards]], [[Class Cards]], [[Missions]], [[Mission Setup]]
 </pre>
 </div>
-<div created="20150113215034193" modified="20150117021643114" title="Card Interpretations" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113215034193" modified="20150117021643114" title="Card Interpretations" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Many cards use the word “you” to refer to a figure instead of the player. For example, if a Deployment card reads “While attacking, you may reroll 1 or more attack dice” any figure belonging to that card’s group may reroll one die while it is attacking.</pre>
 </div>
 <div created="20150114030346582" modified="20150114030411964" title="Claim" type="text/vnd.tiddlywiki" revision="0" bag="default">
@@ -6460,7 +6456,7 @@ Impassible terrain, figures, and difficult terrain can be moved into and through
 * Rebel players choose the order in which their figures are deployed. Before placing their figures, they choose the Item cards that they will bring to the mission. Each hero may bring up to 1 Armor ([img[Armor.png]]), 2 Weapons, and 3 Equipment ([img[Equipment.png]]).
 * After deploying hero figures, Rebel players may choose to deploy an ally that they have gained as a reward (see “[[Allies]]”).</pre>
 </div>
-<div created="20150115222207717" modified="20150115222224392" tags="" title="Deploy Units" revision="1" bag="default">
+<div created="20150115222207717" modified="20150115222224392" tags="" title="Deploy Units" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Deploy Units:'' The player with initiative chooses either the red or blue deployment zone shown on the skirmish mission’s diagram. He deploys all of his figures in this deployment zone.
 
 Then his opponent deploys all of his figures in the other deployment zone.</pre>
@@ -6500,16 +6496,17 @@ During setup of a skirmish, players place all of their figures within their depl
 ** All Deployment cards not in initial, reserved, or open groups are returned to the game box and not used during this mission.
 * Special Setup: Follow any rules listed in this section. Many missions do not have special setup rules.</pre>
 </div>
-<div created="20150115010942636" modified="20150115194416716" title="Deployment Cards" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150115010942636" modified="20150807143433358" title="Deployment Cards" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>All figures except heroes have corresponding Deployment cards. These cards list the figure’s name, group size, abilities, Speed, Health, Defense, and attack.
 
 * Since [img[Mercenary.png]] Deployment cards have a different back from [img[Imperial.png]] Deployment cards, the Rebel players will know how many [img[Mercenary.png]] and [img[Imperial.png]] cards are in the Imperial player’s hand and in reserve.
 * Elite Deployment cards have a red border. All other Deployment cards are regular Deployment cards and have gray borders.
 * Deployment cards list a number of traits under the name (such as &lt;span class=&quot;trait&quot;&gt;Trooper&lt;/span&gt;). Traits have no gameplay effect but may be referred to by other components.
+* Some Deployment cards have the &lt;span class=&quot;trait&quot;&gt;Skirmish Upgrade&lt;/span&gt; trait. Rules and abilities that reference Deployment cards do not affect, do not include, and cannot manipulate Skirmish Upgrade cards unless the rule or ability states otherwise.
 
 ''Related Topics:'' [[Activation]], [[Allies]], [[Elite Figure]], [[Group]], [[Open Groups]], [[Unique]]</pre>
 </div>
-<div created="20150115222046036" modified="20150115222118524" tags="" title="Determine and set up Skirmish Mission" revision="1" bag="default">
+<div created="20150115222046036" modified="20150115222118524" tags="" title="Determine and set up Skirmish Mission" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Determine and set up Skirmish Mission:'' The player with initiative shuffles his deck of Skirmish Mission cards and draws one card. This card lists the name of the mission, which map it is played on, and the special rules for the mission.&lt;p&gt;
 After drawing this card, players refer to the matching skirmish mission’s diagram, and then build the map and place tokens on it as shown.
 
@@ -6613,6 +6610,45 @@ After a figure escapes, remove that figure from the map. That figure cannot be a
 <div created="20150115185216631" modified="20150115185246469" tags="" title="Exterior Spaces" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Interior Spaces]]”.</pre>
 </div>
+<div created="20150807144011380" modified="20150807144745312" tags="" title="FAQ" revision="7" bag="default">
+<pre>This section answers frequently asked questions about Imperial Assault.
+
+!! General
+''Q: Can Item cards from a Class deck or earned as a reward be traded to other heroes?''
+A: No.
+
+''Q: Do Class, Reward, and Item cards that apply additional health to a hero continue to apply that health if the hero is wounded?''
+A: Yes.
+
+''Q: Does “Move a number of spaces equal to your speed” follow the same rules as “Move X spaces?”''
+A: Yes.
+
+''Q: When a large figure moves, does it exit all spaces it occupied and then enter all of its new spaces, even if some of those spaces overlap?''
+A: Yes.
+
+''Q: In a skirmish, if my opponent plays “Take Initiative,” can I play my own copy of “Take Initiative” to counteract it?''
+A: No. Your timing window to play cards “at the start of the round” would have passed (see “[[Conflicts in a Skirmish|Conflicts]]”).
+
+!! Hero Abilities
+''Q: When Gaarkhan suffers 3 or more damage and becomes Wounded as a result, does he still become Focused?''
+A: No. Damage is suffered during the attack itself, and “Rage” allows Gaarkhan to become Focused after the attack resolves.
+
+''Q: Does Mak have to use “Disengage” right away when a hostile figure enters a space within 3 spaces?''
+A: Yes. The timing window for that ability is only when the hostile figure enters the space in question.
+
+''Q: When Jyn has “Smuggler’s Luck” and heroes are drawing Item cards from more than one Item deck, from which deck is the extra card drawn?''
+A: After revealing cards from both available decks, Jyn’s player chooses one of those decks from which to draw the extra card.
+
+!! Mission Rules
+''Q: What does it mean when a door becomes “unlocked?” Does it open?''
+A: No. When a locked door is unlocked by a mission effect, the door remains closed but can be opened with an interact, following normal rules for opening doors.
+
+''Q: When a Rebel player is playing as multiple heroes, does each hero still receive 1 XP when the rules say each player receives 1 XP?''
+A: Yes.
+
+''Q: In “Under Siege,” if the Imperials secure the 4th capture point at the end of Round 8, which “End of Mission” condition triggers, the end of Round 8 or the Imperial player securing 4 capture points?''
+A: Since they happenat the same time, the Imperial player decides (see “[[Conflicts in a Campaign|Conflicts]]”).</pre>
+</div>
 <div created="20150115185310811" modified="20150115185358357" title="Focus" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Focused is a condition that provides the figure with an additional green die the next time the figure attacks or performs a test. The condition is then discarded.
 
@@ -6622,7 +6658,7 @@ After a figure escapes, remove that figure from the map. That figure cannot be a
 
 ''Related Topics:'' [[Damage]], [[Conditions]]</pre>
 </div>
-<div created="20150117020905845" modified="20150117020915793" title="Forced Missions" revision="1" bag="default">
+<div created="20150117020905845" modified="20150117020915793" title="Forced Missions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, certain Agenda cards and events can force a mission to be played. This most often happens as the result of a mission reward or Agenda card. For example, if an Agenda card says “Play ‘Spice Mines of Kessel’ as a forced mission,” players would immediately play this mission, and then resume the campaign from the current stage.
 
 * Forced missions are recorded on the “Forced Missions” section of the campaign log. When a mission is forced and players do not have time to resolve the mission this session, they should record the mission in the Forced Missions section without checking the box. The next time they resume their campaign, they will immediately play this mission.
@@ -6642,7 +6678,7 @@ of the campaign log, they can still play additional forced missions. Record thes
 
 ''Related Topics:'' [[Affiliation]], [[Hostile Figure]]</pre>
 </div>
-<div created="20150113214943171" modified="20150117021648769" title="Golden Rules" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150113214943171" modified="20150117021648769" title="Golden Rules" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>If a rule in this guide contradicts a rule in the Learn to Play booklet or Skirmish Guide, the rule in this reference guide takes priority.&lt;p&gt;
 Card abilities can override the rules listed in this guide. Mission rules can override both card abilities and rules from this guide.&lt;p&gt;
 If a card or mission uses the word cannot, that effect is absolute and ''cannot'' be overridden by other effects.&lt;p&gt;</pre>
@@ -6710,12 +6746,12 @@ If a card or mission uses the word cannot, that effect is absolute and ''cannot'
 
 ''Related Topics:'' [[Line of Sight]], [[Massive]], [[Mobile]], [[Movement]], [[Place]], [[Push]], [[Terrain]]</pre>
 </div>
-<div created="20150115194952027" modified="20150115195245685" tags="" title="Imperial Assault Wiki" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150115194952027" modified="20150807145128643" tags="" title="Imperial Assault Wiki" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>Welcome to the Rules and Reference wiki for Imperial Assault.
 
 Imperial Assault is a game from [[Fantasy Flight Games|http://fantasyflightgames.com/]] based in the [[Star Wars|http://starwars.com]] Legends Universe.
 
-Much of the included rules here are from the rulebooks contained in the game that can be found here: [[http://www.fantasyflightgames.com/edge_minisite_sec.asp?eidm=271&amp;esem=4]]</pre>
+Much of the included rules here are from the rulebooks contained in the game that can be found here: [[https://www.fantasyflightgames.com/en/products/star-wars-imperial-assault/#support-section]]</pre>
 </div>
 <div created="20150115191205765" modified="20150115191249532" title="Imperial Figures" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, all figures belonging to the Imperial player are Imperial figures. This includes all Deployment cards with an [img[Imperial.png]] or [img[Mercenary.png]] icon.
@@ -6874,7 +6910,7 @@ Most of the above situations are shown in detail in “[[Appendix I - Line of Si
 <div created="20150115214546174" modified="20150115214601819" tags="" title="Locked" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Doors]]”</pre>
 </div>
-<div created="20150115214717335" modified="20150115214825143" title="Massive" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150115214717335" modified="20150807143636519" title="Massive" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>The Massive keyword is found on some Deployment cards and refers to a series of special rules that apply to figures in that group.
 
 * Figures do not block line of sight ''to or from'' a Massive figure. 
@@ -6884,13 +6920,14 @@ Most of the above situations are shown in detail in “[[Appendix I - Line of Si
 * Massive figures cannot enter spaces containing other Massive figures.
 * A Massive figure can end its movement in spaces that contain blocking terrain and/or other figures. Any figures in its spaces are pushed into the closest empty space of its controller’s choice (taking impassible terrain into account). The player moving the Massive figure pushes friendly figures first, and then other players push their figures.
 * After a Massive figure ends its movement in spaces containing at least one other figure, the Massive figure cannot move any more during this activation.
+* If a Massive figure occupies a space containing blocking terrain, line of sight can be traced to that figure, spaces can be counted to that figure, and adjacent figures can attack that figure.
 
 ''Related Topics:'' [[Blocking Terrain]], [[Impassible Terrain]], [[Interior Spaces]], [[Movement]], [[Push]]</pre>
 </div>
-<div created="20150115214846601" modified="20150115215021378" title="Melee Attack" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20150115214846601" modified="20150807143713643" title="Melee Attack" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>Some Deployment cards and Item cards are marked with the [img[Melee Attack.png]] icon. This icon means that the figures can perform melee attacks.
 
-* Melee attacks can target a hostile figure adjacent to the attacker.
+* Melee attacks can target a hostile figure or object adjacent to or in the same space as the attacker
 * Accuracy is not required while performing melee attacks.
 * If a figure does not have the [img[Melee Attack.png]] icon, it cannot perform melee attacks. An attack targeting an adjacent figure that uses the [img[Ranged Attack.png]] icon is a ranged attack, not a melee attack.
 
@@ -6911,7 +6948,7 @@ Most of the above situations are shown in detail in “[[Appendix I - Line of Si
 
 ''Related Topics:'' [[Accuracy]], [[Attacks]], [[Counting Spaces]]</pre>
 </div>
-<div created="20150115220023764" modified="20150116172934963" title="Mission Setup" type="text/vnd.tiddlywiki" revision="3" bag="default">
+<div created="20150115220023764" modified="20150116172934963" title="Mission Setup" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Before resolving a mission, players perform a number of setup steps.
 
 !! Campaign Mission Setup
@@ -6922,7 +6959,7 @@ Most of the above situations are shown in detail in “[[Appendix I - Line of Si
 
 ''Related Topics:'' [[Allies]], [[Campaign Setup]], [[Command Cards]], [[Deployment]], [[Deployment Cards]]</pre>
 </div>
-<div created="20150116010019158" modified="20150116010514201" title="Mission Stage" revision="2" bag="default">
+<div created="20150116010019158" modified="20150116010514201" title="Mission Stage" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, players choose and resolve missions during the Mission Stage. This stage consists of the following steps:
 
 # ''Choose Mission:'' Rebel players refer to the campaign log to determine their next mission. If this reads “Side Mission,” the heroes choose one of the active Side Mission cards. If this reads “Story Mission,” they must choose an active Story Mission card.
@@ -6933,7 +6970,7 @@ After resolving “Post-Mission Cleanup,” players proceed to the next stage li
 
 ''Related Topics:'' [[Crate Tokens]], [[Missions]], [[Supply Cards]]</pre>
 </div>
-<div created="20150116010555410" modified="20150116010659243" title="Mission Tokens" revision="1" bag="default">
+<div created="20150116010555410" modified="20150116010659243" title="Mission Tokens" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>These tokens are used to represent objects, people, or general points of interest. Mission tokens have no inherent effects and act as specified in the mission.
 
 * There are three types of mission tokens. If a mission token shows a [img[Rebel.png]] icon, it is referred to as a Rebel mission token. Likewise, a mission token that shows a [img[Imperial.png]] icon is referred to as an Imperial mission token. All other mission tokens are neutral mission tokens.
@@ -6944,7 +6981,7 @@ After resolving “Post-Mission Cleanup,” players proceed to the next stage li
 
 ''Related Topics:'' [[Control]], [[Hidden Information]], [[Interact]]</pre>
 </div>
-<div created="20150115215259322" modified="20150117021000804" title="Missions" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20150115215259322" modified="20150119211447004" title="Missions" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Each mission is a game of tactical combat played on a modular game map and featuring unique mission rules.
 
 !! Resolving a Mission
@@ -6964,13 +7001,8 @@ During a campaign, players resolve a series of story and side missions. The rule
 * Side Mission cards list a number of traits under the name (such as Tatooine). Traits have no gameplay effect but may be referred to by other components.
 * After the introductory mission is resolved, shuffle the Side Mission deck, draw two cards, and place these cards faceup on the table. After each non-agenda side mission is resolved, shuffle the side Mission deck, draw one card, and place this card faceup on the table.
 
-!!! Building the Side Mission deck
-
-During campaign setup, players separate the Side Mission cards into piles by type (color). Shuffle the following cards together to create the Side Mission deck:
-
-* One red Side Mission card corresponding to each hero in the campaign.
-* Four green Side Mission cards chosen by the hero players. Heroes cannot choose more than one of these cards that rewards the same ally, regardless of the ally’s subtitle, such as “Hero of the Rebellion.”
-* Four random gray Side Mission cards. These are dealt facedown and are not shown to any players.
+!!! Building the Side Mission Deck
+&lt;$transclude tiddler=&quot;Building the Side Mission Deck&quot; mode=&quot;block&quot; /&gt;
 
 !! Forced Missions
 &lt;$transclude tiddler=&quot;Forced Missions&quot; mode=&quot;block&quot; /&gt;
@@ -6981,20 +7013,20 @@ The map for each skirmish mission is shown in that mission’s diagram. The rule
 
 ''Related Topics:'' [[Active Missions]], [[Agenda Cards]], [[Campaign]], [[Mission Setup]], [[Mission Stage]], [[Winning the Game]]</pre>
 </div>
-<div created="20150116010726000" modified="20150116010801186" title="Mobile" revision="1" bag="default">
+<div created="20150116010726000" modified="20150116010801186" title="Mobile" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Figures that have this keyword ignore additional movement costs when entering difficult terrain and spaces containing hostile figures. They can also enter impassible and blocking terrain, and can end their movement in a space containing impassible or blocking terrain.
 
 * If a figure with mobile occupies a space containing blocking terrain, line of sight can be traced to that figure, spaces can be counted to that figure, and adjacent figures can attack that figure.
 
 ''Related Topics:'' [[Keywords]]</pre>
 </div>
-<div created="20150116010815863" modified="20150116010828149" tags="" title="Modifications" revision="1" bag="default">
+<div created="20150116010815863" modified="20150116010828149" tags="" title="Modifications" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Item Cards]]”</pre>
 </div>
-<div created="20150117021258593" modified="20150117021308542" title="Move X Spaces" revision="1" bag="default">
+<div created="20150117021258593" modified="20150117021308542" title="Move X Spaces" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See &quot;[[Movement]]&quot;</pre>
 </div>
-<div created="20150116010857604" modified="20150116011234256" title="Movement" revision="1" bag="default">
+<div created="20150116010857604" modified="20150116011234256" title="Movement" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When a figure performs a move, it gains movement points equal to its Speed.
 
 * Performing a move ''does not move the figure''; it only provides movement points that may be spent during that figure’s activation. This means that a figure may use its first action to perform a move, followed by an attack, and then spend the movement points. It may even spend some movement points before the attack and then some of them after the attack.
@@ -7010,7 +7042,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Adjacent]], [[Counting Spaces]], [[Large Figures]], [[Movement Points]], [[Place]], [[Push]], [[Terrain]]</pre>
 </div>
-<div created="20150116011321955" modified="20150116011416901" title="Movement Points" revision="1" bag="default">
+<div created="20150116011321955" modified="20150116011416901" title="Movement Points" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>There are numerous methods by which a figure can gain movement points. A figure can spend one movement point to move to any adjacent space.
 
 * Any time a figure gains movement points, they are added to the remaining total of movement points that figure possesses.
@@ -7022,7 +7054,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Movement]], [[Strain]]</pre>
 </div>
-<div created="20150116011527042" modified="20150116011644071" title="Neutral Figures" revision="1" bag="default">
+<div created="20150116011527042" modified="20150116011644071" title="Neutral Figures" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, some figures are denoted as neutral. These figures are only present in specific missions. The rules regarding these figures are described in the mission.
 
 * No player controls a neutral figure. Neutral figures cannot activate or perform actions.
@@ -7032,7 +7064,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Line of Sight]], [[Movement]]</pre>
 </div>
-<div created="20150116011712064" modified="20150116011815295" title="Objects" revision="1" bag="default">
+<div created="20150116011712064" modified="20150116011815295" title="Objects" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Objects refer to elements on the map that are not figures. Doors, crates, and terminals are all considered to be objects.
 
 * Most mission tokens are considered to be objects, unless the mission rules use the token to represent a figure.
@@ -7043,7 +7075,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Attacking Objects]], [[Crate Tokens]], [[Doors]], [[Mission Tokens]], [[Movement]], [[Terminal Tokens]]</pre>
 </div>
-<div created="20150116011909275" modified="20150116012007132" title="Open Groups" revision="1" bag="default">
+<div created="20150116011909275" modified="20150116012007132" title="Open Groups" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, most missions allow the Imperial player to choose a number of Deployment cards known as open groups.
 
 * These Deployment cards are kept secret in the Imperial player’s hand until deployed.
@@ -7052,7 +7084,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Deployment]], [[Deployment Cards]], [[Group]], [[Status Phase]]</pre>
 </div>
-<div created="20150116012027503" modified="20150116012123143" title="Pierce" revision="1" bag="default">
+<div created="20150116012027503" modified="20150116012123143" title="Pierce" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>This keyword allows a figure to ignore a number of [img[Block.png]](block) results while attacking. For example, “Pierce 2” allows an attack to ignore up to 2[img[Block.png]] results.
 
 * If the number of [img[Block.png]] results is less than the Pierce value, the excess Pierce value has no effect.
@@ -7060,7 +7092,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Attacks]], [[Keywords]]</pre>
 </div>
-<div created="20150116012142581" modified="20150116012246457" title="Place" revision="1" bag="default">
+<div created="20150116012142581" modified="20150116012246457" title="Place" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Many effects place figures or tokens on specific spaces of the map.
 
 * When a figure on the map is placed, it is removed from its current space and then placed where indicated.
@@ -7070,7 +7102,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Enter]], [[Movement]], [[Terrain]]</pre>
 </div>
-<div created="20150116012324280" modified="20150116012347395" title="Play Area" revision="1" bag="default">
+<div created="20150116012324280" modified="20150116012347395" title="Play Area" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The table space in front of a player is known as his play area. This is where a player keeps all game components that belong to him but are not on the game board, including his Hero sheet, Item cards, Deployment cards, Class cards, and more.
 
 * Abilities on cards and Hero sheets in a player’s play area can be used as explained on the card or sheet.
@@ -7078,7 +7110,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 
 ''Related Topics:'' [[Claim]]</pre>
 </div>
-<div created="20150116010046929" modified="20150116010449548" tags="" title="Post-Mission Cleanup" revision="4" bag="default">
+<div created="20150116010046929" modified="20150116010449548" tags="" title="Post-Mission Cleanup" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Post-Mission Cleanup:'' After resolving the mission, players perform the following:
 
 * All wounded heroes flip their hero sheets to their healthy side. Then heroes recover all [img[Damage.png]] (damage) and [img[Strain.png]] (strain).
@@ -7089,7 +7121,7 @@ If there are multiple closest empty spaces, the player controlling the figure ch
 If players just resolved a non-agenda Side Mission, shuffle the Side Mission deck, draw one card, and place it faceup on the table. This card is now an active mission.
 &lt;div&gt;</pre>
 </div>
-<div created="20150116012425189" modified="20150116012503758" title="Push" revision="1" bag="default">
+<div created="20150116012425189" modified="20150116012503758" title="Push" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Some abilities push figures. The player resolving this ability moves the figure the specified number of spaces.
 
 * The figure can be moved in any direction. It does not need to move directly away from the figure using the push ability.
@@ -7100,7 +7132,7 @@ If players just resolved a non-agenda Side Mission, shuffle the Side Mission dec
 
 ''Related Topics:'' [[Exit]], [[Large Figures]], [[Movement]]</pre>
 </div>
-<div created="20150116132919744" modified="20150116150058846" title="Ranged Attack" revision="1" bag="default">
+<div created="20150116132919744" modified="20150116150058846" title="Ranged Attack" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Some Deployment cards and Item cards are marked with the [img[Ranged Attack.png]] icon. This icon means that the figures can perform ranged attacks.
 
 * Ranged attacks can target any hostile figure within line of sight of the attacker.
@@ -7112,15 +7144,15 @@ If players just resolved a non-agenda Side Mission, shuffle the Side Mission dec
 <div created="20150113192406765" modified="20150113192411003" title="Ranged Attack.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAAC40lEQVQ4EaVUW0gUURj+zihZJNZTJRiiVJb3wihZQ0w27SEJJMweAjUwMCvaZB8EsRBESiwo0iDEF0PQDMvYHopS1ihLvGztWi0Va0hEUVDmpsx0zj+X3bGhFTqzZ/a/ne/812Ej0wEFERYDAyS+l7GkZdj80+SV6zxyN1fB/1316z8A5zHuakFVbQe/0IWjOc34tghEi+sZj0bgU2gUWSg8oRMRKwtBBDwDuNgWQG1DHnoch3DXwxG0VXJqO2KiFLAn0zP8LQ6pIJLIlcK3ynIxw88PgygoqOJpzICsTBFEfHo0ZjXAC3c8sKWsIa8ihvz7yxga9h4jkBBYpgHW2P0ceSlrNT957QzKgpCD73GlogRupBvaJNseDjbJ+WJcf+BH0c54QycIyqFJojH+0Vu4Vn4Cw4rI7hSFm5LG4HUPc96BIb8DK7hKIX0IwdLD8b7TOHK4RgNTjUW4XvJM8K240fsyhBJGmQDl4CcMdZ9DtbMnzMSa7HLace/Z57+URpW9D9tRebzJZBBeSZPCYPJw29uD9bxdxCN+5KHPVU9gkhRKfqYty6ikfv5kWyfOVObrLPIryhC3pAoEuKWgAvt5v8myB6XOPvQPXsKke8I4KAjRgxuTspCasYHk1S0DaK4vxSqTlVZlKWYTzj7qw25vLIrt6Zh9OrrEDMjdl4C6gztI3tT9AvZd8bzCFKXJlrn5pNCHJGxSZn1uTLyegW+oCzf7x+lA+3AA2evmEUQsVkZxEeNZE4Dqy8ghG3nDR4+PGtPqTfOs3Skv+uDcVkjts7WoFR1XyxGj+8PBxNKLoXOSmGHhnNDT5jfKnBKbRSUg065myXffgcdjX8kj4ZX+EJCYe9pMrbL4FujLTK9GWuEBXYXOy72YMzhrwtTYVibJOfmG+J27EaPTPwzeiogIGJeYTS2lH/41t6CTlv8RAYFElLXX0eEkWw1Sk0OfKitENvL2o1YvK7UqoxRHtFJt/wBA2QaO0PDxAgAAAABJRU5ErkJggg==</pre>
 </div>
-<div created="20150116150129902" modified="20150116150209653" title="Reach" revision="1" bag="default">
-<pre>A figure with this keyword may perform [img[Melee Attack.png]] (melee) attacks that target figures up to 2 spaces away.
+<div created="20150116150129902" modified="20150807143832030" title="Reach" type="text/vnd.tiddlywiki" revision="2" bag="default">
+<pre>A figure with this keyword may perform [img[Melee Attack.png]] (melee) attacks that target figures or objects up to 2 spaces away.
 
 * The attacking figure must have line of sight to the target in order to make this attack.
 * An attack with Reach does not require Accuracy. 
 
 ''Related Topics:'' [[Attacks]], [[Counting Spaces]], [[Melee Attack]]</pre>
 </div>
-<div created="20150116150238488" modified="20150116150345082" title="Ready" revision="2" bag="default">
+<div created="20150116150238488" modified="20150116150345082" title="Ready" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A ready figure is any figure that is eligible to be activated. Any card that is not exhausted is ready and may be exhausted to trigger certain abilities.
 
 * A hero is ready if he has ''at least one'' ready (green) activation token on his Hero sheet.
@@ -7130,7 +7162,7 @@ If players just resolved a non-agenda Side Mission, shuffle the Side Mission dec
 
 ''Related Topics:'' [[Activation]], [[Class Cards]], [[Deployment Cards]], [[Exhaust]], [[Item Cards]]</pre>
 </div>
-<div created="20150116150430369" modified="20150116150550960" title="Rebel Upgrade Stage" revision="2" bag="default">
+<div created="20150116150430369" modified="20150116150550960" title="Rebel Upgrade Stage" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, heroes can purchase new cards during each Rebel Upgrade Stage. They can first spend experience points to purchase new Class cards and can then spend credits to purchase new Item cards.
 
 * To purchase Class cards, each Rebel player looks at all cards in his Class deck and can purchase any number of those cards of his choice.
@@ -7148,7 +7180,7 @@ If players just resolved a non-agenda Side Mission, shuffle the Side Mission dec
 <div created="20150113193400513" title="Rebel.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAAC8UlEQVQ4EZ1Ua0hUQRT+7tV8oIlZGfRDMirLNRUyVDCIUIv+FESpUAb2kgisiIgwkSIDRQr7EYREGqRJbuRipqaka9rm9nB9tqtUCoKK4gqbWXvvdGb2KSFo5947c17z3XPOnBmp8+s3Bm8iifGHOdSMqZi32hAQEiS8VLIBEnx8ZD5xZ3pJyyTIfBF/lqK50UakJ8ejqsmylItb7wBzRsG1Y8Y6dHyZcjqMovTABcE/uHQQn8b/CN4+1w+d1kDxLCbZEZcjMnNrKTJPvMe2Hetht41A9+Q1FI2ve0VzeRmM5ln4hmzBguEcrt9tgt1tJUY/MMz0g8NMV1vEEdnN5yb2bmiQnU8LFDLXeX8yUlmNycLeftSyGFliGYUvWPuQhbURBlWR0zgeH82neuYhMWY1yf7ILGlETlqgsLoGAkJZQzHCfQCfIA0OZ8ehpjAfg5OO9EXNJj63oFZVsefkdgQwBaqqQPLbiOO3HoL+7sLCjae3ERMRTDKDokjYvHsXcVS/l700q5BpTzFiNIgFvA1UhbZZpUoSuG9wDFL2BTjBshGrWSOS5vvF7arqJ2zdDQb8JB2lacOwqU0o9ZUGzCrOtWIKwtaEvYKLSo1ECKXnITvM3Z1CnBowYdrGOBjl7/aoRH3Ld7cEWGFqaxGypbUJP2b4Xjhoql+L4soelyiABJh3MOWX01Fd/wETk6NofnQHFV2/xQJV7cK9kgqMTU7DYqjG1awCNxBnRM+19/WyKxmxi7afbCuSZZxl2l4zbw1/RCXuXPSXlQpxGXEIpVqJNCMT9iNSFuxKcYT/oSOJnpr5hSXhzMWU/wLalHwNSRre6M7IOJOSU4SsaM855LrlUF5BJlyd6JVbOHKr3iA3I3Y5GHSXHcP9V0bER7igSNXeZ/Y0jxNmtKcRddXPUKPr+Ad4Q3Qask+fQmpaPPz4SaNPEgON+gGLuFQVxbvbyEGSYF+wYnbGivlf/CCvQnDoOoStDaa+4WfTc/mQK5GMv+XlQzFMC5mDAAAAAElFTkSuQmCC</pre>
 </div>
-<div created="20150116150609535" modified="20150116150803623" title="Recover" revision="1" bag="default">
+<div created="20150116150609535" modified="20150116150803623" title="Recover" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Some abilities allow figures to recover [img[Damage.png]] (damage) or [img[Strain.png]] (strain). When a figure recovers, remove the listed amount of damage or strain tokens from the figure or its Hero sheet.
 
 * Some cards use Recover as a keyword. For example “[img[Surges.png]]: Recover 1[img[Damage.png]]” allows the figure to spend a [img[Surges.png]] (surge) during an attack to recover 1[img[Damage.png]] after resolving the attack. He can recover this [img[Damage.png]] even if the target of his attack does not suffer any [img[Damage.png]].
@@ -7156,7 +7188,7 @@ If players just resolved a non-agenda Side Mission, shuffle the Side Mission dec
 
 ''Related Topics:'' [[Damage]], [[Keywords]], [[Rest]], [[Strain]], [[Surges]]</pre>
 </div>
-<div created="20150116150824925" modified="20150116150940743" title="Reinforce" revision="1" bag="default">
+<div created="20150116150824925" modified="20150116150940743" title="Reinforce" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During the Status Phase of a campaign, the Imperial player is able to place figures that were previously defeated back on the map.&lt;br&gt;
 To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinforcement cost. Then he places ''one figure'' from that group as close as possible to any active deployment point.
 
@@ -7168,10 +7200,10 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Deployment]], [[Group]], [[Unique]]</pre>
 </div>
-<div created="20150116151027767" modified="20150116151033921" title="Reroll" revision="1" bag="default">
+<div created="20150116151027767" modified="20150116151033921" title="Reroll" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See Step 3 of “[[Attacks]]”. </pre>
 </div>
-<div created="20150116151053862" modified="20150116151220471" title="Reserved Groups" revision="1" bag="default">
+<div created="20150116151053862" modified="20150116151220471" title="Reserved Groups" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, many missions provide the Imperial player certain Deployment cards called reserved groups.
 
 * These cards are not part of his hand and are kept face down on the table. They cannot be deployed or reinforced while face down. Rebel players cannot look at reserved Deployment cards.
@@ -7180,14 +7212,14 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Deployment]], [[Hidden Information]], [[Mission Setup]]</pre>
 </div>
-<div created="20150116151238592" modified="20150116151350486" title="Rest" revision="2" bag="default">
+<div created="20150116151238592" modified="20150116151350486" title="Rest" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, hero figures can perform an action to rest. When performing a rest, the hero recovers [img[Strain.png]] equal to his Endurance.
 
 * If he recovers more [img[Strain.png]] than he has suffered, he recovers one [img[Damage.png]] for each [img[Strain.png]] he cannot recover.
 
 ''Related Topics:'' [[Actions]], [[Damage]], [[Endurance]], [[Recover]], [[Strain]]</pre>
 </div>
-<div created="20150116172256466" modified="20150116172345462" title="Retrieving Tokens" revision="1" bag="default">
+<div created="20150116172256466" modified="20150116172345462" title="Retrieving Tokens" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Some missions allow figures to retrieve specific tokens. A figure adjacent to or in the same space as the token can perform an interact to retrieve the token. Place the token on the figure’s base to mark that the figure is now ''carrying'' that token. The token now moves with the figure.
 
 * A carried token cannot be retrieved by other figures, traded to other figures, or voluntarily dropped.
@@ -7198,7 +7230,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Claim]], [[Interact]], [[Mission Tokens]]</pre>
 </div>
-<div created="20150116172404981" modified="20150116172450755" title="Reward Cards" revision="1" bag="default">
+<div created="20150116172404981" modified="20150116172450755" title="Reward Cards" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, players can gain cards from the Reward deck. This deck contains Item cards and Class cards that cannot be purchased and are usually gained only as a mission reward.
 
 * Players always gain specific Reward cards from the deck.
@@ -7208,7 +7240,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Class Cards]], [[Item Cards]]</pre>
 </div>
-<div created="20150113181837451" modified="20150117021908658" title="Rules Reference Guide Index" type="text/vnd.tiddlywiki" revision="4" bag="default">
+<div created="20150113181837451" modified="20150807144847472" title="Rules Reference Guide Index" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>!￼Index
 !! A
 
@@ -7283,6 +7315,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 !! F
 * [[Focus]]
 * [[Forced Missions]]
+* [[Frequently Asked Questions|FAQ]]
 * [[Friendly Figure]]
 
 !! G
@@ -7434,10 +7467,10 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 ** [img[Insight.png]]: Insight
 ** [img[Tech.png]]: Tech</pre>
 </div>
-<div created="20150116172508470" modified="20150116172538292" tags="" title="Running out of Components" revision="1" bag="default">
+<div created="20150116172508470" modified="20150116172538292" tags="" title="Running out of Components" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Component Limitations]]”.</pre>
 </div>
-<div created="20150116172559043" modified="20150116172624273" title="Skirmish" revision="1" bag="default">
+<div created="20150116172559043" modified="20150116172624273" title="Skirmish" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>A skirmish is a special mission in which two players build armies of figures and compete to acquire 40 victory points.
 
 * Any rules in this Rules Reference Guide that specify “during a campaign” do not apply to skirmish missions.
@@ -7445,7 +7478,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Missions]], [[Mission Setup]], [[Winning the Game]]</pre>
 </div>
-<div created="20150116172851382" modified="20150116172917034" tags="" title="Skirmish Mission Setup" revision="1" bag="default">
+<div created="20150116172851382" modified="20150116172917034" tags="" title="Skirmish Mission Setup" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>To set up a skirmish mission, perform the following steps.
 
 # Bring Armies and Command Cards: Both players simultaneously place their Deployment cards faceup in their play areas. Then each player shuffles his deck of 15 Command cards and places it by his Deployment cards.
@@ -7454,22 +7487,22 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 # &lt;$transclude tiddler=&quot;Deploy Units&quot; mode=&quot;block&quot;/&gt;
 # ''Draw Command Cards:'' Each player draws three cards from his Command deck.</pre>
 </div>
-<div created="20150116173034859" modified="20150116173043324" title="Small Figure" revision="1" bag="default">
+<div created="20150116173034859" modified="20150116173043324" title="Small Figure" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Any figure that occupies only a single space is a small figure. Some rules and abilities specify that they apply only to small figures.
 
 ''Related Topics:'' [[Large Figures]]</pre>
 </div>
-<div created="20150116173729215" modified="20150116173802800" tags="" title="SPiaC-End of Round Effects" revision="1" bag="default">
+<div created="20150116173729215" modified="20150116173802800" tags="" title="SPiaC-End of Round Effects" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''End of Round Effects:'' If there are any abilities or mission rules triggered at the end of this game round, players resolve them at this time.&lt;p&gt;
 
 * If playing with three heroes, a hero that has two activation tokens must give one of the tokens to another hero of his choice at the end of each round.</pre>
 </div>
-<div created="20150116173523591" modified="20150116173643830" tags="" title="SPiaC-Ready" revision="2" bag="default">
+<div created="20150116173523591" modified="20150116173643830" tags="" title="SPiaC-Ready" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>''Ready:'' The Imperial player readies all of his exhausted Class and Deployment cards. Each hero also readies all of his activation tokens by flipping them green-side faceup.&lt;p&gt;
 
 * Hero Class cards and Item cards are readied at the start of that hero’s activation, not during the Status Phase.</pre>
 </div>
-<div created="20150116173120871" modified="20150116174136262" title="Status Phase" revision="6" bag="default">
+<div created="20150116173120871" modified="20150116174136262" title="Status Phase" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>After each Activation Phase, players perform a number of cleanup steps known as the Status Phase.
 
 !! Status Phase in a Campaign
@@ -7480,7 +7513,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Command Cards]], [[Control]], [[Deployment]], [[Initiative]], [[Ready]], [[Reinforce]], [[Terminal Tokens]], [[Threat]]</pre>
 </div>
-<div created="20150116173142137" modified="20150116173850433" tags="" title="Status Phase in a Campaign" revision="4" bag="default">
+<div created="20150116173142137" modified="20150116173850433" tags="" title="Status Phase in a Campaign" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, the Status Phase consists of the following steps:
 
 # ''Increase Threat:'' The Imperial player increases the threat dial by the threat level as listed on the campaign log.
@@ -7490,7 +7523,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 # ''Advance Round Dial:'' Advance the round dial by one. Then players begin a new round starting with a new Activation Phase.
 </pre>
 </div>
-<div created="20150116174008098" modified="20150116174052725" tags="" title="Status Phase in a Skirmish" revision="1" bag="default">
+<div created="20150116174008098" modified="20150116174052725" tags="" title="Status Phase in a Skirmish" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a skirmish, the Status Phase consists of the following steps:
 
 # ''Ready Cards:'' Both players ready all of their Deployment cards.
@@ -7498,7 +7531,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 # ''End of Round Effects:'' If there are any abilities or mission rules triggered at the end of this game round, players resolve them at this time.
 # ''Pass Initiative:'' The player who has the initiative token passes it to his opponent. Then players begin a new round starting with a new Activation Phase.</pre>
 </div>
-<div created="20150116174225960" modified="20150116175204493" tags="" title="Strain" revision="8" bag="default">
+<div created="20150116174225960" modified="20150116175204493" tags="" title="Strain" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Strain is shown as the [img[Strain.png]] icon and represents the loss of willpower or fortitude. Many game effects cause figures to suffer [img[Strain.png]].
 
 !! Strain in a Campaign
@@ -7509,7 +7542,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Abilities]], [[Damage]], [[Endurance]], [[Movement]], [[Recover]]</pre>
 </div>
-<div created="20150116174911077" modified="20150116175108800" tags="" title="Strain in a Campaign" revision="1" bag="default">
+<div created="20150116174911077" modified="20150116175108800" tags="" title="Strain in a Campaign" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When a hero suffers [img[Strain.png]], place an equal number of strain tokens on his Hero sheet. When any other figure suffers [img[Strain.png]], it suffers an equal amount of [img[Damage.png]] (damage) instead.
 
 * Heroes have many abilities that have [img[Strain.png]] costs. These abilities require the hero to suffer [img[Strain.png]] in order to use the ability.
@@ -7521,7 +7554,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 * When a game effect mentions the amount of [img[Strain.png]] a hero “has suffered,” it refers to the total value of strain tokens currently on his Hero sheet.
 </pre>
 </div>
-<div created="20150116175129375" modified="20150116175151411" tags="" title="Strain in a Skirmish" revision="1" bag="default">
+<div created="20150116175129375" modified="20150116175151411" tags="" title="Strain in a Skirmish" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When a figure suffers [img[Strain.png]], it suffers an equal amount of [img[Damage.png]] (damage) instead. The player controlling the figure can prevent any of this [img[Damage.png]] by discarding one Command card from the top of his deck for each [img[Strain.png]] that he wishes to prevent.</pre>
 </div>
 <div created="20150113193400508" title="Strain.png" type="image/png" revision="0" bag="default">
@@ -7530,10 +7563,10 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 <div created="20150113193400502" title="Strength.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAADG0lEQVQ4EZ1UW0gUYRT+/nFW09U1xCuoaWblpagQTJRS1oeWIl8sRO2tkpK8YBY9aKDVQy1ahnQzowwRwyhM7EHxgoWZl3Rz3S5ShK1ZkhJo7urM9P+zOey6+lAHhjn/d875/nOZM6RjxCThP8SF41aN4ldFFdCCCeMQetqewxqUhuxDO7E6jRKANQjn8LbzMe7nXUS/4tuAyZ+3UJSzd60g2ZOsLPnrSAuuZhfZESmMspJ0pBIlxTpMvmxE+8A0xayITMxEclygbHeo4M2TMmSvIOO4BOhStymsPXWFqHlkgqfPIuruVNHnJvpGzIqdkyTbTMyDtSgsrVcMy0r0/sM4XXEXR1PdlyG8bjPANWgLwogN8vNXQxBF+eElSaToDJov65UAeyVqRzAdhAZZFV3wunIMlXXD+PyqDzPkIK53dMEi8FB7e0MUBTmMI4RgfmIADUZG7Cycyh2TI/eQkfEM2tzziGMuYjO+Tc9jrOUS0rWJ0MXForp+FBxH2FdA8OOLyZmJIqx/B3QRmDIMY8pYhhcmDTJL9sm+BuMUNP4+SpzFuijrPE0QM+ZPisFe0eWfQLAbvTUqAUkJvzDUbkBxsR4V67XwiA5BuDoNOu005uCO+F0hcijpNLyThhsLkF/eas8lZ1fTXYtwDcGSZQ4LliVqF2CxLIJ3WwdpaQFLggTehadvwMfPV/7oeVZ3tO4kUi60osNuCVPzzyAEg+g1hsFz9BxOlXc7XGh/IIjBg94mhHjQagjhYGjWO5AxZ8H6HT1NevSNmiGqfO3jnXTCaWwYbR/NkEPgZja7LgfH9uoctFMkq0yFsPg0FJzdDje1q+zD+k7Yz0GywjJnBVFvQoAXB45WyBM65Q27c3G7ah7H8244kLLD7MxvaIJiEbfHtloMEwWB9tgFEtQI3Rgg9+7vflBCehs7RCbnU1I4kX40jMP8/gOy00sZl4Ow3j3sf4pQD9Z8SkSv4CU5f9s0bKSulPSaEqhyV8MvYitSqL85KkbB2ULMIgkeKg6EiHJSzEh6xsbpOksQaBn/IhwdpiyUmKmsdUz+AG9BCNiTXuR3AAAAAElFTkSuQmCC</pre>
 </div>
-<div created="20150116175225631" modified="20150116175236949" tags="" title="Stun" revision="1" bag="default">
+<div created="20150116175225631" modified="20150116175236949" tags="" title="Stun" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Conditions]]”.</pre>
 </div>
-<div created="20150116175254485" modified="20150116175318485" title="Supply Cards" revision="1" bag="default">
+<div created="20150116175254485" modified="20150116175318485" title="Supply Cards" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, a hero can interact with a crate token to claim the token and draw one Supply card. The card is placed faceup in the hero’s play area and can be used as instructed on the card.
 
 * Most Supply cards are discarded after use.
@@ -7542,7 +7575,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Claim]], [[Credits]], [[Crate Tokens]]</pre>
 </div>
-<div created="20150116175350087" modified="20150116175522772" title="Surges" revision="2" bag="default">
+<div created="20150116175350087" modified="20150116175522772" title="Surges" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Surges are results represented by [img[Surges.png]] icons. They are gained during an attack and can be spent to trigger certain abilities.
 
 * Each [img[Evade.png]] (evade) result removes one [img[Surges.png]] result. This effectively reduces the number of [img[Surges.png]] the attacker can spend by one.
@@ -7556,7 +7589,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 <div created="20150113193400483" title="Surges.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABsAAAAPCAYAAAAVk7TYAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAACw0lEQVQ4EZVUa0hUQRT+7qWSiKCEIIToQfunWiP6lQ8iQSKNCOwhbk8Lt8RSCjULYyPssSJtpQuWP9R+uGwp9hDFHyYq6ZKFCltC1malPUCIbBNk997mzNy93m232ObuMN+c8805e+acM1Lf63EV/xyKQWvEBnGMUI6NNwXv8PvYqGEsP169GEVAk8mSJAHsFxoq2Kcap4LeujOwZm9DzT0PYomNbCiBT6gvTULegUzUtniZTQWyxDzRpw92qUZn4wM1KKvq4eqmKzk4d8mNaZ0cHcx8HYTNvBV1j35ygtm0HKqiIuo1UrQU8Oy3HpQfd4RZfOYqw9E9dnz8ET3Vk8PNsKbloEs7lXu9DSnrlvCdTEHxyCi4EOaqCVQX5MKnRF7cF28tLFsOYvDdd82kWEaeVGFfdol+ZtN+ByyZJp3DcsYwm+RVd8pS2uEoQKs3qBP/BIrSj6LMzXjc62MqP9odR5Bf7NRpMvJw8XwG5usS5qb/zQRLESWKSakw2DfacRnHiu4aaP8HJazH7U43EhOMrlhAohhFjijC6Q/tEY4KazrRPdSNQ+kLY/JaWFsd4YgOsgLhieJG1Nkx3Nx+Qjcoyxtgv/8ce9NMmBe3Enm3PLhgTdX10UDG6QZkpa6IphLVKHrtFx6U70I7XSkfFjT2PUSyeRmvTCFbhB1F9XBW5muc8GVVUjFOnUwJFxp2vM9oP9RSgRutooPMuyvQ5r2GNfELtLKhKpobiTvPwu2yY7Vs7Jx02CqtWDxHi0C89NXAWzSXNnBlVkkjnPbDWEq5JR/hfnQDCRuzcOdpE9I0ic11FWvjjeRILHnGPvN7m5kawaA3DsmprC+0quQVSsbYXlGpDUI9RxEJHPD74HkZEOd4VhTxArEXQ5Q4W/g/ViENjE2KJGmpotLXnWhAPF9knGYo3L9jMqUESU+2VHCIIH4DpScKyg50FaMAAAAASUVORK5CYII=</pre>
 </div>
-<div created="20150116175552284" modified="20150116175636256" title="Target" revision="1" bag="default">
+<div created="20150116175552284" modified="20150116175636256" title="Target" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>When declaring an attack, the attacker chooses a figure to attack. This figure is referred to as the target.
 
 * If the target is a large figure, the attacker must target one space that the target occupies. This space is used for determining line of sight and some abilities.
@@ -7567,7 +7600,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 <div created="20150113193400476" title="Tech.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAACrElEQVQ4EZ2Ub0jTQRjHv7/fRhoEq8CEgsj1okAoDPrjFAIrVAYzmOsPhL2YvbAgs5QgX6xJMGrNtIQKsnohEU00QgM1R2WOwhIqqUhdiGQkRZjN2tr26+5+f7Zra1k37p67557ns+d57u4nPHo9IUEAREHEfJskSYhGoynN9am0I742PBufhboZ+xnCijwLivKNqcw5nfB7hDOBdpSW1nBG6uLYxQewFhmRLsKkPA3GnTjntKkMTnqqtqJzYJJUiPyE1F0BRjA6NIwgc9dj854zcNebOZi6cFea4lAZzY0MOOZrwv59ZTju6MB3BVpQ0YLOvoe42taIHJFPxH3AhO4nkyCkpM4sZ6YDDDN8sxp1CdDslTlYu9GGC7fPqwFq8trZXvxIkTYD6rBQM6RQ/8istqaTpWvK0HWnhYvUsDwDOi5ZVlnwuSiY9+8+cEAZaoZle6amD5GCkwCTU5aILhye0wzp5FLtNtzyBRBTtFSODbSiuTdul7EIiBB9og2di7Swq7eUKK5x0USuSEf/OGLkVbz1NaOi8lR8k8zCJEKdSNIknYZKJesDbybIPZXw8aUXtl11nNOfF8WobliH54MxHGk8iuwFgETTJ02uIVlk5Vrh9bplbdqxAIedJvhPunG/x4Oq3R58SXjW3KFk5Zb/BVqMWtcO+B0ODCnFyzSEMBeiJyE3DkhVyxToKiUFxY4IGlk+Htc78VRRbii2wogrKM9zYCooQwVWQ0iIRclf0uIqxvSt0qa+WXqm3a5NcF3/xPQUtuTbKPoHX7A1RDu6XjVoXyhZmXbUw3ziHj5PmdAXLOFhxM/usmAx+d79Q4TEi0UdQTTyFTdq8nG5R76X9tN3YbeuZ+H8B5D6CRDFabQeKkSosB0H98owtjP/GlKOVmECVOcUE2+/AJvj9Emf9sbGAAAAAElFTkSuQmCC</pre>
 </div>
-<div created="20150116175703069" modified="20150116180815895" title="Terminal Tokens" revision="2" bag="default">
+<div created="20150116175703069" modified="20150116180815895" title="Terminal Tokens" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Terminal tokens are placed on the map as indicated by the mission’s diagram.
 
 * In a campaign, terminal tokens have no inherent abilities and function as described in the mission’s rules.
@@ -7580,7 +7613,7 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 
 ''Related Topics:'' [[Control]], [[Hidden Information]], [[Interact]]</pre>
 </div>
-<div created="20150116181054348" modified="20150116182001849" title="Terrain" revision="1" bag="default">
+<div created="20150116181054348" modified="20150807143921439" title="Terrain" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>Some spaces have colored borders. The color and look of a border defines the terrain, which has special effects on movement and line of sight.
 
 * A group of adjacent spaces that share a terrain type are surrounded by a single terrain border.
@@ -7589,13 +7622,14 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 * Solid red lines are blocking terrain.
 * Dotted red lines are impassible terrain. 
 * Solid blue lines are difficult terrain.
+* Spaces that are fully encompassed by a combination of a single terrain border and walls are considered to be fully encompassed by the terrain border.
 
 ''Related Topics:'' [[Blocking Terrain]], [[Difficult Terrain]], [[Impassible Terrain]], [[Movement]], [[Walls]]</pre>
 </div>
-<div created="20150116182538657" modified="20150116182550695" tags="" title="Tests" revision="1" bag="default">
+<div created="20150116182538657" modified="20150116182550695" tags="" title="Tests" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Attribute Tests]]”.</pre>
 </div>
-<div created="20150116182629760" modified="20150116182800868" title="Threat" revision="1" bag="default">
+<div created="20150116182629760" modified="20150116182800868" title="Threat" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign mission, the Imperial player spends [img[Threat.png]] (threat) to deploy and reinforce figures to the game board.
 
 * Each Status Phase, [img[Threat.png]] is increased by the mission’s threat level printed on the campaign log. Threat level is also frequently referenced to determine a particular value in many missions.
@@ -7608,10 +7642,10 @@ To reinforce, he pays [img[Threat.png]] (threat) equal to the figure’s reinfor
 <div created="20150113193400471" title="Threat.png" type="image/png" revision="0" bag="default">
 <pre>iVBORw0KGgoAAAANSUhEUgAAABUAAAAUCAYAAABiS3YzAAABL2lDQ1BJQ0MgUHJvZmlsZQAAKBVjYGAycHRxcmUSYGDIzSspCnJ3UoiIjFJgv8DAwcDNIMxgzGCdmFxc4BgQ4MMABHn5eakgGhV8u8bACBK5rAsyC1WOII8ruaCoBKjqDxAbpaQWJzMwMBoA2dnlJQVAccY5QLZIUjaYvQHELgoJcgaKHwGy+dIh7CsgdhKE/QTELgJ6AqjmC0h9OpjNxAFiJ0HYMiB2SWoFyF4G5/yCyqLM9IwSBSMDAwMFx5T8pFSF4MriktTcYgXPvOT8ooL8osSS1BSgWoj7QLoYBCEKQSGmYWhpaaEJFqUiAYoHiHGfA8Hhyyh2BiGGsCi5tKgMymNkMmZgIMRHmDFHgoHBfykDA8sfhJhJLwPDAh0GBv6pCDE1QwYGAX0Ghn1zAMOvUG/sJay0AAAACXBIWXMAABcSAAAXEgFnn9JSAAAD4klEQVQ4EZVUbWxTVRh+bnthKgr7YPGDyfhIXFg7NYsSWzELmoVUjDUMcQyIG5ShkW3shwRZRGYiW4RFhizLfizOQchigBGWxS3DCfu4JVtTNWttu7q1TlzECDJlJmxtX885t73rDfGHb+4997zP+7zPfd9zzz3S9Z+mCGAXs1iMIBHFPYayOSR+seF/mCwSWI6ar4rz/OBgG3pHZ7DkAe7pRefuARuKdsO08mEevM9kHSJJ+N3bhz/SCrDWlANn+U6EYjEdhTsGyYqNuyvwz7QT3tvr8Lw5Vccx8GaJ54kib+JMUTk+PXYJxgwrjpzcoSMnnL2N9Xhq2Rw66xw4UNSGvxMB9uSdS87gz1rP/p4PUVbRLiiH2l2wW5bi14kpxIxGLS0SkZG1Jgu/OZuwrfSEwPed6sfbm1aLORc1JNjR2e/RXKkKcuzPmbtsTEHq8kwsXZam3ekZqeBrNvvXDKcJa6lsxC+zWm2AMxgmfn9SVcBRcT9uPkjfMOziuRoNS8T484OzblICLtpmkrX45qoOhoXIGQgTlPEw9V1p1oI8qb7LT8q4QjZJ0uGasKGMvmYC3ReO6uJN344zYSbqZG/cYTJqwfzi0+xtIWqq3apiTOCiO0gD3iBddffQK/Fu3qrtZgJBqrY/ouWusn5M/SxXGva6aGzUD5IXYT4yjydzrUiLXkeFpQRjrLTDbSN4zZLJZqqFB0+jxNEgtlWrchZrjFP44ccbWMQW2vjgCuSaV0GW5Aw8bXkxkSOedwJhIcidFdn6PZiZnS04MVJwY/oucszZeM6iYiLAhyHPFdpgWFg7x4leGvb7aH+8rfziz2mItcQ/ghLwa+3m2etpgGEtdbu09h8zHaQ+f4gw7Juk1pMOLQAU0jnXBPVfa6PVBvZvsDW0l1bT3qpq2lVqE74EE7UMTtKAu5Py4mvMeRXN/aRw0SHfBA35FCpJ+lgb933JsAn67PCrSS9TtxtPfqPmvKj86DvPanFRJe+GiUo8mRFxy9MB+5s1fCqsoduL9Stv4WqXC9HFCwfK/PwSWF8vhGGqCzZbZYKOustjKMhhBwxTkyV2iHBbnrcF7xcfx/GOO8IfGQ3hhbW5eLkoS/zPAkwavhvp1bz1pS14iQvGTeIfIOHM3XaKreSRtuOS5xgemu5B+ab3kLIuN0FBwEs41deJ/CcmcchswzAs4FsrJz3eDa9UY7PJ4nQL9tRshu/Rd5Epz6DpwH716PN6kmlo+KgdrV/sgaNxJzJubl0QjLN0lSZnBnqPoKzyTDKkm9d+5UbhM2k6TDis0v8UjUTuIRq9P0dFjEhJ0TW5QGSi/wLyaOROsVOXSwAAAABJRU5ErkJggg==</pre>
 </div>
-<div created="20150116182813036" modified="20150116182825161" tags="" title="Through" revision="1" bag="default">
+<div created="20150116182813036" modified="20150116182825161" tags="" title="Through" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Movement]]”.</pre>
 </div>
-<div created="20150116182858694" modified="20150116183038359" title="Time Period" revision="1" bag="default">
+<div created="20150116182858694" modified="20150116183038359" title="Time Period" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Each campaign is associated with a time period, represented by a number. This corresponds to a range of time period values found on certain Side Mission cards and certain cards in Agenda sets.
 
 During campaign setup, set aside any Side Mission cards whose range of values does not include the number associated with the campaign. These cards cannot be included in the Side Mission deck.
@@ -7621,7 +7655,7 @@ During campaign setup, set aside any Side Mission cards whose range of values do
 
 ''Related Topics:'' [[Agenda Cards]], [[Campaign]], [[Campaign Setup]], [[Missions]]</pre>
 </div>
-<div created="20150113215118138" modified="20150117021723130" title="Timing" type="text/vnd.tiddlywiki" revision="2" bag="default">
+<div created="20150113215118138" modified="20150117021723130" title="Timing" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Numerous game effects have the possibility of triggering at the same time. If this occurs, use the following to determine the order in which these effects are resolved:&lt;p&gt;
 In a campaign, resolve mission rules first, followed by effects triggered by the Imperial player, then effects triggered by Rebel players.&lt;p&gt;
 In a skirmish, resolve mission rules first, followed by effects triggered by the player with initiative, then effects triggered by his opponent.&lt;p&gt;
@@ -7636,20 +7670,20 @@ For additional information on timing conflicts, see “[[Conflicts]]”.&lt;p&gt
 * ''Ongoing:'' Some Agenda cards are placed in the Imperial player’s play area after purchasing. These cards have an ongoing effect and remain in play until discarded by another effect. These Agenda cards are kept with the Imperial player’s components between sessions.
 * ''Kept Secret:'' If the card says “keep this card secret” the Imperial player keeps the card hidden from the Rebel players. He resolves the effect at a later point in the campaign as instructed on the card. These Agendas are kept with the Imperial player’s components between sessions until resolved. All of these cards cost one influence but may cost additional influence when resolved.</pre>
 </div>
-<div created="20150116183110353" modified="20150116183200010" title="Unique" revision="1" bag="default">
+<div created="20150116183110353" modified="20150116183200010" title="Unique" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Each player can only use one copy of each unique card at a time. These cards are identified by a bullet (•) before the name, for example, “• Darth Vader.”
 
 * Unique cards are identified by name only. Sub-names, affiliations, and abilities are not taken into account when determining which cards have the same name. For example, a player that has “• Darth Vader, Lord of the Sith” cannot deploy any other version of Darth Vader.
 
 ''Related Topics:'' [[Allies]]</pre>
 </div>
-<div created="20150116183335795" modified="20150116183506051" tags="" title="Villains" revision="1" bag="default">
+<div created="20150116183335795" modified="20150116183506051" tags="" title="Villains" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Imperial allies are referred to as villains. They follow all of the same rules as allies, in addition to the following:&lt;p&gt;
 
 * Once gained as a reward, villains (such as “Darth Vader”) can be brought into any mission as an open group.
 </pre>
 </div>
-<div created="20150116183548866" modified="20150116183637063" title="Walls" revision="1" bag="default">
+<div created="20150116183548866" modified="20150116183637063" title="Walls" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Walls are solid black lines along the boundaries of map tiles. Figures cannot move or trace line of sight through walls. See [[Appendix I]] and [[Appendix II]] for visual examples of moving and tracing line of sight with walls.
 
 * Walls are not terrain and are not affected by abilities that affect terrain. For example, Massive figures can enter blocking terrain but cannot move through walls.
@@ -7657,7 +7691,7 @@ For additional information on timing conflicts, see “[[Conflicts]]”.&lt;p&gt
 
 ''Related Topics:'' [[Line of Sight]], [[Movement]], [[Terrain]]</pre>
 </div>
-<div created="20150117021350233" modified="20150117021418139" tags="" title="Winning a Skirmish Mission" revision="1" bag="default">
+<div created="20150117021350233" modified="20150117021418139" tags="" title="Winning a Skirmish Mission" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The mission ends as soon as one player has accumulated 40 or more victory points (VPs). The player with the most VPs wins the game. VPs come from two main sources:
 
 * ''Defeating Figures:'' When the last figure in a group is defeated, the opposing player scores points equal to the deployment cost of that group. To track this, the card’s controller places the Deployment card near his opponent.
@@ -7670,7 +7704,7 @@ immediately, regardless of victory points.
 
 In the rare situation that both players have the same number of VPs at the end of the game, the player that has defeated the highest total deployment cost of hostile figures wins the game. If the result is still a tie, the player with the fewest damage tokens on his figures wins. If the result is still a tie, the player with initiative wins.</pre>
 </div>
-<div created="20150117020128014" modified="20150117021449954" title="Winning the Game" revision="2" bag="default">
+<div created="20150117020128014" modified="20150117021449954" title="Winning the Game" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>The rules for winning a game depend upon whether players are playing a campaign mission or skirmish mission.
 
 !! Winning in a Campaign
@@ -7684,7 +7718,7 @@ The player(s) who win the final mission win the campaign.
 
 ''Related Topics:'' [[Campaign]], [[Defeated]], [[Group]], [[Skirmish]]</pre>
 </div>
-<div created="20150117020351340" modified="20150117020426539" title="Withdraw" revision="1" bag="default">
+<div created="20150117020351340" modified="20150117020426539" title="Withdraw" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, when a wounded hero is defeated he withdraws. The hero is removed from the map and cannot be activated for the remainder of the mission.
 
 * The abilities on the hero’s sheet, Class cards, and Item cards cannot be used for the remainder of the mission.
@@ -7696,10 +7730,10 @@ The player(s) who win the final mission win the campaign.
 
 ''Related Topics:'' [[Defeated]], [[Mission Stage]], [[Wounded]]</pre>
 </div>
-<div created="20150117020617085" modified="20150117020646984" tags="" title="Within X Spaces" revision="1" bag="default">
+<div created="20150117020617085" modified="20150117020646984" tags="" title="Within X Spaces" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Counting Spaces]]”</pre>
 </div>
-<div created="20150117020456052" modified="20150117020608059" title="Wounded" revision="1" bag="default">
+<div created="20150117020456052" modified="20150117020608059" title="Wounded" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>During a campaign, when a healthy hero suffers [img[Damage.png]] (damage) equal to his Health he is wounded. He discards all damage tokens and flips his Hero sheet to the wounded side. If his [img[Strain.png]] (strain) exceeds his new Endurance value, he discards any strain tokens that exceed his Endurance.
 
 * If a wounded hero is defeated, he withdraws.
@@ -7708,7 +7742,7 @@ The player(s) who win the final mission win the campaign.
 
 ''Related Topics:'' [[Damage]], [[Health]], [[Healthy]], [[Hero]], [[Strain]], [[Withdraw]]</pre>
 </div>
-<div created="20150117020721932" modified="20150117020735346" tags="" title="XP" revision="1" bag="default">
+<div created="20150117020721932" modified="20150117020735346" tags="" title="XP" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>See “[[Experience Points]]”.</pre>
 </div>
 

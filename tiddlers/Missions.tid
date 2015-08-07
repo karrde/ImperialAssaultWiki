@@ -1,5 +1,5 @@
 created: 20150115215259322
-modified: 20150117021000804
+modified: 20150119211447004
 title: Missions
 type: text/vnd.tiddlywiki
 
@@ -22,13 +22,8 @@ During a campaign, players resolve a series of story and side missions. The rule
 * Side Mission cards list a number of traits under the name (such as Tatooine). Traits have no gameplay effect but may be referred to by other components.
 * After the introductory mission is resolved, shuffle the Side Mission deck, draw two cards, and place these cards faceup on the table. After each non-agenda side mission is resolved, shuffle the side Mission deck, draw one card, and place this card faceup on the table.
 
-!!! Building the Side Mission deck
-
-During campaign setup, players separate the Side Mission cards into piles by type (color). Shuffle the following cards together to create the Side Mission deck:
-
-* One red Side Mission card corresponding to each hero in the campaign.
-* Four green Side Mission cards chosen by the hero players. Heroes cannot choose more than one of these cards that rewards the same ally, regardless of the ally’s subtitle, such as “Hero of the Rebellion.”
-* Four random gray Side Mission cards. These are dealt facedown and are not shown to any players.
+!!! Building the Side Mission Deck
+<$transclude tiddler="Building the Side Mission Deck" mode="block" />
 
 !! Forced Missions
 <$transclude tiddler="Forced Missions" mode="block" />

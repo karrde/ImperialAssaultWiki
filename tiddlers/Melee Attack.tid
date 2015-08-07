@@ -1,11 +1,11 @@
 created: 20150115214846601
-modified: 20150115215021378
+modified: 20150807143713643
 title: Melee Attack
 type: text/vnd.tiddlywiki
 
 Some Deployment cards and Item cards are marked with the [img[Melee Attack.png]] icon. This icon means that the figures can perform melee attacks.
 
-* Melee attacks can target a hostile figure adjacent to the attacker.
+* Melee attacks can target a hostile figure or object adjacent to or in the same space as the attacker
 * Accuracy is not required while performing melee attacks.
 * If a figure does not have the [img[Melee Attack.png]] icon, it cannot perform melee attacks. An attack targeting an adjacent figure that uses the [img[Ranged Attack.png]] icon is a ranged attack, not a melee attack.
 

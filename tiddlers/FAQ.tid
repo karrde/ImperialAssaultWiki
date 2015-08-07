@@ -1,0 +1,43 @@
+created: 20150807144011380
+modified: 20150807144745312
+tags: 
+title: FAQ
+type: text/vnd.tiddlywiki
+
+This section answers frequently asked questions about Imperial Assault.
+
+!! General
+''Q: Can Item cards from a Class deck or earned as a reward be traded to other heroes?''
+A: No.
+
+''Q: Do Class, Reward, and Item cards that apply additional health to a hero continue to apply that health if the hero is wounded?''
+A: Yes.
+
+''Q: Does “Move a number of spaces equal to your speed” follow the same rules as “Move X spaces?”''
+A: Yes.
+
+''Q: When a large figure moves, does it exit all spaces it occupied and then enter all of its new spaces, even if some of those spaces overlap?''
+A: Yes.
+
+''Q: In a skirmish, if my opponent plays “Take Initiative,” can I play my own copy of “Take Initiative” to counteract it?''
+A: No. Your timing window to play cards “at the start of the round” would have passed (see “[[Conflicts in a Skirmish|Conflicts]]”).
+
+!! Hero Abilities
+''Q: When Gaarkhan suffers 3 or more damage and becomes Wounded as a result, does he still become Focused?''
+A: No. Damage is suffered during the attack itself, and “Rage” allows Gaarkhan to become Focused after the attack resolves.
+
+''Q: Does Mak have to use “Disengage” right away when a hostile figure enters a space within 3 spaces?''
+A: Yes. The timing window for that ability is only when the hostile figure enters the space in question.
+
+''Q: When Jyn has “Smuggler’s Luck” and heroes are drawing Item cards from more than one Item deck, from which deck is the extra card drawn?''
+A: After revealing cards from both available decks, Jyn’s player chooses one of those decks from which to draw the extra card.
+
+!! Mission Rules
+''Q: What does it mean when a door becomes “unlocked?” Does it open?''
+A: No. When a locked door is unlocked by a mission effect, the door remains closed but can be opened with an interact, following normal rules for opening doors.
+
+''Q: When a Rebel player is playing as multiple heroes, does each hero still receive 1 XP when the rules say each player receives 1 XP?''
+A: Yes.
+
+''Q: In “Under Siege,” if the Imperials secure the 4th capture point at the end of Round 8, which “End of Mission” condition triggers, the end of Round 8 or the Imperial player securing 4 capture points?''
+A: Since they happenat the same time, the Imperial player decides (see “[[Conflicts in a Campaign|Conflicts]]”).

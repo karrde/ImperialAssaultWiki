@@ -1,11 +1,11 @@
 created: 20150113201353685
-modified: 20150113201545678
+modified: 20150807142546403
 title: Adjacent
 type: text/vnd.tiddlywiki
 
 A space is adjacent to each other space that shares an edge or corner with the space.<p>
 
-* Two spaces that share only an edge that is a wall or blocking terrain are not adjacent.
+* Two spaces that share only an edge that is a wall, blocking terrain, or a door are not adjacent
 * A figure is not considered to be adjacent to itself.
 * Two figures that are in adjacent spaces are adjacent figures. These figures are one space away from each other. This means that a [img[Ranged Attack.png]] (ranged) attack targeting an adjacent figure needs at least 1 Accuracy to not miss.
 * Spaces on either side of the diagonal intersection of walls and/ or blocking terrain are not adjacent to each other (see example #16 in “[[Appendix I - Line of Sight Examples]]”).

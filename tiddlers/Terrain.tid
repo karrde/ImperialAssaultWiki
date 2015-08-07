@@ -1,5 +1,5 @@
 created: 20150116181054348
-modified: 20150116182001849
+modified: 20150807143921439
 title: Terrain
 type: text/vnd.tiddlywiki
 
@@ -11,5 +11,6 @@ Some spaces have colored borders. The color and look of a border defines the ter
 * Solid red lines are blocking terrain.
 * Dotted red lines are impassible terrain. 
 * Solid blue lines are difficult terrain.
+* Spaces that are fully encompassed by a combination of a single terrain border and walls are considered to be fully encompassed by the terrain border.
 
 ''Related Topics:'' [[Blocking Terrain]], [[Difficult Terrain]], [[Impassible Terrain]], [[Movement]], [[Walls]]

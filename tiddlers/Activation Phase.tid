@@ -1,5 +1,5 @@
 created: 20150113201145318
-modified: 20150113201255288
+modified: 20150807142445349
 title: Activation Phase
 type: text/vnd.tiddlywiki
 
@@ -8,4 +8,5 @@ The first phase of each round is the Activation Phase. During this phase, player
 * While activating a group of two or more figures, the player activates all figures in the group, one at a time, in the order of his choice.
 * During a campaign mission, Rebel and Imperial players alternate activating groups of figures. The Rebel players resolve the first activation each round.
 * During a skirmish, players alternate activating groups of figures. The player with initiative resolves the first activation each round.
+* During a skirmish, if your opponent has more ready Deployment cards than you, you may choose not to activate a group and pass play to your opponent.
 ''Related Topics:'' [[Activation]], [[Actions]], [[Group]]

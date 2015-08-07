@@ -1,9 +1,9 @@
 created: 20150116150129902
-modified: 20150116150209653
+modified: 20150807143832030
 title: Reach
 type: text/vnd.tiddlywiki
 
-A figure with this keyword may perform [img[Melee Attack.png]] (melee) attacks that target figures up to 2 spaces away.
+A figure with this keyword may perform [img[Melee Attack.png]] (melee) attacks that target figures or objects up to 2 spaces away.
 
 * The attacking figure must have line of sight to the target in order to make this attack.
 * An attack with Reach does not require Accuracy. 
