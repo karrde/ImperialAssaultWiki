@@ -1,5 +1,5 @@
 created: 20150807144011380
-modified: 20150807182412640
+modified: 20150807191014281
 tags: Errata
 title: FAQ
 type: text/vnd.tiddlywiki
@@ -10,20 +10,20 @@ This section answers frequently asked questions about Imperial Assault.
 ''Q: Can Item cards from a Class deck or earned as a reward be traded to other heroes?''
 A: No.
 
-''Q: Do Class, Reward, and Item cards that apply additional health to a hero continue to apply that health if the hero is wounded?''
+''Q: Do Class, Reward, and Item cards that apply additional health to a hero continue to apply that health if the hero is [[wounded|Wounded]]?''
 A: Yes.
 
-''Q: Does “Move a number of spaces equal to your speed” follow the same rules as “Move X spaces?”''
+''Q: Does “Move a number of spaces equal to your speed” follow the same rules as “[[Move X Spaces]]?”''
 A: Yes.
 
-''Q: When a large figure moves, does it exit all spaces it occupied and then enter all of its new spaces, even if some of those spaces overlap?''
+''Q: When a [[large figure|Large Figures]] moves, does it exit all spaces it occupied and then enter all of its new spaces, even if some of those spaces overlap?''
 A: Yes.
 
 ''Q: In a skirmish, if my opponent plays “Take Initiative,” can I play my own copy of “Take Initiative” to counteract it?''
 A: No. Your timing window to play cards “at the start of the round” would have passed (see “[[Conflicts in a Skirmish|Conflicts]]”).
 
 !! Hero Abilities
-''Q: When Gaarkhan suffers 3 or more damage and becomes Wounded as a result, does he still become Focused?''
+''Q: When Gaarkhan suffers 3 or more damage and becomes [[Wounded]] as a result, does he still become [[Focused|Focus]]?''
 A: No. Damage is suffered during the attack itself, and “Rage” allows Gaarkhan to become Focused after the attack resolves.
 
 ''Q: Does Mak have to use “Disengage” right away when a hostile figure enters a space within 3 spaces?''

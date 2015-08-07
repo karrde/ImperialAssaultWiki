@@ -1,13 +1,13 @@
 created: 20150116172851382
-modified: 20150807181102585
-tags: [[Rules Reference Guide]]
+modified: 20150807183840373
+tags: [[Rules Reference Guide]] [[Skirmish Guide]]
 title: Skirmish Mission Setup
 type: text/vnd.tiddlywiki
 
 To set up a skirmish mission, perform the following steps.
 
-# Bring Armies and Command Cards: Both players simultaneously place their Deployment cards faceup in their play areas. Then each player shuffles his deck of 15 Command cards and places it by his Deployment cards.
-# Determine Initiative: The player who has the lowest total cost of Deployment cards chooses which player begins the game with the initiative token. In the case of a tie, players determine initiative randomly.
+# ''Bring Armies and Command Cards:'' Both players simultaneously place their Deployment cards faceup in their play areas. Then each player shuffles his deck of 15 Command cards and places it by his Deployment cards.
+# ''Determine Initiative:'' The player who has the lowest total cost of Deployment cards chooses which player begins the game with the initiative token. In the case of a tie, players determine initiative randomly.
 # <$transclude tiddler="Determine and set up Skirmish Mission" mode="block"/>
 # <$transclude tiddler="Deploy Units" mode="block"/>
 # ''Draw Command Cards:'' Each player draws three cards from his Command deck.

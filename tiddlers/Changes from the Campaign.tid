@@ -1,0 +1,13 @@
+created: 20150807185027423
+modified: 20150807185331980
+tags: [[Skirmish Guide]]
+title: Changes from the Campaign
+type: text/vnd.tiddlywiki
+
+This section lists the major rules differences between a campaign mission and a skirmish mission.
+
+*''Suffering Strain:'' If a figure suffers [img[Strain.png]] in a skirmish, that figure suffers [img[Damage.png]] instead. For each [img[Strain.png]] a figure suffers, the player controlling that figure may choose to discard one Command card from the top of his deck to prevent it from suffering the resulting [img[Damage.png]]. Figures cannot recover [img[Strain.png]] in a skirmish.
+*''Resting:'' Figures cannot rest.
+*''Attacking:'' Figures can only use one of their actions to attack per activation. This includes using special actions that involve performing one or more attacks (such as the Nexu’s “Pounce” or Darth Vader’s “Brutality”).
+*<$transclude tiddler="Changes from the Campaign Heroes" mode="block"/>
+*''No Supply Cards:'' Figures cannot interact with crate tokens to draw Supply cards. The effects of crate tokens are described in the mission’s rules.

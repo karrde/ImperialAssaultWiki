@@ -1,0 +1,12 @@
+created: 20150807185444462
+modified: 20150807185637966
+tags: [[Skirmish Guide]]
+title: Winning a Skirmish
+type: text/vnd.tiddlywiki
+
+The game ends ''as soon as'' one player has accumulated 40 victory points (VPs). The player with the most VPs wins the game. VPs come from two main sources:
+
+*''Defeating Figures:'' When the last figure in a group is defeated, the opposing player scores VPs equal to the deployment cost of that group. To track this, the card’s controller places the Deployment card near his opponent.
+*<$transclude tiddler="Winning a Skirmish Card and Mission Effects" mode="block"/>
+
+If all of a player’s figures are defeated, he loses the game immediately, regardless of victory points.

@@ -1,0 +1,22 @@
+created: 20150807184106951
+modified: 20150807185433725
+tags: [[Skirmish Guide]]
+title: Playing a Skirmish
+type: text/vnd.tiddlywiki
+
+To play a skirmish, players follow all the basic rules used for playing a mission. Each round consists of an <span class="keyword">Activation Phase</span>, followed by a <span class="keyword">Status Phase</span>. Note that the specific rules for these phases differ slightly from the rules of a campaign mission.
+
+#<$transclude tiddler="Skirmish Activation Phase" mode="block"/>
+
+#''Status Phase:'' After all figures have been activated, players resolve the cleanup steps in preparation for the next game round. Note that these steps are different than the Status Phase steps in a campaign (see below).
+
+These phases are repeated until the mission ends (see “[[Winning a Skirmish]]”).
+
+!!Skirmish Status Phase
+<$transclude tiddler="Status Phase in a Skirmish" mode="block"/>
+
+!!Command Cards
+<$transclude tiddler="Playing a Skirmish Command Cards" mode="block"/>
+
+!!Changes from the Campaign
+<$transclude tiddler="Changes from the Campaign" mode="block"/>

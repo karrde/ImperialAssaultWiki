@@ -1,0 +1,15 @@
+created: 20150807185706404
+modified: 20150807185859421
+tags: [[Skirmish Guide]]
+title: Army Building
+type: text/vnd.tiddlywiki
+
+To play a skirmish, each player needs to build an army consisting of Deployment cards and Command cards. Armies are built without any foreknowledge of the opponent’s army or the skirmish mission they will be playing.
+
+This section details the requirements and restrictions for building an army.
+
+!!Choosing Deployment Cards
+<$transclude tiddler="Choosing Deployment Cards" mode="block"/>
+
+!!Choosing Command Cards
+<$transclude tiddler="Choosing Command Cards" mode="block"/>

@@ -1,0 +1,19 @@
+created: 20150807184702607
+modified: 20150807185741430
+tags: [[Skirmish Guide]]
+title: Playing a Skirmish Command Cards
+type: text/vnd.tiddlywiki
+
+Command cards are unique to skirmishes and provide players with a wide range of abilities. Each player has a unique deck of 15 Command cards. During the last step of setup, each player draws three cards from his deck and keeps these cards secret.
+
+A player can play each Command card when specified on that card. To play the card, he reveals it to his opponent, resolves its ability, and then discards the card.
+
+There is no limit to the number of Command cards a player can play each turn, nor is there a limit to the number of cards he may have in hand. If there are no cards remaining in a player’s Command deck, he cannot draw Command cards.
+
+During the Status Phase of each round, each player draws one Command card, plus one additional card for each terminal he <span class="keyword">controls</span> on the map. A player controls a terminal if he is the only player who has a figure on or adjacent to that terminal.
+
+!!!Figures using Command Cards
+
+Many Command cards have a restriction box listed above the ability. These cards must be played ''on a single friendly figure'' that matches the restrictions listed (often a trait or figure name). If the player does not have any eligible figures on the map, then he cannot play the card. Command cards with a restriction box use the word “you” to refer to the figure using the ability.
+
+If the card has the [img[Action.png]] icon, that figure must use one of its actions to resolve the ability on the card.
