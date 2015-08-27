@@ -1,6 +1,6 @@
 created: 20150113225231752
-modified: 20150807180223177
-tags: [[Rules Reference Guide]]
+modified: 20150827183814581
+tags: [[Rules Reference Guide]] [[Twin Shadows Rulebook]]
 title: Attacks
 type: text/vnd.tiddlywiki
 
@@ -41,4 +41,8 @@ Each die may be rerolled only ''once per attack'' regardless of who is rerolling
 * An ability that does not involve an attack but causes a figure to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack.
 * During a campaign, a hero performing an attack may spend 1[img[Surges.png]] to recover 1[img[Strain.png]]. Limit once per attack.
 * During a campaign, when a hero declares the target of his attack he must also declare one of his weapons to use for this attack.
+* Some abilities allow a figure to perform an attack with a different attack type and attack pool than their normal attack.
+** When a hero performs an attack using an attack pool unrelated to his weapons (such as the melee attack from "Close and Personal" on Biv Bodhrik's Hero Sheet), he cannot use any abilites from his weapons during that attack.
+** When a figure corresponding to a Deployment card performs an attack using an alternate attack pool (such as the melee attack from "Close and Personal" on Biv Bodhrik's Deployment card), they may still trigger their surge abilities, unless the ability triggering the attack states otherwise.
+
 ''Related Topics:'' [[Blast]], [[Cleave]], [[Conditions]], [[Conflicts]], [[Convert]], [[Counting Spaces]], [[Damage]], [[Health]], [[Item Cards]], [[Line of Sight]], [[Melee Attack]], [[Miss]], [[Surges]], [[Ranged Attack]], [[Target]]
