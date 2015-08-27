@@ -1,0 +1,14 @@
+created: 20150820204010989
+modified: 20150820204438647
+tags: [[Boba Fett, Infamous Bounty Hunter]]
+title: Skirmish Attachments
+type: text/vnd.tiddlywiki
+
+Some skirmish upgrade Deployment cards list the word "Attachment" above their abilities.  These cards can be attached to other Deployment cards as follows:
+
+* When deploying units during skirmish setup, is a player has one or more "Attachment" cards included in his army, each of these cards is placed on a non-upgrade Deployment card.
+* Each Deployment card can have only one "Attachment."
+* Abilities on "Attachment" cards apply to all figures in the corresponding group.
+* Many attachments require the group to have a specific trait, such as "<span class="trait">Trooper</span>."  Attachments with these restrictins cannot be played on a group that does not have the trait.
+
+When a group with an "Attachment" card is defeated, the opposing player scores VPs equal to the deployment cost of the "Attachment" card in addition to the VPs he scores from the defeated group's Deployment card.
