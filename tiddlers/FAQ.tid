@@ -1,5 +1,5 @@
 created: 20150807144011380
-modified: 20150807191014281
+modified: 20151016172939627
 tags: Errata
 title: FAQ
 type: text/vnd.tiddlywiki
@@ -22,6 +22,12 @@ A: Yes.
 ''Q: In a skirmish, if my opponent plays “Take Initiative,” can I play my own copy of “Take Initiative” to counteract it?''
 A: No. Your timing window to play cards “at the start of the round” would have passed (see “[[Conflicts in a Skirmish|Conflicts]]”).
 
+''Q: When a mission rule deploys a figure to a deployment point, does that deployment point become active?''
+A: No. Other than green deployment points, which are always active at the start of a mission, a deployment point only becomes active if the mission rules state so directly.
+
+''Q: Can a figure perform an action while occupying the same space as another figure as long as it still has enough movement points remaining to exit that space after performing the action?''
+A: No. A figure must end its movement in order to perform any actions and a figure cannot end its movement in a space containing another figure (unless it is massive).
+
 !! Hero Abilities
 ''Q: When Gaarkhan suffers 3 or more damage and becomes [[Wounded]] as a result, does he still become [[Focused|Focus]]?''
 A: No. Damage is suffered during the attack itself, and “Rage” allows Gaarkhan to become Focused after the attack resolves.
@@ -32,6 +38,10 @@ A: Yes. The timing window for that ability is only when the hostile figure enter
 ''Q: When Jyn has “Smuggler’s Luck” and heroes are drawing Item cards from more than one Item deck, from which deck is the extra card drawn?''
 A: After revealing cards from both available decks, Jyn’s player chooses one of those decks from which to draw the extra card.
 
+!! Command Cards
+''Q: Can “To the Limit” be used after performing any action?''
+A: No. “To the Limit” can only be used after performing a special action (an action with the [img[Action.png]] symbol).
+
 !! Mission Rules
 ''Q: What does it mean when a door becomes “unlocked?” Does it open?''
 A: No. When a locked door is unlocked by a mission effect, the door remains closed but can be opened with an interact, following normal rules for opening doors.
@@ -41,3 +51,6 @@ A: Yes.
 
 ''Q: In “Under Siege,” if the Imperials secure the 4th capture point at the end of Round 8, which “End of Mission” condition triggers, the end of Round 8 or the Imperial player securing 4 capture points?''
 A: Since they happenat the same time, the Imperial player decides (see “[[Conflicts in a Campaign|Conflicts]]”).
+
+''Q: Should all the rules text of mission events be read out loud to Rebel players or only the flavor text?''
+A: Yes, all event rules text, including mission briefing, should be read aloud to Rebel players when that event is triggered (with the exception of reading out all options when the Imperial Player chooses from a list).
