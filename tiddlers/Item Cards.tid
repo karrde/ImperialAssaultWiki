@@ -1,5 +1,5 @@
 created: 20150115192805400
-modified: 20150807181533660
+modified: 20151212122556190
 tags: [[Rules Reference Guide]]
 title: Item Cards
 type: text/vnd.tiddlywiki
@@ -20,7 +20,7 @@ During a campaign, heroes gain access to a wide range of Item cards. Item cards 
 Some Item cards have the Modification trait. These cards have no effect on their own and must be attached to (placed on) an Item card matching its icon (either [img[Ranged Attack.png]] or [img[Melee Attack.png]]). Once attached to an item, the hero can use the modification’s ability while performing an attack with that weapon.
 
 * Each weapon is limited in the number of modifications that can be attached to it. This limit is listed as a number of colored bars on the bottom-right corner of the card. If an Item card does not have any modification bars, modifications cannot be attached to it.
-￼￼* Modifications are not weapons.
+* Modifications are not weapons.
 * When a hero purchases an Item card, and before each mission, heroes may attach any of their modifications to other Item cards. Heroes may also choose to remove modifications from their Item cards and keep them in their play area unattached. Abilities on modifications that are not attached to Item cards cannot be used.
 * While resolving a mission, modifications cannot be attached to or removed from Item cards.
 * An Item card ''cannot'' have more than one modification with the same trait attached to it at the same time, excluding the Modification trait. For example, a weapon can only have one Barrel modification attached to it.
