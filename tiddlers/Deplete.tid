@@ -1,9 +1,11 @@
 created: 20150115010119180
-modified: 20150807182726107
-tags: [[Rules Reference Guide]]
+modified: 20160608200338542
+tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]]
 title: Deplete
 type: text/vnd.tiddlywiki
 
 When a card is depleted, it is flipped facedown and cannot be used for the remainder of the mission. At the end of each mission, all depleted cards are flipped faceup.
+
+When a card is depleted, abilities on that card no longer have any effect. For example, if MHD-19 uses the “deplete” ability on his Reward card, “Systems Upgrade,” that card no longer provides the “+2 Health” ability, and MHD-19’s Health value is immediately reduced by 2.
 
 ''Related Topics:'' [[Abilities]]

@@ -1,6 +1,6 @@
 created: 20150115005654733
-modified: 20150807180315063
-tags: [[Rules Reference Guide]]
+modified: 20160608200130630
+tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]]
 title: Damage
 type: text/vnd.tiddlywiki
 
@@ -13,5 +13,6 @@ Many game effects cause figures to suffer [img[Damage.png]] (damage). This is mo
 * Some damage tokens have a “5” printed on them. Each of these tokens represent “5” damage tokens, and any player can freely exchange one of these tokens for five single damage tokens.
 * When a game effect mentions the amount of [img[Damage.png]] a figure “has suffered,” it refers to the total value of damage tokens currently on its Hero sheet or by its figure.
 * A figure cannot suffer [img[Damage.png]] in excess of its Health. Any [img[Damage.png]] over this amount has no effect.
+* If an effect causes a figure to reduce its Health value, and it has suffered an amount of [img[Damage.png]] greater than the resulting Health value, any [img[Damage.png]] in excess of its Health is discarded and has no effect.
 
 ''Related Topics:'' [[Attacks]], [[Defeated]], [[Health]]

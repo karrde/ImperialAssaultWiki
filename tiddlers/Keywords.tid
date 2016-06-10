@@ -1,6 +1,6 @@
 created: 20150115194454138
-modified: 20150807181840643
-tags: [[Rules Reference Guide]]
+modified: 20160608200453695
+tags: [[Rules Reference Guide]] [[The Bespin Gambit Rulebook]]
 title: Keywords
 type: text/vnd.tiddlywiki
 
@@ -8,5 +8,9 @@ Keywords are shorthand for longer abilities.
 
 * The following keywords are in the core game: Bleed, Blast, Cleave, Focus, Massive, Mobile, Pierce, Recover, Reach, and Stun.
 * Conditions such as Bleed, Focus, and Stun are also used as keywords to apply the corresponding condition.
+* The following keywords are included in //Return to Hoth//, in addition to those found in the core game: Habitat, Weaken.
+* The Weakened condition is also used as a keyword to apply the corresponding condition.
+* The keyword Hide is included in //The Bespin Gambit// in addition to those found in the core game.
+* The Hidden condition is also used as a keyword to apply the corresponding condition.
 
 ''Related Topics:'' [[Blast]], [[Cleave]], [[Conditions]], [[Focus]], [[Massive]], [[Mobile]], [[Pierce]], [[Recover]], [[Reach]]

@@ -1,6 +1,6 @@
 created: 20150114023444327
-modified: 20150820185743061
-tags: [[Rules Reference Guide]] [[Twin Shadows Rulebook]]
+modified: 20160608195529643
+tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]] [[Twin Shadows Rulebook]]
 title: Attribute Tests
 type: text/vnd.tiddlywiki
 
@@ -12,7 +12,7 @@ To perform a test, the player rolls the dice listed on his Hero sheet directly b
 * Each [img[Surges.png]] rolled is a ''success''. If an attribute test lists a number directly before the icon, multiple successes are needed in order to pass the test. If he does not roll the required number of successes, he fails the test but places one strain token near the subject of the test for each success. The next time any figure attempts this test, it discards these strain tokens and applies +1[img[Surges.png]] to his test results for each token discarded.
 * If an attribute test gives the option of multiple attributes, such as “([img[Tech.png]] or [img[Strength.png]]),” the figure chooses one of the attributes to test. If this test also requires multiple successes, the number is written before the first icon. For example, (2 [img[Tech.png]] or [img[Strength.png]]) requires two successes, from any combination of [img[Tech.png]] and [img[Strength.png]] attribute tests.
 * Only heroes roll dice for attribute tests. If an elite figure is required to perform an attribute test, it automatically receives 1 success. If a regular figure is required to perform a test, it automatically fails the test.
-* Many attribute tests required by mission rules require the figure tperforming the test to interact with an object (such as a mission token, terminal, or door).  These are referred to as attribute tests on objects.
+* Many attribute tests required by mission rules require the figure performing the test to interact with an object (such as a mission token, terminal, or door).  These are referred to as attribute tests on objects.
 * Some missions allow any Rebel figure to perform attribute tests on objects, instead of only heroes.  If this occurs, allies can interact to perform those tests in the same way as a hero would.  Elite figures automatically recieve 1 success when they perform attribute tests.  Regular figures automatically fail tests.
 
 ''Related Topics:'' [[Attributes]], [[Elite Figure]], [[Interact]]

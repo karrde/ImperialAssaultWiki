@@ -1,6 +1,6 @@
 created: 20150117020456052
-modified: 20150807180442436
-tags: [[Rules Reference Guide]]
+modified: 20160608200556096
+tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]]
 title: Wounded
 type: text/vnd.tiddlywiki
 
@@ -9,5 +9,6 @@ During a campaign, when a healthy hero suffers [img[Damage.png]] (damage) equal 
 * If a wounded hero is defeated, he withdraws.
 * The wounded side of a hero sheet lists fewer abilities and often has lower Health, Speed, Endurance, or Attributes.
 * Once a hero is wounded, his sheet remains on the wounded side until the end of the mission.
+* If a card or mission effect allows a wounded hero to flip his hero sheet to the healthy side during the course of a mission, that hero is no longer wounded.
 
 ''Related Topics:'' [[Damage]], [[Health]], [[Healthy]], [[Hero]], [[Strain]], [[Withdraw]]

@@ -1,6 +1,6 @@
 created: 20150113225231752
-modified: 20150827183814581
-tags: [[Rules Reference Guide]] [[Twin Shadows Rulebook]]
+modified: 20160608181220225
+tags: [[Rules Reference Guide]] [[Twin Shadows Rulebook]] [[The Bespin Gambit Rulebook]]
 title: Attacks
 type: text/vnd.tiddlywiki
 
@@ -36,8 +36,10 @@ Each die may be rerolled only ''once per attack'' regardless of who is rerolling
 ** An ability that allows a player to reroll dice can only be used during step 3 of the attack.
 ** An ability that allows a player to modify die results can only be used during step 4 of the attack.
 * Some abilities allow players to perform an attack with a hostile figure. To resolve such an attack, the player resolving the ability controls the hostile figure for the duration of that attack.
-** The player resolving the ability chooses the target of the attack. All figures are considered hostile when choosing a target for this attack. The figure cannot target itself.
+** The player resolving the ability chooses the target of the attack. All non-neutral figures are considered hostile and no figures are considered friendly while performing this attack. The figure cannot target itself.
 ** The player resolving the ability rolls the attack dice and can use any of the figure’s abilities as if the figure were his own.
+** During a campaign, while a Rebel player is attacking with an Imperial figure or the Imperial player is attacking with a Rebel figure, that figure is considered to be both Rebel and Imperial by mission rules.
+** A figure that uses such an ability does not count as having performed an attack.
 * An ability that does not involve an attack but causes a figure to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack.
 * During a campaign, a hero performing an attack may spend 1[img[Surges.png]] to recover 1[img[Strain.png]]. Limit once per attack.
 * During a campaign, when a hero declares the target of his attack he must also declare one of his weapons to use for this attack.

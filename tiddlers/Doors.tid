@@ -1,6 +1,6 @@
 created: 20150115011521077
-modified: 20150807181654749
-tags: [[Rules Reference Guide]]
+modified: 20160608181756164
+tags: [[Rules Reference Guide]] [[The Bespin Gambit Rulebook]]
 title: Doors
 type: text/vnd.tiddlywiki
 
@@ -12,5 +12,6 @@ Doors are represented by stand-up tokens placed on the map. Each mission specifi
 * If a large figure occupies spaces on both sides of a door when it closes, that figure is pushed to the closest empty space (see “[[Push]]”).
 * The spaces that share an edge with a door are the only spaces that are considered to be adjacent to that door.
 * Some missions specify that certain doors are locked. Locked doors cannot be opened except as specified in the mission rules.
+* Some missions allow heroes to place doors.  Doors must be placed on exactly two edges.  A door cannot overlap a wall or another door.
 
 ''Related Topics:'' [[Attacking Objects]], [[Counting Spaces]], [[Interact]], [[Line of Sight]], [[Push]]

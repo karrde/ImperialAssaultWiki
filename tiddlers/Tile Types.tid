@@ -1,6 +1,6 @@
 created: 20150807173744210
-modified: 20150807174325813
-tags: [[Twin Shadows Rulebook]]
+modified: 20160608192237427
+tags: [[Twin Shadows Rulebook]] [[The Bespin Gambit Rulebook]] [[Bantha Rider]] [[Return to Hoth Rulebook]]
 title: Tile Types
 type: text/vnd.tiddlywiki
 
@@ -10,8 +10,16 @@ The primary tile type distinction is between interior and exterior (see "[[Inter
 
 *''Forest:''
 **Core game tiles 01A-18A,37A,38B and 39A
+**//Return to Hoth// tiles 05A and 24A
+**//The Bespin Gambit// tiles 11A
 *''Desert:''
 **Core game tiles 01B-18B,37A,38A, and 39B
 **//Twin Shadows// tiles 04B-07B
+**//The Bespin Gambit// tiles 12A
+*''Snow:''
+**//Return to Hoth// tiles 01A-24A and 21B
 *''Interior:''
+**Core game tiles 19A-36A and 19B-36B
 **//Twin Shadows// tiles 01A-07A and 01B-03B
+**//Return to Hoth// tiles 01B-20B and 22B-24B
+**//The Bespin Gambit// tiles 01A-10A and 01B-12B
