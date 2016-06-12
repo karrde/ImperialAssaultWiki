@@ -1,16 +1,16 @@
 created: 20150113232255294
-modified: 20150807175950098
+modified: 20160612154443651
 tags: Errata [[Rules Reference Guide]]
 title: Attacking Objects
 type: text/vnd.tiddlywiki
 
 Mission rules can allow a figure to attack objects, such as doors or tokens.
 
-* Mission rules specify how much Health the object has. Any [img[Damage.png]] it suffers is placed on or adjacent to the object. If an object suffers [img[Damage.png]] equal to or greater than its Health, it is destroyed and removed from the map. If the object is a door, it is considered to have opened.
+* Mission rules specify how much Health the object has. Any [img height=20 [Damage.svg]] it suffers is placed on or adjacent to the object. If an object suffers [img height=20 [Damage.svg]] equal to or greater than its Health, it is destroyed and removed from the map. If the object is a door, it is considered to have opened.
 * Many abilities that modify attacks can also affect objects that can be attacked, but some cannot. An ability that refers to a target can be used when attacking an object, but an ability that refers to a figure cannot. If the ability can modify any attack and does not specify target or figure, it can be used when attacking an object.
 * Abilities that affect objects only affect objects that can be attacked.
 * Conditions cannot be applied to objects, and objects cannot suffer [img[Strain.png]]. Objects cannot be pushed.
-* Mission rules specify if the object rolls defense dice or has any inherent [img[Block.png]] while being attacked. If it does not list a die color, it does not roll any dice.
+* Mission rules specify if the object rolls defense dice or has any inherent [img height=20 [Block.svg]] while being attacked. If it does not list a die color, it does not roll any dice.
 * If a figure is in the same space as the token, the figure and token are targeted for attacks independently. Neither the figure nor the token block line of sight to the other.
 * The Blast and Cleave keywords can affect objects. If a figure is in the same space as the token, the figure and token are considered adjacent for the purposes of Blast and Cleave.
 * When attacking a door, using an ability that affects a door, or counting spaces to a door, the door is considered to be occupying each empty space with which it shares an edge

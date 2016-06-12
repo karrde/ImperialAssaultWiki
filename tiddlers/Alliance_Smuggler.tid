@@ -1,0 +1,22 @@
+command_cards_count: 4
+command_cards_name: Smuggled Supplies, Heard of Freedom, Self-Defense, Smuggler's Tricks
+created: 20160610180042505
+deployment_cards_count: 3
+deployment_cards_name: 2 {{!!figure_name}}, Smuggler's Run
+figure_count: 1
+figure_name: Alliance Smuggler
+modified: 20160611121947382
+side_mission_color: green
+side_mission_name: Precious Cargo
+skirmish_map: Imperial Command Hub
+tags: [[Alliance Smuggler]]
+title: Alliance Smuggler
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

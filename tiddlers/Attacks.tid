@@ -1,5 +1,5 @@
 created: 20150113225231752
-modified: 20160608181220225
+modified: 20160612154718464
 tags: [[Rules Reference Guide]] [[Twin Shadows Rulebook]] [[The Bespin Gambit Rulebook]]
 title: Attacks
 type: text/vnd.tiddlywiki
@@ -17,20 +17,20 @@ For a melee attack ([img[Melee Attack.png]]), an eligible target is any hostile 
 # <div>''Rerolls:'' If players have any effects that reroll dice, they are resolved now.<br>
 Each die may be rerolled only ''once per attack'' regardless of who is rerolling the die.
 </div>
-# ''Apply Modifiers:'' If players have any effects that gain or remove icons or Accuracy, they are applied at this time. This includes spending [img[Evade.png]] (evade) results to remove [img[Surges.png]] results. Any [img[Surges.png]] abilities that provide modifiers are not resolved until step 5.
-# ''Spend Surges:'' If the attacker has any [img[Surges.png]] results, he may spend them to trigger special abilities.
+# ''Apply Modifiers:'' If players have any effects that gain or remove icons or Accuracy, they are applied at this time. This includes spending [img height=20 [Evade.svg]] (evade) results to remove [img height=20 [Surges.svg]] results. Any [img height=20 [Surges.svg]] abilities that provide modifiers are not resolved until step 5.
+# ''Spend Surges:'' If the attacker has any [img height=20 [Surges.svg]] results, he may spend them to trigger special abilities.
 # ''Check Accuracy:'' If performing a ranged attack ([img[Ranged Attack.png]]) the total Accuracy value must be equal to or greater than the number of spaces the target is away from the attacker. (See “Counting Spaces” on page 9). If the total Accuracy value is less than this number, the attack is a miss.
-# ''Calculate Damage:'' The total number of [img[Block.png]] (block) results is subtracted from the total number of [img[Damage.png]] (damage) results, and then the target suffers all remaining [img[Damage.png]].
+# ''Calculate Damage:'' The total number of [img height=20 [Block.svg]] (block) results is subtracted from the total number of [img height=20 [Damage.svg]] (damage) results, and then the target suffers all remaining [img height=20 [Damage.svg]].
 
 !! Special Situations Regarding Attacks
 
 * Unlike heroes, a figure that has a Deployment card can use only ''one'' of its actions to attack per activation. This includes using special actions that involve performing one or more attacks (such as the Nexu’s “Pounce” or Darth Vader’s “Brutality”).
 ** If an ability allows a figure to perform an attack ''outside of its activation'', this attack does not count toward the limit of one attack per activation.
 * A figure cannot target an empty space with an attack.
-* A figure cannot target a friendly figure with an attack.  Note that friendly figures may suffer [img[Damage.png]] from some abilities, such as Blast.
+* A figure cannot target a friendly figure with an attack.  Note that friendly figures may suffer [img height=20 [Damage.svg]] from some abilities, such as Blast.
 * Dice rolled by the attacker are referred to as the <span class="keyword">attack pool</span>, while all dice rolled by the defender are referred to as the <span class="keyword">defense pool</span>.
 * Red, blue, yellow, and green dice are referred to as <span class="keyword">attack dice</span>. Black and white dice are referred to as <span class="keyword">defense dice</span>.
-* The keyword abilities Blast and Cleave, and any keyword that causes a condition, all require the target of the attack to suffer one or more [img[Damage.png]] to trigger.
+* The keyword abilities Blast and Cleave, and any keyword that causes a condition, all require the target of the attack to suffer one or more [img height=20 [Damage.svg]] to trigger.
 * Any ability that is resolved “while attacking” or “while defending” can be used at any point during the attack with the following exceptions:
 ** An ability that adds dice to a dice pool can only be used immediately before step 2 of the attack.
 ** An ability that allows a player to reroll dice can only be used during step 3 of the attack.
@@ -41,7 +41,7 @@ Each die may be rerolled only ''once per attack'' regardless of who is rerolling
 ** During a campaign, while a Rebel player is attacking with an Imperial figure or the Imperial player is attacking with a Rebel figure, that figure is considered to be both Rebel and Imperial by mission rules.
 ** A figure that uses such an ability does not count as having performed an attack.
 * An ability that does not involve an attack but causes a figure to suffer damage (such as Darth Vader’s “Force Choke”) is not considered to be an attack.
-* During a campaign, a hero performing an attack may spend 1[img[Surges.png]] to recover 1[img[Strain.png]]. Limit once per attack.
+* During a campaign, a hero performing an attack may spend 1[img height=20 [Surges.svg]] to recover 1[img[Strain.png]]. Limit once per attack.
 * During a campaign, when a hero declares the target of his attack he must also declare one of his weapons to use for this attack.
 * Some abilities allow a figure to perform an attack with a different attack type and attack pool than their normal attack.
 ** When a hero performs an attack using an attack pool unrelated to his weapons (such as the melee attack from "Close and Personal" on Biv Bodhrik's Hero Sheet), he cannot use any abilites from his weapons during that attack.

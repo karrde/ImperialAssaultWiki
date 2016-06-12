@@ -1,11 +1,11 @@
 created: 20150115190907871
-modified: 20150807182228109
+modified: 20160611201326459
 tags: [[Rules Reference Guide]]
 title: Hostile Figure
 type: text/vnd.tiddlywiki
 
 All figures belonging to a player’s opponent are considered hostile.
 
-* During a campaign, all [img[Rebel.png]] figures are considered hostile to all [img[Imperial.png]] and [img[Mercenary.png]] figures.
+* During a campaign, all [img height=20 [Rebel.svg]] figures are considered hostile to all [img height=20 [Imperial.svg]] and [img height=20 [Mercenary.svg]] figures.
 
 ''Related Topics:'' [[Affiliation]], [[Friendly Figure]]

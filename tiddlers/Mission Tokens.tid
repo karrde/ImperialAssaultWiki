@@ -1,12 +1,12 @@
 created: 20150116010555410
-modified: 20150807181558478
+modified: 20160611201347091
 tags: [[Rules Reference Guide]]
 title: Mission Tokens
 type: text/vnd.tiddlywiki
 
 These tokens are used to represent objects, people, or general points of interest. Mission tokens have no inherent effects and act as specified in the mission.
 
-* There are three types of mission tokens. If a mission token shows a [img[Rebel.png]] icon, it is referred to as a Rebel mission token. Likewise, a mission token that shows a [img[Imperial.png]] icon is referred to as an Imperial mission token. All other mission tokens are neutral mission tokens.
+* There are three types of mission tokens. If a mission token shows a [img height=20 [Rebel.svg]] icon, it is referred to as a Rebel mission token. Likewise, a mission token that shows a [img height=20 [Imperial.svg]] icon is referred to as an Imperial mission token. All other mission tokens are neutral mission tokens.
 * Mission tokens do not block line of sight or affect figure movement. Figures can enter and end their movement in the same space as a mission token.
 * If a mission token is in a space containing terrain, the terrain in the space still takes effect. For example, a space with blocking terrain that contains a mission token still blocks line of sight, and figures cannot enter the space.
 * The colored border of mission tokens has no game effect unless specified by the mission.

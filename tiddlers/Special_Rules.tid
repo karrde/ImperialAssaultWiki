@@ -1,0 +1,17 @@
+created: 20160608194348308
+modified: 20160608194640452
+tags: [[Return to Hoth Rulebook]]
+title: Special Rules
+type: text/vnd.tiddlywiki
+
+In a four-player skirmish, some special rules come into effect.
+
+* When a card effect targets your opponent (such as “Shadow Ops”), you must choose one available opponent.
+* If a player would claim the initiative token out of turn, such as by playing “Take Initiative,” that player receives the first activation on that turn, but does not claim the initiative token. After the first activation resolves, play passes to the player with the initiative token and then proceeds normally.
+** The player with the initiative token cannot also use effects that would claim the initiative token.
+** If multiple players use e ects that would claim the initiative token, each of those players gain an activation that they may use before the player with initiative resolves his first activation. These activations are resolved in order of initiative.
+** A player cannot use more than one effect that would allow him to claim the initiative token in the same round.
+* When the last figure in a group is defeated, the player who defeated that figure gains the VPs for that figure’s group.
+** When the last figure in a group is defeated, but was not defeated by an opponent, such as when a Probe Droid becomes defeated after using “Self-Destruct,” that figure’s player chooses one available opponent to gain the VPs for that group.
+* If all of a player’s figures are defeated, that player is eliminated. He can no longer play cards, and his Skirmish Upgrade cards no longer have any effect.
+* If more than one player includes the Skirmish Upgrade card “Devious Scheme” in his army, then all copies of “Devious Scheme” have no effect.

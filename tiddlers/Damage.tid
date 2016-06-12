@@ -1,18 +1,18 @@
 created: 20150115005654733
-modified: 20160608200130630
+modified: 20160612155049041
 tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]]
 title: Damage
 type: text/vnd.tiddlywiki
 
-Many game effects cause figures to suffer [img[Damage.png]] (damage). This is most often suffered from attacks but can come from a variety of different sources.
+Many game effects cause figures to suffer [img height=20 [Damage.svg]] (damage). This is most often suffered from attacks but can come from a variety of different sources.
 
-* When a figure has suffered [img[Damage.png]] equal to or exceeding its Health, it is defeated.
-* When a hero suffers [img[Damage.png]], place an equal number of damage tokens on his Hero sheet.
-* When any other figure suffers [img[Damage.png]], place an equal number of damage tokens next to the figure. These damage tokens move with the figure.
-* If a figure suffers [img[Damage.png]] outside of an attack, the [img[Damage.png]] is not prevented by [img[Block.png]], and the figure does not roll defense dice.
+* When a figure has suffered [img height=20 [Damage.svg]] equal to or exceeding its Health, it is defeated.
+* When a hero suffers [img height=20 [Damage.svg]], place an equal number of damage tokens on his Hero sheet.
+* When any other figure suffers [img height=20 [Damage.svg]], place an equal number of damage tokens next to the figure. These damage tokens move with the figure.
+* If a figure suffers [img height=20 [Damage.svg]] outside of an attack, the [img height=20 [Damage.svg]] is not prevented by [img height=20 [Block.svg]], and the figure does not roll defense dice.
 * Some damage tokens have a “5” printed on them. Each of these tokens represent “5” damage tokens, and any player can freely exchange one of these tokens for five single damage tokens.
-* When a game effect mentions the amount of [img[Damage.png]] a figure “has suffered,” it refers to the total value of damage tokens currently on its Hero sheet or by its figure.
-* A figure cannot suffer [img[Damage.png]] in excess of its Health. Any [img[Damage.png]] over this amount has no effect.
-* If an effect causes a figure to reduce its Health value, and it has suffered an amount of [img[Damage.png]] greater than the resulting Health value, any [img[Damage.png]] in excess of its Health is discarded and has no effect.
+* When a game effect mentions the amount of [img height=20 [Damage.svg]] a figure “has suffered,” it refers to the total value of damage tokens currently on its Hero sheet or by its figure.
+* A figure cannot suffer [img height=20 [Damage.svg]] in excess of its Health. Any [img height=20 [Damage.svg]] over this amount has no effect.
+* If an effect causes a figure to reduce its Health value, and it has suffered an amount of [img height=20 [Damage.svg]] greater than the resulting Health value, any [img height=20 [Damage.svg]] in excess of its Health is discarded and has no effect.
 
 ''Related Topics:'' [[Attacks]], [[Defeated]], [[Health]]

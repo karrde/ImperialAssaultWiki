@@ -1,12 +1,12 @@
 created: 20150116012027503
-modified: 20150807181427022
+modified: 20160612155117038
 tags: [[Rules Reference Guide]]
 title: Pierce
 type: text/vnd.tiddlywiki
 
-This keyword allows a figure to ignore a number of [img[Block.png]](block) results while attacking. For example, “Pierce 2” allows an attack to ignore up to 2[img[Block.png]] results.
+This keyword allows a figure to ignore a number of [img height=20 [Block.svg]](block) results while attacking. For example, “Pierce 2” allows an attack to ignore up to 2[img height=20 [Block.svg]] results.
 
-* If the number of [img[Block.png]] results is less than the Pierce value, the excess Pierce value has no effect.
+* If the number of [img height=20 [Block.svg]] results is less than the Pierce value, the excess Pierce value has no effect.
 * If multiple Pierce abilities are used during an attack, their values are added together.
 
 ''Related Topics:'' [[Attacks]], [[Keywords]]

@@ -1,0 +1,25 @@
+created: 20160610175227545
+modified: 20160611193251312
+tags: 
+title: $:/my/templates/pack_instructions
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" state=!!title text="$:/my/templates/pack_instructions" tag="div">
+
+</$reveal>
+
+<$reveal type="nomatch" state=!!title text="$:/my/templates/pack_instructions" tag="div">
+
+<$vars figure_name={{!!figure_name}} >
+This pack provides the <$link to=<<figure_name>> >{{!!figure_name}}</$link><$reveal type='nomatch' state=!!figure_sub_title text=''>, {{!!figure_sub_title}}</$reveal> plastic figure<$reveal type='nomatch' state=!!figure_count text='1'>s</$reveal> that can be used when playing a mission.  The other components in this expansion are incorporated as follows:
+</$vars>
+
+<ul>
+<li>Add the Deployment cards to their supply.</li>
+<$reveal type='nomatch' state=!!agenda_deck_name text='' tag='li'><$reveal type='match' state=!!agenda_deck_dependant text='true'>If you own the {{!!figure_expansion}} expansion, t</$reveal><$reveal type='nomatch' state=!!agenda_deck_dependant text='true'>T</$reveal>he Imperial player can choose the "{{!!agenda_deck_name}}" Agenda set when building his Agenda deck at the start of a campaign.</$reveal>
+<$reveal type='nomatch' state=!!side_mission_name text='' tag='li'><$reveal type='match' state=!!side_mission_dependant text='true'>If you own the {{!!figure_expansion}} expansion, a</$reveal><$reveal type='nomatch' state=!!side_mission_dependant text='true'>A</$reveal>dd the Side Mission card to the pool of {{!!side_mission_color}} Side Mission cards.<$reveal type='match' state=!!side_mission_color text='green'>  The heroes can choose this card when building the Side Mission deck at the start of the campaign.</$reveal></$reveal>
+<li><$reveal type='match' state=!!skirmish_dependant text='true'>If you own the {{!!figure_expansion}} expansion, s</$reveal><$reveal type='nomatch' state=!!skirmish_dependant text='true'>S</$reveal>huffle the Skirmish Mission cards into the Skirmish Mission deck.  These cards use the "{{!!skirmish_map}}" skimirsh map.</li>
+<li>Add the Comand cards to the pool of cards that the player can use to build his Command deck.</li>
+<$reveal type='match' state=!!id_tokens text='true' tag='li'>ID tokens and stickers can be used to mark differnt groups corresponding to Deployment cards with the same name.</$reveal>
+</ul>
+</$reveal>

@@ -1,11 +1,11 @@
 created: 20150113201616439
-modified: 20150807180207362
+modified: 20160611200523287
 tags: [[Rules Reference Guide]]
 title: Affiliation
 type: text/vnd.tiddlywiki
 
-Each figure belongs to one of three affiliations: Rebel ([img[Rebel.png]]), Imperial ([img[Imperial.png]]), or Mercenary ([img[Mercenary.png]]). All heroes are [img[Rebel.png]] figures, while each other figure’s affiliation is shown on the upper-right corner of its Deployment card.<p>
+Each figure belongs to one of three affiliations: Rebel ([img height=20 [Rebel.svg]]), Imperial ([img height=20 [Imperial.svg]]), or Mercenary ([img height=20 [Mercenary.svg]]). All heroes are [img height=20 [Rebel.svg]] figures, while each other figure’s affiliation is shown on the upper-right corner of its Deployment card.<p>
 
-* During a campaign, [img[Imperial.png]] and [img[Mercenary.png]] figures are friendly to one another and hostile toward the [img[Rebel.png]] figures. All [img[Rebel.png]] figures are friendly to each other and hostile toward all [img[Imperial.png]] and [img[Mercenary.png]] figures.
+* During a campaign, [img height=20 [Imperial.svg]] and [img height=20 [Mercenary.svg]] figures are friendly to one another and hostile toward the [img height=20 [Rebel.svg]] figures. All [img height=20 [Rebel.svg]] figures are friendly to each other and hostile toward all [img height=20 [Imperial.svg]] and [img height=20 [Mercenary.svg]] figures.
 * During a skirmish, all of a player’s Deployment cards must have the same affiliation. All figures belonging to that player are friendly to each other, while all figures belonging to his opponent are hostile toward his figures.
 ''Related Topics:'' [[Friendly Figure]], [[Hostile Figure]], [[Imperial Figures]]

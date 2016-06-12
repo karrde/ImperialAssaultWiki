@@ -1,0 +1,40 @@
+created: 20160610180344087
+modified: 20160611193202668
+tags: 
+title: $:/my/templates/component_breakdown
+type: text/vnd.tiddlywiki
+
+<$reveal type="match" state=!!title text="$:/my/templates/component_breakdown" tag="div">
+Template for the component breakdown of a Ally/Villain Pack sheets.  Packs transcluding this should have the following fields ( (r) = required, (b) = boolean):
+<ul>
+<li>figure_name (r)</li>
+<li>figure_count (r)</li>
+<li>deployment_card_count (r)</li>
+<li>deployment_card_name (r)</li>
+<li>skirmish_map (r)</li>
+<li>command_card_count (r)</li>
+<li>command_card_name (r)</li>
+<li>agenda_deck_name</li>
+<li>side_mission_name</li>
+<li>condition_card_count</li>
+<li>condition_card_name</li>
+<li>reward_card_count</li>
+<li>reward_card_name</li>
+<li>id_tokens (b)</li>
+</ul>
+</$reveal>
+
+
+<$reveal type="nomatch" state=!!title text="$:/my/templates/component_breakdown" tag="div">
+<ul>
+<li>{{!!figure_count}} Plastic Figure<$reveal type='nomatch' state=!!figure_count text='1'>s</$reveal> ({{!!figure_name}})</li>
+<li>{{!!deployment_cards_count}} Deployment Card<$reveal type='nomatch' state=!!deployment_cards_count text='1'>s</$reveal> ({{!!deployment_cards_name}})</li>
+<$reveal type='nomatch' state=!!agenda_deck_name text='' tag='li'>3 Agenda Cards ({{!!agenda_deck_name}})</$reveal>
+<$reveal type='nomatch' state=!!condition_card_name text='' tag='li'>{{!!condition_card_count}} Condition Card ({{!!condition_card_name}})</$reveal>
+<$reveal type='nomatch' state=!!side_mission_name text='' tag='li'>1 Side Mission Card ({{!!side_mission_name}})</$reveal>
+<li>2 Skirmish Mission Cards ({{!!skirmish_map}})</li>
+<li>{{!!command_cards_count}} Command Cards ({{!!command_cards_name}})</li>
+<$reveal type='nomatch' state=!!reward_cards_name text='' tag='li'>{{!!reward_cards_count}} Reward Card<$reveal type='nomatch' state=!!reward_cards_count text='1'>s</$reveal> ({{!!reward_cards_name}})</$reveal>
+<$reveal type='match' state=!!id_tokens text='true' tag='li'>4 ID Tokens with 12 ID stickers</$reveal>
+</ul>
+</$reveal>

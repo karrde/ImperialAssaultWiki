@@ -1,0 +1,21 @@
+agenda_deck_dependant: true
+agenda_deck_name: Stormtrooper Support
+command_cards_count: 3
+command_cards_name: Rank and File, Squad Swarm, Rally the Troops
+created: 20160610192408738
+deployment_cards_count: 2
+deployment_cards_name: {{!!figure_name}}, Rule by Fear
+figure_count: 1
+figure_expansion: //Twin Shadows//
+figure_name: Kayn Somos
+figure_sub_title: Trooper Commander
+modified: 20160611120635646
+skirmish_map: Tython Meditation Field
+tags: [[Kayn Somos, Trooper Commander]]
+title: Kayn Somos, Trooper Commander
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

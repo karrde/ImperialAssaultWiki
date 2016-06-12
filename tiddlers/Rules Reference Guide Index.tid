@@ -1,5 +1,5 @@
 created: 20150113181837451
-modified: 20151122034534437
+modified: 20160612155210893
 title: Rules Reference Guide Index
 type: text/vnd.tiddlywiki
 
@@ -212,18 +212,18 @@ type: text/vnd.tiddlywiki
 ! Icons
 * [img[Ranged Attack.png]]: [[Ranged Attack]]
 * [img[Melee Attack.png]]: [[Melee Attack]]
-* [img[Damage.png]]: [[Damage]]
+* [img height=20 [Damage.svg]]: [[Damage]]
 * [img[Strain.png]]: [[Strain]]
-* [img[Surges.png]]: [[Surges]]
-* [img[Dodge.png]]: [[Dodge|Miss]]
-* [img[Evade.png]]: [[Evade|Surges]]
-* [img[Block.png]]: [[Block|Attacks]]
+* [img height=20 [Surges.svg]]: [[Surges]]
+* [img height=20 [Dodge.svg]]: [[Dodge|Miss]]
+* [img height=20 [Evade.svg]]: [[Evade|Surges]]
+* [img height=20 [Block.svg]]: [[Block|Attacks]]
 * [img[Threat.png]]: [[Threat]]
 
 * [[Affiliation]] 
-** [img[Rebel.png]]: Rebel
-** [img[Imperial.png]]: Imperial
-** [img[Mercenary.png]]: Mercenary
+** [img height=20 [Rebel.svg]]: Rebel
+** [img height=20 [Imperial.svg]]: Imperial
+** [img height=20 [Mercenary.svg]]: Mercenary
 
 * [[Attributes]]
 ** [img[Strength.png]]: Strength

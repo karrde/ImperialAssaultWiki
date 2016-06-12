@@ -1,0 +1,39 @@
+agenda_deck_name: Infiltration
+command_cards_count: 4
+command_cards_name: Comm Disruption, Cut Lines, Data Theft, Strategic Shift
+condition_card_count: 1
+condition_card_name: Hidden
+created: 20160610175157763
+deployment_cards_count: 3
+deployment_cards_name: 2 {{!!figure_name}}, Cross-Training
+figure_count: 2
+figure_expansion: //The Bespin Gambit//
+figure_name: ISB Infiltrator
+id_tokens: true
+modified: 20160611120627751
+reward_cards_count: 2
+reward_cards_name: Cautious Approach, Tactical Advance
+side_mission_color: gray
+side_mission_dependant: true
+side_mission_name: Into the Unknown
+skirmish_map: ISB Training Grounds
+tags: [[ISB Infiltrators]]
+title: ISB Infiltrators
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Mini Campaign
+<$transclude tiddler="ISB Infiltrators-Mini Campaign" mode="block"/>
+
+!Component Limitations
+<$transclude tiddler="Component Limitations" mode="block"/>
+
+!Hidden
+<$transclude tiddler="Hidden" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

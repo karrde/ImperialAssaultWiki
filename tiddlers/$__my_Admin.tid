@@ -1,0 +1,10 @@
+created: 20160611120733522
+modified: 20160611121709457
+tags: 
+title: $:/my/Admin
+type: text/vnd.tiddlywiki
+
+Templates:
+<$list filter="[search:title[$:/my/templates]]">
+
+</$list>

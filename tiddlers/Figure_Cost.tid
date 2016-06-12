@@ -1,0 +1,10 @@
+created: 20160608174716645
+modified: 20160608184116098
+tags: [[The Bespin Gambit Rulebook]]
+title: Figure Cost
+type: text/vnd.tiddlywiki
+
+Each figure in //Imperial Assault// has a figure cost that may be referenced by abilities and game effects.  A figure cost is one of two values:
+
+* If a deployment group has a starting group size of 1, that figure's cost is equal to the group's deployment cost.
+* If a deployment group has a starting group size of 2 or more, each figure in that group has a figure cost equal to the group's reinforcement cost.
