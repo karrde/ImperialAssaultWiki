@@ -1,0 +1,39 @@
+agenda_deck_dependant: true
+agenda_deck_name: Tusken Treachery
+command_cards_count: 6
+command_cards_name: Crush, Opportunistic, Jundland Terror x2, Parting Blow x2
+condition_card_count: 
+condition_card_name: 
+created: 20160615190604114
+deployment_cards_count: 2
+deployment_cards_name: {{!!figure_name}}, Beast Tamer
+figure_count: 1
+figure_expansion: Twin Shadows
+figure_name: Bantha Rider
+figure_sub_title: 
+id_tokens: 
+modified: 20160615190931839
+reward_cards_count: 1
+reward_cards_name: Tusken Weaponry
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: Coruscant Landfill
+tags: [[Bantha Rider]]
+title: Bantha Rider
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Limitations
+<$transclude tiddler="Component Limitations" mode="block"/>
+
+!Habitat
+<$transclude tiddler="Habitat" mode="block"/>
+
+!Tile Types
+<$transclude tiddler="Tile Types" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

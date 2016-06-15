@@ -1,5 +1,5 @@
 created: 20160610175227545
-modified: 20160611193251312
+modified: 20160613175006908
 tags: 
 title: $:/my/templates/pack_instructions
 type: text/vnd.tiddlywiki
@@ -20,6 +20,7 @@ This pack provides the <$link to=<<figure_name>> >{{!!figure_name}}</$link><$rev
 <$reveal type='nomatch' state=!!side_mission_name text='' tag='li'><$reveal type='match' state=!!side_mission_dependant text='true'>If you own the {{!!figure_expansion}} expansion, a</$reveal><$reveal type='nomatch' state=!!side_mission_dependant text='true'>A</$reveal>dd the Side Mission card to the pool of {{!!side_mission_color}} Side Mission cards.<$reveal type='match' state=!!side_mission_color text='green'>  The heroes can choose this card when building the Side Mission deck at the start of the campaign.</$reveal></$reveal>
 <li><$reveal type='match' state=!!skirmish_dependant text='true'>If you own the {{!!figure_expansion}} expansion, s</$reveal><$reveal type='nomatch' state=!!skirmish_dependant text='true'>S</$reveal>huffle the Skirmish Mission cards into the Skirmish Mission deck.  These cards use the "{{!!skirmish_map}}" skimirsh map.</li>
 <li>Add the Comand cards to the pool of cards that the player can use to build his Command deck.</li>
+<$reveal type='nomatch' state=!!reward_cards_name text='' tag='li'>Add the Reward card to the supply of Reward cards.</$reveal>
 <$reveal type='match' state=!!id_tokens text='true' tag='li'>ID tokens and stickers can be used to mark differnt groups corresponding to Deployment cards with the same name.</$reveal>
 </ul>
 </$reveal>

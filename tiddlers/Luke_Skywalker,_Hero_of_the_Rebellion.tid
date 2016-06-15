@@ -5,7 +5,7 @@ deployment_cards_count: 1
 deployment_cards_name: {{!!figure_name}}
 figure_count: 1
 figure_name: Luke Skywalker
-modified: 20160611195243528
+modified: 20160615174254300
 reward_cards_count: 1
 reward_cards_name: The Ways of the Force
 side_mission_color: gray

@@ -1,6 +1,6 @@
 created: 20160611120733522
-modified: 20160611121709457
-tags: 
+modified: 20160615182917311
+tags: $:/tage/PageControls
 title: $:/my/Admin
 type: text/vnd.tiddlywiki
 
@@ -8,3 +8,10 @@ Templates:
 <$list filter="[search:title[$:/my/templates]]">
 
 </$list>
+
+Skeletons:
+<$list filter="[search:title[$:/my/skeleton]]">
+
+</$list>
+
+<$button message="tm-new-tiddler" param="$:/my/skeleton/expansion_pack">New Expansion Pack</$button>

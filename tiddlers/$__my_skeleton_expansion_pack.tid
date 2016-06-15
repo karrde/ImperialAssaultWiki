@@ -1,0 +1,30 @@
+agenda_deck_dependant: 
+agenda_deck_name: 
+command_cards_count: 
+command_cards_name: 
+condition_card_count: 
+condition_card_name: 
+created: 20160615175808352
+deployment_cards_count: 
+deployment_cards_name: {{!!figure_name}}
+figure_count: 
+figure_expansion: 
+figure_name: 
+figure_sub_title: 
+id_tokens: 
+modified: 20160615182936447
+reward_cards_count: 
+reward_cards_name: 
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: 
+tags: 
+title: $:/my/skeleton/expansion_pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

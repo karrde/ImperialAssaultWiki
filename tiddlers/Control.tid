@@ -1,5 +1,5 @@
 created: 20150114032236499
-modified: 20160608195759336
+modified: 20160615185728037
 tags: [[Rules Reference Guide]] [[Return to Hoth Rulebook]]
 title: Control
 type: text/vnd.tiddlywiki
@@ -11,8 +11,6 @@ Many missions require players to control tiles or tokens.
 * A player controls a token if there is at least one friendly figure on or adjacent to the token and there are no hostile figures on or adjacent to the token.
 ** If both friendly and hostile figures are on or adjacent to the token, no one controls the token.
 
-Some skirmish missions require players to control deployment zones, in addition to tiles or tokens.
-
-* A player controls a deployment zone if there is at least one friendly figure in any space of that deployment zone ''and'' no hostile figures in any space of that deployment zone.
+<$transclude tiddler="$:/my/subtiddlers/Control-skirmish" mode="block"/>
 
 ''Related Topics:'' [[Adjacent]]

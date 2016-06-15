@@ -1,0 +1,9 @@
+created: 20160615185550141
+modified: 20160615185734220
+tags: 
+title: $:/my/subtiddlers/Control-skirmish
+type: text/vnd.tiddlywiki
+
+Some skirmish missions require players to control deployment zones, in addition to tiles or tokens.
+
+* A player controls a deployment zone if there is at least one friendly figure in any space of that deployment zone ''and'' no hostile figures in any space of that deployment zone.
