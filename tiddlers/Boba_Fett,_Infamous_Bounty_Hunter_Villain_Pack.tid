@@ -1,0 +1,36 @@
+agenda_deck_dependant: 
+agenda_deck_name: Soldiers for Hire
+command_cards_count: 3
+command_cards_name: Capture the Weary, Jump Jets, Mandalorian Tactics
+condition_card_count: 1
+condition_card_name: Weakened
+created: 20160617165956689
+deployment_cards_count: 2
+deployment_cards_name: Boba Fett, Explosive Armaments
+figure_count: 1
+figure_expansion: Twin Shadows
+figure_name: Boba Fett
+figure_sub_title: 
+id_tokens: 
+modified: 20160617170344406
+reward_cards_count: 
+reward_cards_name: 
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: true
+skirmish_map: Imperial Space Station
+tags: 
+title: Boba Fett, Infamous Bounty Hunter Villain Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Weakened
+<$transclude tiddler="Weakened" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

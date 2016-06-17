@@ -6,13 +6,13 @@ condition_card_count: 1
 condition_card_name: Hidden
 created: 20160615181946860
 deployment_cards_count: 2
-deployment_cards_name: {{!!figure_name}}, Heroic Effort
+deployment_cards_name: Lando Calrissian, Heroic Effort
 figure_count: 1
 figure_expansion: The Bespin Gambit
 figure_name: Lando Calrissian
 figure_sub_title: 
 id_tokens: 
-modified: 20160615182532036
+modified: 20160617163408383
 reward_cards_count: 1
 reward_cards_name: Lady Luck
 side_mission_color: gray
@@ -21,7 +21,7 @@ side_mission_name: Paying Debts
 skirmish_dependant: 
 skirmish_map: Lothal Safehouse
 tags: [[Lando Calrissian, Charming Gambler]]
-title: Lando Calrissian, Charming Gambler
+title: Lando Calrissian, Charming Gambler Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

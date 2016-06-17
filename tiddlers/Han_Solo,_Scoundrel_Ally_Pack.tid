@@ -2,18 +2,18 @@ command_cards_count: 6
 command_cards_name: Slippery Target x2, Reposition, Inspiring Speech, Disable, I Make my own Luck
 created: 20160613173033794
 deployment_cards_count: 1
-deployment_cards_name: {{!!figure_name}}
+deployment_cards_name: Han Solo
 figure_count: 1
 figure_name: Han Solo
 figure_sub_title: Scoundrel
-modified: 20160613173342271
+modified: 20160617162501554
 reward_cards_count: 1
 reward_cards_name: Quickdraw Holster
 side_mission_color: gray
 side_mission_name: Imperial Entaglements
 skirmish_map: Corellian Underground
 tags: [[Han Solo, Scoundrel]]
-title: Han Solo, Scoundrel
+title: Han Solo, Scoundrel Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

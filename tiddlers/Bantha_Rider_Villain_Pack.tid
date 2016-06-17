@@ -6,13 +6,13 @@ condition_card_count:
 condition_card_name: 
 created: 20160615190604114
 deployment_cards_count: 2
-deployment_cards_name: {{!!figure_name}}, Beast Tamer
+deployment_cards_name: Bantha Rider, Beast Tamer
 figure_count: 1
 figure_expansion: Twin Shadows
 figure_name: Bantha Rider
 figure_sub_title: 
 id_tokens: 
-modified: 20160615190931839
+modified: 20160617162153776
 reward_cards_count: 1
 reward_cards_name: Tusken Weaponry
 side_mission_color: 
@@ -21,7 +21,7 @@ side_mission_name:
 skirmish_dependant: 
 skirmish_map: Coruscant Landfill
 tags: [[Bantha Rider]]
-title: Bantha Rider
+title: Bantha Rider Villain Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

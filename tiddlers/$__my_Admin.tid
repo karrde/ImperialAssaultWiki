@@ -1,6 +1,5 @@
 created: 20160611120733522
-modified: 20160615182917311
-tags: $:/tage/PageControls
+modified: 20160617144225167
 title: $:/my/Admin
 type: text/vnd.tiddlywiki
 
@@ -11,6 +10,11 @@ Templates:
 
 Skeletons:
 <$list filter="[search:title[$:/my/skeleton]]">
+
+</$list>
+
+Scripts:
+<$list filter="[search:title[$:/my/scripts]]">
 
 </$list>
 

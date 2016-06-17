@@ -1,0 +1,39 @@
+agenda_deck_dependant: 
+agenda_deck_name: 
+command_cards_count: 5
+command_cards_name: Hard to Hit, Single Purpose, Devotion, Terminal Network, Etiquette and Protocol
+condition_card_count: 1
+condition_card_name: Weakened
+created: 20160617172737255
+deployment_cards_count: 3
+deployment_cards_name: C-3PO, 2 R2-D2
+figure_count: 2
+figure_expansion: Twin Shadows
+figure_name: R2-D2, C-3PO
+figure_sub_title: 
+id_tokens: 
+modified: 20160617173211157
+reward_cards_count: 
+reward_cards_name: 
+side_mission_color: green
+side_mission_dependant: true
+side_mission_name: Open to Interpretation
+skirmish_dependant: 
+skirmish_map: Wasteland Outpost
+tags: [[R2-D2 and C-3PO]]
+title: R2-D2 and C-3PO Ally Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Weakened
+<$transclude tiddler="Weakened" mode="block"/>
+
+!"You"
+<$transclude tiddler='"You"' mode="block"/>
+
+!Deployment Card Restrictions
+<$transclude tiddler="Deployment Card Restrictions" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

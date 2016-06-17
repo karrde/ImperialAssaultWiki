@@ -1,0 +1,30 @@
+agenda_deck_dependant: 
+agenda_deck_name: The general's Scheme
+command_cards_count: 6
+command_cards_name: Explosive Weaponary x2, Overrun, Heavy Armor, New Orders, Endless Reserves
+condition_card_count: 
+condition_card_name: 
+created: 20160617170404329
+deployment_cards_count: 2
+deployment_cards_name: General Weiss, AT-ST
+figure_count: 1
+figure_expansion: 
+figure_name: General Weiss
+figure_sub_title: 
+id_tokens: 
+modified: 20160617170616651
+reward_cards_count: 
+reward_cards_name: 
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: Imperial Research Lab
+tags: [[General Weiss, Field Commander]]
+title: General Weiss, Field Commander Villain Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

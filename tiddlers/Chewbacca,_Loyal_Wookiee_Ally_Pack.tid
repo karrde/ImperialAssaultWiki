@@ -2,17 +2,17 @@ command_cards_name: Wookiee Rage x2, Roar, Hold Ground, Adrenaline, Debts Repaid
 condition_card_count: 6
 created: 20160613173556548
 deployment_cards_count: 1
-deployment_cards_name: {{!!figure_name}}
+deployment_cards_name: Chewbacca
 figure_count: 1
 figure_name: Chewbacca
-modified: 20160613174329707
+modified: 20160617162300091
 reward_cards_count: 1
 reward_cards_name: Intimidation
 side_mission_color: gray
 side_mission_name: Celebration
 skirmish_map: Imperial Labor Camp
 tags: 
-title: Chewbacca, Loyal Wookiee
+title: Chewbacca, Loyal Wookiee Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

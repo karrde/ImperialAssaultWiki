@@ -1,27 +1,27 @@
 agenda_deck_dependant: true
-agenda_deck_name: Bombardment
+agenda_deck_name: Punishing Tactics
 command_cards_count: 3
-command_cards_name: Optimal Bombardments, Fuel Upgrade, Field Tactician
+command_cards_name: Ultimate Vengeance, Brace Yourself, Dangerous Bargains
 condition_card_count: 
 condition_card_name: 
-created: 20160615182758311
+created: 20160615185817601
 deployment_cards_count: 2
-deployment_cards_name: {{!!figure_name}}, The General's Ranks
+deployment_cards_name: Dengar, Punishing Strike
 figure_count: 1
-figure_expansion: Return to Hoth
-figure_name: General Sorin
-figure_sub_title: Vicious Tactician
+figure_expansion: 
+figure_name: Dengar
+figure_sub_title: Ruthless Killer
 id_tokens: 
-modified: 20160615185757053
+modified: 20160617162328188
 reward_cards_count: 
 reward_cards_name: 
 side_mission_color: 
 side_mission_dependant: 
 side_mission_name: 
 skirmish_dependant: true
-skirmish_map: Climate Research Camp
-tags: [[General Sorin, Vicious Tactician]]
-title: General Sorin, Vicious Tactician
+skirmish_map: Hoth Battle Station
+tags: [[Dengar, Ruthless Killer]]
+title: Dengar, Ruthless Killer Villain Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
@@ -29,8 +29,8 @@ type: text/vnd.tiddlywiki
 !Control
 <$transclude tiddler="$:/my/subtiddlers/Control-skirmish" mode="block"/>
 
-!Skirmish Attachments
-<$transclude tiddler="Skirmish Attachments" mode="block"/>
+!"You"
+<$transclude tiddler='"You"' mode="block"/>
 
 !Component Breakdown
 <$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

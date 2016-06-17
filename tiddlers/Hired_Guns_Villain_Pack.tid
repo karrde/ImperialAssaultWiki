@@ -1,0 +1,36 @@
+agenda_deck_dependant: 
+agenda_deck_name: Nefarious Dealings
+command_cards_count: 4
+command_cards_name: Slippery Target x2, Smuggled Supplies, Of No Importance
+condition_card_count: 
+condition_card_name: 
+created: 20160617171913463
+deployment_cards_count: 3
+deployment_cards_name: 2 Hired Gun, Last Resort
+figure_count: 2
+figure_expansion: 
+figure_name: Hired Gun
+figure_sub_title: 
+id_tokens: true
+modified: 20160617172653205
+reward_cards_count: 1
+reward_cards_name: Mercenary Ties
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: Sewers of Nar Shaddaa
+tags: [[Hired Guns]]
+title: Hired Guns Villain Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Limitations
+<$transclude tiddler="Component Limitations" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

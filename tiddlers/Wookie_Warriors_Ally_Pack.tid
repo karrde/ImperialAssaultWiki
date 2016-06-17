@@ -2,16 +2,16 @@ command_cards_count: 4
 command_cards_name: Parting Blow x2, Wild Fury, Improvised Weapons
 created: 20160610192515196
 deployment_cards_count: 3
-deployment_cards_name: 2 {{!!figure_name}}, Fury of Kashyyyk
+deployment_cards_name: 2 Wookie Warrior, Fury of Kashyyyk
 figure_count: 2
 figure_name: Wookie Warrior
 id_tokens: true
-modified: 20160611120707673
+modified: 20160617164958390
 side_mission_color: green
 side_mission_name: Brute Force
 skirmish_map: Development Facility
 tags: [[Wookie Warriors]]
-title: Wookie Warriors
+title: Wookie Warriors Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

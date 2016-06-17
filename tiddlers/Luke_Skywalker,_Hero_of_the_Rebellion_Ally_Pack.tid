@@ -2,17 +2,17 @@ command_cards_count: 6
 command_cards_name: Deflection x2, Telekinetic Throw, Meditation, Knowledge and Defense, Son of Skywalker
 created: 20160611121802781
 deployment_cards_count: 1
-deployment_cards_name: {{!!figure_name}}
+deployment_cards_name: Luke Skywalker
 figure_count: 1
 figure_name: Luke Skywalker
-modified: 20160615174254300
+modified: 20160617164704712
 reward_cards_count: 1
 reward_cards_name: The Ways of the Force
 side_mission_color: gray
 side_mission_name: Sympathy for the Rebellion
 skirmish_map: Moisture Farm
 tags: [[Luke Skywalker, Hero of the Rebellion]]
-title: Luke Skywalker, Hero of the Rebellion
+title: Luke Skywalker, Hero of the Rebellion Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

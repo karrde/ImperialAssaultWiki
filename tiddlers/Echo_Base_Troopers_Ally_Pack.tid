@@ -2,19 +2,19 @@ command_cards_count: 3
 command_cards_name: Against the Odds, Efficient Travel, Hit and Run
 created: 20160615174818697
 deployment_cards_count: 3
-deployment_cards_name: 2 {{!!figure_name}}, Combat Suit
+deployment_cards_name: 2 Echo Base Trooper, Combat Suit
 figure_count: 2
 figure_expansion: Return to Hoth
 figure_name: Echo Base Trooper
 id_tokens: true
-modified: 20160615174822788
+modified: 20160617162401659
 side_mission_color: green
 side_mission_dependant: true
 side_mission_name: Snow Crash
 skirmish_dependant: true
 skirmish_map: Hoth Weather Shelter
 tags: [[Echo Base Troopers]]
-title: Echo Base Troopers
+title: Echo Base Troopers Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

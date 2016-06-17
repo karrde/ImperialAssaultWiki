@@ -2,16 +2,16 @@ command_cards_count: 6
 command_cards_name: Collect Intel x2, Hide in Plain Sight, Lock On, Change of Plans, Emergency Aid
 created: 20160610193028193
 deployment_cards_count: 2
-deployment_cards_name: 2 {{!!figure_name}}
+deployment_cards_name: 2 Rebel Saboteur
 figure_count: 2
 figure_name: Rebel Saboteur
 id_tokens: true
-modified: 20160611120644284
+modified: 20160617164803525
 side_mission_color: green
 side_mission_name: Armed and Operational
 skirmish_map: Endor Wilderness
 tags: [[Rebel Saboteurs]]
-title: Rebel Saboteurs
+title: Rebel Saboteurs Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

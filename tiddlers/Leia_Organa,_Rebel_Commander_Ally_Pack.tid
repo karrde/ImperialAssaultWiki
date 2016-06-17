@@ -2,18 +2,18 @@ command_cards_count: 3
 command_cards_name: There is Another, I Can Feel It, Behind Enemy Lines
 created: 20160615174841171
 deployment_cards_count: 3
-deployment_cards_name: 2 {{!!figure_name}}, On a Diplomatic Mission
+deployment_cards_name: 2 Leia Organa, On a Diplomatic Mission
 figure_count: 1
 figure_name: Leia Organa
 figure_sub_title: Rebel Commander
-modified: 20160615191532725
+modified: 20160617163430231
 side_mission_color: green
 side_mission_dependant: true
 side_mission_name: Communication Breakdown
 skirmish_dependant: true
 skirmish_map: Nelvaanian War Zone
 tags: [[Leia Organa, Rebel Commander]]
-title: Leia Organa, Rebel Commander
+title: Leia Organa, Rebel Commander Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>

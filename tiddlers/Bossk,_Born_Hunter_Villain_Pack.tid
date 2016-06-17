@@ -1,0 +1,33 @@
+agenda_deck_dependant: true
+agenda_deck_name: Base Instincts
+command_cards_count: 4
+command_cards_name: Disorient, Grisly Contest, Trandoshan Terror, Wild Attack
+condition_card_count: 
+condition_card_name: 
+created: 20160617165035894
+deployment_cards_count: 2
+deployment_cards_name: Bossk, Headhunter
+figure_count: 1
+figure_expansion: The Bespin Gambit
+figure_name: Bossk
+figure_sub_title: 
+id_tokens: 
+modified: 20160617165910352
+reward_cards_count: 
+reward_cards_name: 
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: Wasskah Hunting Ground
+tags: 
+title: Bossk, Born Hunter Villain Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

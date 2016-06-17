@@ -1,0 +1,31 @@
+created: 20160615192920605
+modified: 20160617163644869
+module-type: macro
+tags: $:/tags/Macro
+title: $:/my/scripts/linkcards.js
+type: application/javascript
+
+(function() {
+
+"use strict";
+
+/*
+List all field values as comma separated list of clickable links.
+*/
+
+exports.name = "linkcards";
+
+exports.params = [
+	{name: "text"}
+];
+
+/*
+Run the macro
+*/
+exports.run = function(text) {
+  var vartext = "[["+text.split(",").join("]], [[")+"]]";
+  
+  return vartext.replace(/\s?(x\d+)]]/g, "]] $1").replace(/\[\[(\d+)\s+/g, "$1 [[");
+};
+
+})();

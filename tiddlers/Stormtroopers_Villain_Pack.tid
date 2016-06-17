@@ -1,0 +1,36 @@
+agenda_deck_dependant: 
+agenda_deck_name: Vader's Fist
+command_cards_count: 4
+command_cards_name: Reinforcements x2, Set For Stun, Stealth Tactics
+condition_card_count: 
+condition_card_name: 
+created: 20160617172435946
+deployment_cards_count: 3
+deployment_cards_name: 2 Stormtrooper, Vader's Finest
+figure_count: 3
+figure_expansion: 
+figure_name: Stormtrooper
+figure_sub_title: 
+id_tokens: true
+modified: 20160617172725112
+reward_cards_count: 1
+reward_cards_name: 501st Training
+side_mission_color: 
+side_mission_dependant: 
+side_mission_name: 
+skirmish_dependant: 
+skirmish_map: Training Ground
+tags: Stormtroopers
+title: Stormtroopers Villain Pack
+type: text/vnd.tiddlywiki
+
+<$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
+
+!Component Limitations
+<$transclude tiddler="Component Limitations" mode="block"/>
+
+!Skirmish Attachments
+<$transclude tiddler="Skirmish Attachments" mode="block"/>
+
+!Component Breakdown
+<$transclude tiddler="$:/my/templates/component_breakdown" mode="block"/>

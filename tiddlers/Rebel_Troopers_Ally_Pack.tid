@@ -1,17 +1,17 @@
 command_cards_count: 6
-command_cards_name: [[Reinforcements]] x2, [[Grenadier]], [[Provoke]], [[Strength in Numbers]], [[Focus]]
+command_cards_name: Reinforcements x2, Grenadier, Provoke, Strength in Numbers, Focus
 created: 20160610193540999
 deployment_cards_count: 2
-deployment_cards_name: 2 {{!!figure_name}}
+deployment_cards_name: 2 Rebel Trooper
 figure_count: 3
 figure_name: Rebel Trooper
 id_tokens: true
-modified: 20160611120656458
+modified: 20160617164923869
 side_mission_color: green
 side_mission_name: Brace for Impact
 skirmish_map: Geonosis Foundry
 tags: [[Rebel Troopers]]
-title: Rebel Troopers
+title: Rebel Troopers Ally Pack
 type: text/vnd.tiddlywiki
 
 <$transclude tiddler="$:/my/templates/pack_instructions" mode="block"/>
